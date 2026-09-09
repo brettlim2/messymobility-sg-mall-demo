@@ -1,0 +1,59 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Large local mobility warehouses / extracts (not for GitHub)
+data/veraset_scratch/
+data/veraset.duckdb
+data/veraset_shadow_june.duckdb
+data/mall_shadow_june.duckdb
+data/duckdb_tmp/
+data/embeddings/
+data/osrm/
+data/shadow_june/*.parquet
+data/datagov/hdb_resale_prices_2017onwards.csv
+data/datagov/acra_entities.csv
+data/datagov/landuse_mp2019.geojson
+data/datagov/hdb_buildings.geojson
+Veraset Mobility Data.zip
+*.duckdb
+*.duckdb.wal
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.venv/
+.venv313/
+__pycache__/
+*.pyc
+.claude/
+.env
+
+# Nested / bulky local folders
+VectorMobility_Pitch/
+
+# LTA DataMall raw feeds (large; refetch via `python3 -m analytics lta`)
+data/datagov/lta_*.csv
+data/datagov/train_station_codes.csv
+
+# URA Master Plan geojsons (large / refetchable via analytics.fetch_datagov.ensure_landuse)
+data/datagov/landuse_mp2025.geojson
+data/datagov/planning_areas_mp2025.geojson

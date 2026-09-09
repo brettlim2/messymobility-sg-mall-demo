@@ -1,0 +1,1842 @@
+{
+  "resolution_policy": {
+    "default": "mall_and_zone",
+    "store_footfall": "suppressed_until_verified",
+    "floor_shares": "suppressed_until_calibrated",
+    "note": "Emit store/floor only when abstention policy and verified journeys pass gates."
+  },
+  "pilots": [
+    {
+      "mall_id": "jem",
+      "name": "JEM",
+      "structure": "town_centre_transit",
+      "validated": false,
+      "version": "2026-09-06.v1"
+    },
+    {
+      "mall_id": "vivocity",
+      "name": "VivoCity",
+      "structure": "harbourfront_destination",
+      "validated": false,
+      "version": "2026-09-06.v1"
+    },
+    {
+      "mall_id": "waterway_point",
+      "name": "Waterway Point",
+      "structure": "suburban_heartland",
+      "validated": false,
+      "version": "2026-09-06.v1"
+    }
+  ],
+  "sessions": {
+    "totals": {
+      "sessions": 17290,
+      "devices": 11501,
+      "visitor_sessions": 16038,
+      "visitor_devices": 11319,
+      "med_dwell_min": 68.4
+    },
+    "by_mall": [
+      {
+        "mall_id": "jem",
+        "mall": "JEM",
+        "visitor_sessions": 5749,
+        "visitors": 4267,
+        "med_dwell_min": 67.0,
+        "grab_share": 0.142,
+        "browse_share": 0.483,
+        "day_out_share": 0.375
+      },
+      {
+        "mall_id": "vivocity",
+        "mall": "VivoCity",
+        "visitor_sessions": 5385,
+        "visitors": 4099,
+        "med_dwell_min": 71.0,
+        "grab_share": 0.118,
+        "browse_share": 0.471,
+        "day_out_share": 0.412
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall": "Waterway Point",
+        "visitor_sessions": 4904,
+        "visitors": 3317,
+        "med_dwell_min": 59.1,
+        "grab_share": 0.154,
+        "browse_share": 0.545,
+        "day_out_share": 0.302
+      }
+    ],
+    "holiday_slice": [
+      {
+        "mall_id": "jem",
+        "d": "2026-06-01",
+        "visitors": 595
+      },
+      {
+        "mall_id": "jem",
+        "d": "2026-06-02",
+        "visitors": 671
+      },
+      {
+        "mall_id": "jem",
+        "d": "2026-06-03",
+        "visitors": 729
+      },
+      {
+        "mall_id": "jem",
+        "d": "2026-06-04",
+        "visitors": 765
+      },
+      {
+        "mall_id": "jem",
+        "d": "2026-06-05",
+        "visitors": 837
+      },
+      {
+        "mall_id": "jem",
+        "d": "2026-06-06",
+        "visitors": 879
+      },
+      {
+        "mall_id": "jem",
+        "d": "2026-06-07",
+        "visitors": 835
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-01",
+        "visitors": 460
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-02",
+        "visitors": 471
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-03",
+        "visitors": 636
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-04",
+        "visitors": 633
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-05",
+        "visitors": 707
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-06",
+        "visitors": 999
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-07",
+        "visitors": 940
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-01",
+        "visitors": 507
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-02",
+        "visitors": 474
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-03",
+        "visitors": 715
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-04",
+        "visitors": 615
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-05",
+        "visitors": 611
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-06",
+        "visitors": 718
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-07",
+        "visitors": 730
+      }
+    ]
+  },
+  "rhythms": [
+    {
+      "mall_id": "jem",
+      "h": 0,
+      "daytype": "weekday",
+      "visitors": 7
+    },
+    {
+      "mall_id": "jem",
+      "h": 5,
+      "daytype": "weekday",
+      "visitors": 5
+    },
+    {
+      "mall_id": "jem",
+      "h": 6,
+      "daytype": "weekday",
+      "visitors": 32
+    },
+    {
+      "mall_id": "jem",
+      "h": 7,
+      "daytype": "weekday",
+      "visitors": 58
+    },
+    {
+      "mall_id": "jem",
+      "h": 8,
+      "daytype": "weekday",
+      "visitors": 151
+    },
+    {
+      "mall_id": "jem",
+      "h": 9,
+      "daytype": "weekday",
+      "visitors": 128
+    },
+    {
+      "mall_id": "jem",
+      "h": 10,
+      "daytype": "weekday",
+      "visitors": 160
+    },
+    {
+      "mall_id": "jem",
+      "h": 11,
+      "daytype": "weekday",
+      "visitors": 200
+    },
+    {
+      "mall_id": "jem",
+      "h": 12,
+      "daytype": "weekday",
+      "visitors": 259
+    },
+    {
+      "mall_id": "jem",
+      "h": 13,
+      "daytype": "weekday",
+      "visitors": 253
+    },
+    {
+      "mall_id": "jem",
+      "h": 14,
+      "daytype": "weekday",
+      "visitors": 209
+    },
+    {
+      "mall_id": "jem",
+      "h": 15,
+      "daytype": "weekday",
+      "visitors": 220
+    },
+    {
+      "mall_id": "jem",
+      "h": 16,
+      "daytype": "weekday",
+      "visitors": 226
+    },
+    {
+      "mall_id": "jem",
+      "h": 17,
+      "daytype": "weekday",
+      "visitors": 263
+    },
+    {
+      "mall_id": "jem",
+      "h": 18,
+      "daytype": "weekday",
+      "visitors": 373
+    },
+    {
+      "mall_id": "jem",
+      "h": 19,
+      "daytype": "weekday",
+      "visitors": 278
+    },
+    {
+      "mall_id": "jem",
+      "h": 20,
+      "daytype": "weekday",
+      "visitors": 163
+    },
+    {
+      "mall_id": "jem",
+      "h": 21,
+      "daytype": "weekday",
+      "visitors": 53
+    },
+    {
+      "mall_id": "jem",
+      "h": 22,
+      "daytype": "weekday",
+      "visitors": 32
+    },
+    {
+      "mall_id": "jem",
+      "h": 23,
+      "daytype": "weekday",
+      "visitors": 13
+    },
+    {
+      "mall_id": "jem",
+      "h": 6,
+      "daytype": "weekend",
+      "visitors": 20
+    },
+    {
+      "mall_id": "jem",
+      "h": 7,
+      "daytype": "weekend",
+      "visitors": 17
+    },
+    {
+      "mall_id": "jem",
+      "h": 8,
+      "daytype": "weekend",
+      "visitors": 45
+    },
+    {
+      "mall_id": "jem",
+      "h": 9,
+      "daytype": "weekend",
+      "visitors": 80
+    },
+    {
+      "mall_id": "jem",
+      "h": 10,
+      "daytype": "weekend",
+      "visitors": 118
+    },
+    {
+      "mall_id": "jem",
+      "h": 11,
+      "daytype": "weekend",
+      "visitors": 138
+    },
+    {
+      "mall_id": "jem",
+      "h": 12,
+      "daytype": "weekend",
+      "visitors": 161
+    },
+    {
+      "mall_id": "jem",
+      "h": 13,
+      "daytype": "weekend",
+      "visitors": 174
+    },
+    {
+      "mall_id": "jem",
+      "h": 14,
+      "daytype": "weekend",
+      "visitors": 133
+    },
+    {
+      "mall_id": "jem",
+      "h": 15,
+      "daytype": "weekend",
+      "visitors": 133
+    },
+    {
+      "mall_id": "jem",
+      "h": 16,
+      "daytype": "weekend",
+      "visitors": 139
+    },
+    {
+      "mall_id": "jem",
+      "h": 17,
+      "daytype": "weekend",
+      "visitors": 200
+    },
+    {
+      "mall_id": "jem",
+      "h": 18,
+      "daytype": "weekend",
+      "visitors": 190
+    },
+    {
+      "mall_id": "jem",
+      "h": 19,
+      "daytype": "weekend",
+      "visitors": 122
+    },
+    {
+      "mall_id": "jem",
+      "h": 20,
+      "daytype": "weekend",
+      "visitors": 98
+    },
+    {
+      "mall_id": "jem",
+      "h": 21,
+      "daytype": "weekend",
+      "visitors": 29
+    },
+    {
+      "mall_id": "jem",
+      "h": 22,
+      "daytype": "weekend",
+      "visitors": 9
+    },
+    {
+      "mall_id": "jem",
+      "h": 23,
+      "daytype": "weekend",
+      "visitors": 8
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 0,
+      "daytype": "weekday",
+      "visitors": 10
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 1,
+      "daytype": "weekday",
+      "visitors": 6
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 4,
+      "daytype": "weekday",
+      "visitors": 7
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 5,
+      "daytype": "weekday",
+      "visitors": 10
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 6,
+      "daytype": "weekday",
+      "visitors": 18
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 7,
+      "daytype": "weekday",
+      "visitors": 34
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 8,
+      "daytype": "weekday",
+      "visitors": 100
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 9,
+      "daytype": "weekday",
+      "visitors": 103
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 10,
+      "daytype": "weekday",
+      "visitors": 144
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 11,
+      "daytype": "weekday",
+      "visitors": 175
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 12,
+      "daytype": "weekday",
+      "visitors": 245
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 13,
+      "daytype": "weekday",
+      "visitors": 204
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 14,
+      "daytype": "weekday",
+      "visitors": 217
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 15,
+      "daytype": "weekday",
+      "visitors": 180
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 16,
+      "daytype": "weekday",
+      "visitors": 202
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 17,
+      "daytype": "weekday",
+      "visitors": 197
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 18,
+      "daytype": "weekday",
+      "visitors": 258
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 19,
+      "daytype": "weekday",
+      "visitors": 224
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 20,
+      "daytype": "weekday",
+      "visitors": 153
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 21,
+      "daytype": "weekday",
+      "visitors": 68
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 22,
+      "daytype": "weekday",
+      "visitors": 31
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 23,
+      "daytype": "weekday",
+      "visitors": 22
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 0,
+      "daytype": "weekend",
+      "visitors": 11
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 6,
+      "daytype": "weekend",
+      "visitors": 6
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 7,
+      "daytype": "weekend",
+      "visitors": 9
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 8,
+      "daytype": "weekend",
+      "visitors": 78
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 9,
+      "daytype": "weekend",
+      "visitors": 71
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 10,
+      "daytype": "weekend",
+      "visitors": 99
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 11,
+      "daytype": "weekend",
+      "visitors": 140
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 12,
+      "daytype": "weekend",
+      "visitors": 190
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 13,
+      "daytype": "weekend",
+      "visitors": 161
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 14,
+      "daytype": "weekend",
+      "visitors": 183
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 15,
+      "daytype": "weekend",
+      "visitors": 166
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 16,
+      "daytype": "weekend",
+      "visitors": 217
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 17,
+      "daytype": "weekend",
+      "visitors": 209
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 18,
+      "daytype": "weekend",
+      "visitors": 202
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 19,
+      "daytype": "weekend",
+      "visitors": 159
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 20,
+      "daytype": "weekend",
+      "visitors": 123
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 21,
+      "daytype": "weekend",
+      "visitors": 67
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 22,
+      "daytype": "weekend",
+      "visitors": 30
+    },
+    {
+      "mall_id": "vivocity",
+      "h": 23,
+      "daytype": "weekend",
+      "visitors": 7
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 0,
+      "daytype": "weekday",
+      "visitors": 24
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 1,
+      "daytype": "weekday",
+      "visitors": 9
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 2,
+      "daytype": "weekday",
+      "visitors": 12
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 3,
+      "daytype": "weekday",
+      "visitors": 7
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 4,
+      "daytype": "weekday",
+      "visitors": 10
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 5,
+      "daytype": "weekday",
+      "visitors": 10
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 6,
+      "daytype": "weekday",
+      "visitors": 28
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 7,
+      "daytype": "weekday",
+      "visitors": 53
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 8,
+      "daytype": "weekday",
+      "visitors": 144
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 9,
+      "daytype": "weekday",
+      "visitors": 140
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 10,
+      "daytype": "weekday",
+      "visitors": 129
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 11,
+      "daytype": "weekday",
+      "visitors": 174
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 12,
+      "daytype": "weekday",
+      "visitors": 221
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 13,
+      "daytype": "weekday",
+      "visitors": 160
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 14,
+      "daytype": "weekday",
+      "visitors": 169
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 15,
+      "daytype": "weekday",
+      "visitors": 152
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 16,
+      "daytype": "weekday",
+      "visitors": 173
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 17,
+      "daytype": "weekday",
+      "visitors": 192
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 18,
+      "daytype": "weekday",
+      "visitors": 229
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 19,
+      "daytype": "weekday",
+      "visitors": 212
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 20,
+      "daytype": "weekday",
+      "visitors": 152
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 21,
+      "daytype": "weekday",
+      "visitors": 65
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 22,
+      "daytype": "weekday",
+      "visitors": 49
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 23,
+      "daytype": "weekday",
+      "visitors": 21
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 0,
+      "daytype": "weekend",
+      "visitors": 12
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 1,
+      "daytype": "weekend",
+      "visitors": 7
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 7,
+      "daytype": "weekend",
+      "visitors": 24
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 8,
+      "daytype": "weekend",
+      "visitors": 109
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 9,
+      "daytype": "weekend",
+      "visitors": 84
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 10,
+      "daytype": "weekend",
+      "visitors": 100
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 11,
+      "daytype": "weekend",
+      "visitors": 116
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 12,
+      "daytype": "weekend",
+      "visitors": 115
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 13,
+      "daytype": "weekend",
+      "visitors": 114
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 14,
+      "daytype": "weekend",
+      "visitors": 85
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 15,
+      "daytype": "weekend",
+      "visitors": 107
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 16,
+      "daytype": "weekend",
+      "visitors": 113
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 17,
+      "daytype": "weekend",
+      "visitors": 120
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 18,
+      "daytype": "weekend",
+      "visitors": 156
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 19,
+      "daytype": "weekend",
+      "visitors": 134
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 20,
+      "daytype": "weekend",
+      "visitors": 128
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 21,
+      "daytype": "weekend",
+      "visitors": 36
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 22,
+      "daytype": "weekend",
+      "visitors": 24
+    },
+    {
+      "mall_id": "waterway_point",
+      "h": 23,
+      "daytype": "weekend",
+      "visitors": 15
+    }
+  ],
+  "catchment": [
+    {
+      "mall_id": "jem",
+      "mall": "JEM",
+      "visitors": 2655,
+      "med_home_km": 4.91,
+      "share_local_3km": 0.298
+    },
+    {
+      "mall_id": "vivocity",
+      "mall": "VivoCity",
+      "visitors": 2445,
+      "med_home_km": 12.49,
+      "share_local_3km": 0.156
+    },
+    {
+      "mall_id": "waterway_point",
+      "mall": "Waterway Point",
+      "visitors": 1765,
+      "med_home_km": 1.98,
+      "share_local_3km": 0.629
+    }
+  ],
+  "overlap": [
+    {
+      "mall_a": "jem",
+      "mall_b": "vivocity",
+      "shared_devices": 204,
+      "a_devices": 4267,
+      "b_devices": 4099,
+      "overlap_share": 0.05
+    },
+    {
+      "mall_a": "vivocity",
+      "mall_b": "waterway_point",
+      "shared_devices": 125,
+      "a_devices": 4099,
+      "b_devices": 3317,
+      "overlap_share": 0.038
+    },
+    {
+      "mall_a": "jem",
+      "mall_b": "waterway_point",
+      "shared_devices": 37,
+      "a_devices": 4267,
+      "b_devices": 3317,
+      "overlap_share": 0.011
+    }
+  ],
+  "abstention": [
+    {
+      "action": "mall_only",
+      "emit_level": "mall",
+      "stops": 14596,
+      "mean_entropy": 1.245,
+      "mean_margin": 0.378,
+      "mean_top_p": 0.553
+    },
+    {
+      "action": "zone_floor",
+      "emit_level": "zone",
+      "stops": 3237,
+      "mean_entropy": 0.975,
+      "mean_margin": 0.457,
+      "mean_top_p": 0.666
+    }
+  ],
+  "zone_expected": [
+    {
+      "mall_id": "jem",
+      "mall_name": "JEM",
+      "state_kind": "anchor",
+      "floor": "L1",
+      "expected_visits": 1627.5,
+      "devices": 4131
+    },
+    {
+      "mall_id": "jem",
+      "mall_name": "JEM",
+      "state_kind": "entrance",
+      "floor": "L1",
+      "expected_visits": 414.6,
+      "devices": 3050
+    },
+    {
+      "mall_id": "jem",
+      "mall_name": "JEM",
+      "state_kind": "entertainment",
+      "floor": "L1",
+      "expected_visits": 387.9,
+      "devices": 2748
+    },
+    {
+      "mall_id": "jem",
+      "mall_name": "JEM",
+      "state_kind": "food",
+      "floor": "L1",
+      "expected_visits": 161.7,
+      "devices": 2323
+    },
+    {
+      "mall_id": "jem",
+      "mall_name": "JEM",
+      "state_kind": "floor",
+      "floor": "B1",
+      "expected_visits": 146.9,
+      "devices": 4267
+    },
+    {
+      "mall_id": "jem",
+      "mall_name": "JEM",
+      "state_kind": "floor",
+      "floor": "L1",
+      "expected_visits": 146.2,
+      "devices": 4267
+    },
+    {
+      "mall_id": "jem",
+      "mall_name": "JEM",
+      "state_kind": "floor",
+      "floor": "L2",
+      "expected_visits": 145.4,
+      "devices": 4267
+    },
+    {
+      "mall_id": "jem",
+      "mall_name": "JEM",
+      "state_kind": "floor",
+      "floor": "L3",
+      "expected_visits": 144.6,
+      "devices": 4267
+    },
+    {
+      "mall_id": "jem",
+      "mall_name": "JEM",
+      "state_kind": "floor",
+      "floor": "L4",
+      "expected_visits": 143.8,
+      "devices": 4267
+    },
+    {
+      "mall_id": "jem",
+      "mall_name": "JEM",
+      "state_kind": "floor",
+      "floor": "L5",
+      "expected_visits": 142.6,
+      "devices": 4265
+    },
+    {
+      "mall_id": "jem",
+      "mall_name": "JEM",
+      "state_kind": "corridor",
+      "floor": "L1",
+      "expected_visits": 133.9,
+      "devices": 3596
+    },
+    {
+      "mall_id": "jem",
+      "mall_name": "JEM",
+      "state_kind": "parking",
+      "floor": "L1",
+      "expected_visits": 97.4,
+      "devices": 2451
+    },
+    {
+      "mall_id": "vivocity",
+      "mall_name": "VivoCity",
+      "state_kind": "anchor",
+      "floor": "L1",
+      "expected_visits": 965.5,
+      "devices": 3230
+    },
+    {
+      "mall_id": "vivocity",
+      "mall_name": "VivoCity",
+      "state_kind": "entertainment",
+      "floor": "L1",
+      "expected_visits": 749.1,
+      "devices": 3185
+    },
+    {
+      "mall_id": "vivocity",
+      "mall_name": "VivoCity",
+      "state_kind": "entrance",
+      "floor": "L1",
+      "expected_visits": 126.6,
+      "devices": 2032
+    },
+    {
+      "mall_id": "vivocity",
+      "mall_name": "VivoCity",
+      "state_kind": "food",
+      "floor": "L1",
+      "expected_visits": 91.8,
+      "devices": 2017
+    },
+    {
+      "mall_id": "vivocity",
+      "mall_name": "VivoCity",
+      "state_kind": "corridor",
+      "floor": "L1",
+      "expected_visits": 56.4,
+      "devices": 1790
+    },
+    {
+      "mall_id": "vivocity",
+      "mall_name": "VivoCity",
+      "state_kind": "floor",
+      "floor": "B2",
+      "expected_visits": 52.9,
+      "devices": 3892
+    },
+    {
+      "mall_id": "vivocity",
+      "mall_name": "VivoCity",
+      "state_kind": "floor",
+      "floor": "B1",
+      "expected_visits": 51.4,
+      "devices": 3808
+    },
+    {
+      "mall_id": "vivocity",
+      "mall_name": "VivoCity",
+      "state_kind": "floor",
+      "floor": "L1",
+      "expected_visits": 49.7,
+      "devices": 3733
+    },
+    {
+      "mall_id": "vivocity",
+      "mall_name": "VivoCity",
+      "state_kind": "floor",
+      "floor": "L2",
+      "expected_visits": 48.3,
+      "devices": 3639
+    },
+    {
+      "mall_id": "vivocity",
+      "mall_name": "VivoCity",
+      "state_kind": "floor",
+      "floor": "L3",
+      "expected_visits": 47.0,
+      "devices": 3551
+    },
+    {
+      "mall_id": "vivocity",
+      "mall_name": "VivoCity",
+      "state_kind": "parking",
+      "floor": "L1",
+      "expected_visits": 30.9,
+      "devices": 1234
+    },
+    {
+      "mall_id": "waterway_point",
+      "mall_name": "Waterway Point",
+      "state_kind": "food",
+      "floor": "L1",
+      "expected_visits": 557.5,
+      "devices": 2739
+    },
+    {
+      "mall_id": "waterway_point",
+      "mall_name": "Waterway Point",
+      "state_kind": "entrance",
+      "floor": "L1",
+      "expected_visits": 477.8,
+      "devices": 2801
+    },
+    {
+      "mall_id": "waterway_point",
+      "mall_name": "Waterway Point",
+      "state_kind": "corridor",
+      "floor": "L1",
+      "expected_visits": 446.3,
+      "devices": 2874
+    },
+    {
+      "mall_id": "waterway_point",
+      "mall_name": "Waterway Point",
+      "state_kind": "parking",
+      "floor": "L1",
+      "expected_visits": 409.7,
+      "devices": 2791
+    },
+    {
+      "mall_id": "waterway_point",
+      "mall_name": "Waterway Point",
+      "state_kind": "anchor",
+      "floor": "L1",
+      "expected_visits": 408.6,
+      "devices": 2893
+    },
+    {
+      "mall_id": "waterway_point",
+      "mall_name": "Waterway Point",
+      "state_kind": "entertainment",
+      "floor": "L1",
+      "expected_visits": 229.5,
+      "devices": 2693
+    },
+    {
+      "mall_id": "waterway_point",
+      "mall_name": "Waterway Point",
+      "state_kind": "floor",
+      "floor": "B1",
+      "expected_visits": 148.1,
+      "devices": 3278
+    },
+    {
+      "mall_id": "waterway_point",
+      "mall_name": "Waterway Point",
+      "state_kind": "floor",
+      "floor": "L1",
+      "expected_visits": 146.7,
+      "devices": 3244
+    },
+    {
+      "mall_id": "waterway_point",
+      "mall_name": "Waterway Point",
+      "state_kind": "floor",
+      "floor": "L2",
+      "expected_visits": 145.7,
+      "devices": 3202
+    },
+    {
+      "mall_id": "waterway_point",
+      "mall_name": "Waterway Point",
+      "state_kind": "floor",
+      "floor": "L3",
+      "expected_visits": 144.7,
+      "devices": 3172
+    }
+  ],
+  "weighted_vs_unweighted": {
+    "unweighted": [
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-01",
+        "sessions": 644,
+        "devices": 595,
+        "med_dwell_min": 63.1
+      },
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-02",
+        "sessions": 726,
+        "devices": 671,
+        "med_dwell_min": 61.4
+      },
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-03",
+        "sessions": 799,
+        "devices": 729,
+        "med_dwell_min": 57.7
+      },
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-04",
+        "sessions": 836,
+        "devices": 765,
+        "med_dwell_min": 61.4
+      },
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-05",
+        "sessions": 907,
+        "devices": 837,
+        "med_dwell_min": 75.9
+      },
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-06",
+        "sessions": 948,
+        "devices": 879,
+        "med_dwell_min": 72.8
+      },
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-07",
+        "sessions": 889,
+        "devices": 835,
+        "med_dwell_min": 74.5
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-01",
+        "sessions": 516,
+        "devices": 460,
+        "med_dwell_min": 71.9
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-02",
+        "sessions": 508,
+        "devices": 471,
+        "med_dwell_min": 65.7
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-03",
+        "sessions": 701,
+        "devices": 636,
+        "med_dwell_min": 54.9
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-04",
+        "sessions": 704,
+        "devices": 633,
+        "med_dwell_min": 59.7
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-05",
+        "sessions": 789,
+        "devices": 707,
+        "med_dwell_min": 77.8
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-06",
+        "sessions": 1140,
+        "devices": 999,
+        "med_dwell_min": 85.9
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-07",
+        "sessions": 1027,
+        "devices": 940,
+        "med_dwell_min": 80.3
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-01",
+        "sessions": 566,
+        "devices": 507,
+        "med_dwell_min": 62.8
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-02",
+        "sessions": 531,
+        "devices": 474,
+        "med_dwell_min": 52.5
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-03",
+        "sessions": 792,
+        "devices": 715,
+        "med_dwell_min": 52.5
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-04",
+        "sessions": 708,
+        "devices": 615,
+        "med_dwell_min": 50.7
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-05",
+        "sessions": 671,
+        "devices": 611,
+        "med_dwell_min": 66.9
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-06",
+        "sessions": 813,
+        "devices": 718,
+        "med_dwell_min": 64.2
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-07",
+        "sessions": 823,
+        "devices": 730,
+        "med_dwell_min": 61.7
+      }
+    ],
+    "weighted": [
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-01",
+        "sessions": 644,
+        "weighted_devices": 20175.0,
+        "panel_devices": 595,
+        "med_dwell_min": 63.1
+      },
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-02",
+        "sessions": 726,
+        "weighted_devices": 22669.0,
+        "panel_devices": 671,
+        "med_dwell_min": 61.4
+      },
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-03",
+        "sessions": 799,
+        "weighted_devices": 22146.0,
+        "panel_devices": 729,
+        "med_dwell_min": 57.7
+      },
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-04",
+        "sessions": 836,
+        "weighted_devices": 23875.0,
+        "panel_devices": 765,
+        "med_dwell_min": 61.4
+      },
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-05",
+        "sessions": 907,
+        "weighted_devices": 30789.0,
+        "panel_devices": 837,
+        "med_dwell_min": 75.9
+      },
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-06",
+        "sessions": 948,
+        "weighted_devices": 30408.0,
+        "panel_devices": 879,
+        "med_dwell_min": 72.8
+      },
+      {
+        "mall_id": "jem",
+        "mall_name": "JEM",
+        "d": "2026-06-07",
+        "sessions": 889,
+        "weighted_devices": 27767.0,
+        "panel_devices": 835,
+        "med_dwell_min": 74.5
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-01",
+        "sessions": 516,
+        "weighted_devices": 15298.0,
+        "panel_devices": 460,
+        "med_dwell_min": 71.9
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-02",
+        "sessions": 508,
+        "weighted_devices": 14431.0,
+        "panel_devices": 471,
+        "med_dwell_min": 65.7
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-03",
+        "sessions": 701,
+        "weighted_devices": 16256.0,
+        "panel_devices": 636,
+        "med_dwell_min": 54.9
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-04",
+        "sessions": 704,
+        "weighted_devices": 18742.0,
+        "panel_devices": 633,
+        "med_dwell_min": 59.7
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-05",
+        "sessions": 789,
+        "weighted_devices": 24768.0,
+        "panel_devices": 707,
+        "med_dwell_min": 77.8
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-06",
+        "sessions": 1140,
+        "weighted_devices": 35195.0,
+        "panel_devices": 999,
+        "med_dwell_min": 85.9
+      },
+      {
+        "mall_id": "vivocity",
+        "mall_name": "VivoCity",
+        "d": "2026-06-07",
+        "sessions": 1027,
+        "weighted_devices": 30054.0,
+        "panel_devices": 940,
+        "med_dwell_min": 80.3
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-01",
+        "sessions": 566,
+        "weighted_devices": 16219.0,
+        "panel_devices": 507,
+        "med_dwell_min": 62.8
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-02",
+        "sessions": 531,
+        "weighted_devices": 14835.0,
+        "panel_devices": 474,
+        "med_dwell_min": 52.5
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-03",
+        "sessions": 792,
+        "weighted_devices": 17586.0,
+        "panel_devices": 715,
+        "med_dwell_min": 52.5
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-04",
+        "sessions": 708,
+        "weighted_devices": 16535.0,
+        "panel_devices": 615,
+        "med_dwell_min": 50.7
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-05",
+        "sessions": 671,
+        "weighted_devices": 20877.0,
+        "panel_devices": 611,
+        "med_dwell_min": 66.9
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-06",
+        "sessions": 813,
+        "weighted_devices": 20925.0,
+        "panel_devices": 718,
+        "med_dwell_min": 64.2
+      },
+      {
+        "mall_id": "waterway_point",
+        "mall_name": "Waterway Point",
+        "d": "2026-06-07",
+        "sessions": 823,
+        "weighted_devices": 22961.0,
+        "panel_devices": 730,
+        "med_dwell_min": 61.7
+      }
+    ],
+    "reconciled": [
+      {
+        "mall_id": "jem",
+        "d": "2026-06-01",
+        "panel_devices": 595.0,
+        "reconciled_devices": 595.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "jem",
+        "d": "2026-06-02",
+        "panel_devices": 671.0,
+        "reconciled_devices": 671.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "jem",
+        "d": "2026-06-03",
+        "panel_devices": 729.0,
+        "reconciled_devices": 729.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "jem",
+        "d": "2026-06-04",
+        "panel_devices": 765.0,
+        "reconciled_devices": 765.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "jem",
+        "d": "2026-06-05",
+        "panel_devices": 837.0,
+        "reconciled_devices": 837.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "jem",
+        "d": "2026-06-06",
+        "panel_devices": 879.0,
+        "reconciled_devices": 879.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "jem",
+        "d": "2026-06-07",
+        "panel_devices": 835.0,
+        "reconciled_devices": 835.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-01",
+        "panel_devices": 460.0,
+        "reconciled_devices": 460.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-02",
+        "panel_devices": 471.0,
+        "reconciled_devices": 471.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-03",
+        "panel_devices": 636.0,
+        "reconciled_devices": 636.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-04",
+        "panel_devices": 633.0,
+        "reconciled_devices": 633.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-05",
+        "panel_devices": 707.0,
+        "reconciled_devices": 707.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-06",
+        "panel_devices": 999.0,
+        "reconciled_devices": 999.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "vivocity",
+        "d": "2026-06-07",
+        "panel_devices": 940.0,
+        "reconciled_devices": 940.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-01",
+        "panel_devices": 507.0,
+        "reconciled_devices": 507.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-02",
+        "panel_devices": 474.0,
+        "reconciled_devices": 474.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-03",
+        "panel_devices": 715.0,
+        "reconciled_devices": 715.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-04",
+        "panel_devices": 615.0,
+        "reconciled_devices": 615.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-05",
+        "panel_devices": 611.0,
+        "reconciled_devices": 611.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-06",
+        "panel_devices": 718.0,
+        "reconciled_devices": 718.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      },
+      {
+        "mall_id": "waterway_point",
+        "d": "2026-06-07",
+        "panel_devices": 730.0,
+        "reconciled_devices": 730.0,
+        "has_counter": false,
+        "status": "pending_counter"
+      }
+    ],
+    "counter_status": {
+      "trusted_counter_days": 0,
+      "status": "pending_partner_counters",
+      "note": "June unweighted vs weighted comparison is available; true counter reconciliation requires trusted entrance totals."
+    }
+  },
+  "control_nearest_poi": {
+    "control_rows": 14625,
+    "malls": 3,
+    "med_nearest_dist_m": 55.7
+  },
+  "hsmm": {
+    "abstention": [
+      {
+        "action": "mall_only",
+        "emit_level": "mall",
+        "stops": 334,
+        "mean_entropy": 0.89,
+        "mean_margin": 0.588
+      },
+      {
+        "action": "zone_floor",
+        "emit_level": "zone",
+        "stops": 38,
+        "mean_entropy": 1.03,
+        "mean_margin": 0.438
+      }
+    ],
+    "top_flows": [
+      {
+        "mall_id": "waterway_point",
+        "from_state": "waterway_point_campus",
+        "to_state": "waterway_point_campus",
+        "expected_transitions": 11.66,
+        "devices": 9
+      },
+      {
+        "mall_id": "waterway_point",
+        "from_state": "waterway_point_unknown",
+        "to_state": "waterway_point_unknown",
+        "expected_transitions": 8.78,
+        "devices": 12
+      },
+      {
+        "mall_id": "vivocity",
+        "from_state": "vivocity_unknown",
+        "to_state": "vivocity_unknown",
+        "expected_transitions": 4.71,
+        "devices": 7
+      },
+      {
+        "mall_id": "waterway_point",
+        "from_state": "waterway_point_zone_entertainment",
+        "to_state": "waterway_point_zone_entertainment",
+        "expected_transitions": 1.56,
+        "devices": 5
+      }
+    ]
+  },
+  "suppressed": [
+    "store_footfall",
+    "floor_share_as_truth",
+    "hard_poi_mall_leaderboard"
+  ]
+}

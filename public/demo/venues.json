@@ -1,0 +1,152 @@
+[
+  {
+    "id": "v-bgc-high",
+    "name": "BGC High Street",
+    "brand": "Ayala Malls",
+    "type": "mall",
+    "lat": 14.5515,
+    "lng": 121.047,
+    "city": "taguig",
+    "h3": "8a694ec1d277fff"
+  },
+  {
+    "id": "v-greenbelt",
+    "name": "Greenbelt 5",
+    "brand": "Ayala Malls",
+    "type": "mall",
+    "lat": 14.5527,
+    "lng": 121.0214,
+    "city": "makati",
+    "h3": "8a694ec1ca57fff"
+  },
+  {
+    "id": "v-trinoma",
+    "name": "Trinoma",
+    "brand": "Ayala Malls",
+    "type": "mall",
+    "lat": 14.6536,
+    "lng": 121.0342,
+    "city": "quezon city",
+    "h3": "8a694ec2caaffff"
+  },
+  {
+    "id": "v-uptown",
+    "name": "Uptown Mall BGC",
+    "brand": "Megaworld",
+    "type": "mall",
+    "lat": 14.5578,
+    "lng": 121.0542,
+    "city": "taguig",
+    "h3": "8a694ec0ac4ffff"
+  },
+  {
+    "id": "v-sm-megamall",
+    "name": "SM Megamall",
+    "brand": "SM",
+    "type": "mall",
+    "lat": 14.5853,
+    "lng": 121.0567,
+    "city": "mandaluyong",
+    "h3": "8a694ec0c6effff"
+  },
+  {
+    "id": "v-ortigas",
+    "name": "Ortigas Center",
+    "brand": "Robinsons",
+    "type": "mall",
+    "lat": 14.5895,
+    "lng": 121.0602,
+    "city": "pasig",
+    "h3": "8a694ec08927fff"
+  },
+  {
+    "id": "v-moa",
+    "name": "SM Mall of Asia",
+    "brand": "SM",
+    "type": "mall",
+    "lat": 14.5352,
+    "lng": 120.9822,
+    "city": "pasay",
+    "h3": "8a694ec1024ffff"
+  },
+  {
+    "id": "v-eastwood",
+    "name": "Eastwood City",
+    "brand": "Megaworld",
+    "type": "mall",
+    "lat": 14.6097,
+    "lng": 121.0801,
+    "city": "quezon city",
+    "h3": "8a694ec0db4ffff"
+  },
+  {
+    "id": "v-store-bgc1",
+    "name": "P&G Experience Store BGC",
+    "brand": "P&G",
+    "type": "store",
+    "lat": 14.5498,
+    "lng": 121.0502,
+    "city": "taguig",
+    "h3": "8a694ec0a5affff"
+  },
+  {
+    "id": "v-store-makati",
+    "name": "P&G Flagship Makati",
+    "brand": "P&G",
+    "type": "store",
+    "lat": 14.5542,
+    "lng": 121.0248,
+    "city": "makati",
+    "h3": "8a694ec1dd37fff"
+  },
+  {
+    "id": "v-cand-clark",
+    "name": "Clark Green City Parcel A",
+    "brand": "AyalaLand",
+    "type": "candidate_site",
+    "lat": 15.1852,
+    "lng": 120.5972,
+    "city": "pampanga",
+    "h3": "8a69410b064ffff"
+  },
+  {
+    "id": "v-cand-nuvali",
+    "name": "Nuvali South Corridor",
+    "brand": "AyalaLand",
+    "type": "candidate_site",
+    "lat": 14.2268,
+    "lng": 121.0562,
+    "city": "laguna",
+    "h3": "8a694e5a9d67fff"
+  },
+  {
+    "id": "v-cand-calamba",
+    "name": "Calamba Gateway Site",
+    "brand": "AyalaLand",
+    "type": "candidate_site",
+    "lat": 14.2115,
+    "lng": 121.1652,
+    "city": "laguna",
+    "h3": "8a694e400a07fff"
+  },
+  {
+    "id": "v-cand-tanza",
+    "name": "Tanza Cavite Parcel",
+    "brand": "AyalaLand",
+    "type": "candidate_site",
+    "lat": 14.3942,
+    "lng": 120.8532,
+    "city": "cavite",
+    "h3": "8a6943348d4ffff"
+  },
+  {
+    "id": "v-cand-bulacan",
+    "name": "Bulacan North Hub",
+    "brand": "AyalaLand",
+    "type": "candidate_site",
+    "lat": 14.7942,
+    "lng": 120.8782,
+    "city": "bulacan",
+    "h3": "8a694168bb9ffff"
+  }
+]

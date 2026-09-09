@@ -1,0 +1,99 @@
+[
+  {
+    "id": "camp-pg-sustain-q1",
+    "brand": "P&G",
+    "narrativeId": "n-pg-sustain",
+    "name": "Sustainable Living PH — Q1 Launch",
+    "startDate": "2024-02-11",
+    "endDate": "2024-02-25",
+    "targetVenueIds": [
+      "v-store-bgc1",
+      "v-store-makati",
+      "v-greenbelt"
+    ],
+    "channels": [
+      "tiktok",
+      "instagram",
+      "facebook",
+      "in-store"
+    ],
+    "spendPhp": 4500000,
+    "liftPct": 25,
+    "causalLagDays": 3.2,
+    "confidence": 91,
+    "persona": "Caryl",
+    "description": "Multi-channel sustainability campaign targeting BGC and Makati retail corridors."
+  },
+  {
+    "id": "camp-ayala-bgc-weekend",
+    "brand": "Ayala Malls",
+    "narrativeId": "n-bgc-lifestyle",
+    "name": "BGC Weekend Vibes — Retail Push",
+    "startDate": "2024-01-24",
+    "endDate": "2024-02-05",
+    "targetVenueIds": [
+      "v-bgc-high",
+      "v-uptown",
+      "v-greenbelt"
+    ],
+    "channels": [
+      "instagram",
+      "tiktok",
+      "in-mall"
+    ],
+    "spendPhp": 2800000,
+    "liftPct": 14.2,
+    "causalLagDays": 2.8,
+    "confidence": 87,
+    "persona": "Caryl",
+    "description": "Weekend lifestyle campaign across BGC and Makati mall corridors."
+  },
+  {
+    "id": "camp-ayala-south-awareness",
+    "brand": "AyalaLand",
+    "narrativeId": "n-south-growth",
+    "name": "South Luzon Growth — Awareness",
+    "startDate": "2024-02-28",
+    "endDate": "2024-03-12",
+    "targetVenueIds": [
+      "v-cand-nuvali",
+      "v-cand-calamba",
+      "v-cand-clark"
+    ],
+    "channels": [
+      "facebook",
+      "x",
+      "events"
+    ],
+    "spendPhp": 1200000,
+    "liftPct": 8.5,
+    "causalLagDays": 4.1,
+    "confidence": 78,
+    "persona": "Marco",
+    "description": "Investor and community awareness push along CALABARZON growth corridors."
+  },
+  {
+    "id": "camp-ev-network-expansion",
+    "brand": "VoltGrid PH",
+    "narrativeId": "n-ev-adoption",
+    "name": "EV Network Expansion — NCR",
+    "startDate": "2024-02-18",
+    "endDate": "2024-03-06",
+    "targetVenueIds": [
+      "v-bgc-high",
+      "v-sm-megamall",
+      "v-moa"
+    ],
+    "channels": [
+      "tiktok",
+      "facebook",
+      "in-app"
+    ],
+    "spendPhp": 3200000,
+    "liftPct": 19.4,
+    "causalLagDays": 5.5,
+    "confidence": 84,
+    "persona": "Reyes",
+    "description": "Awareness and onboarding push for new fast-charging hubs across NCR retail corridors."
+  }
+]

@@ -1,0 +1,260 @@
+{
+  "baseUrl": "https://api.vectormobility.io/v1",
+  "auth": "Bearer token · OAuth 2.0 client credentials · issued per subscription tier",
+  "tiers": [
+    {
+      "id": "starter",
+      "name": "Starter",
+      "price": "$1,500/mo",
+      "access": ["social/narratives", "social/timeseries"],
+      "description": "Social signal intelligence only — MessyNet depth for marketing & comms teams."
+    },
+    {
+      "id": "standard",
+      "name": "Standard",
+      "price": "$3,000/mo",
+      "access": ["social/*", "mobility/*", "fusion/attribution", "fusion/corridors", "graph/*", "ev/*"],
+      "description": "Full fused Consumer Behavior Graph — attribution, site intelligence, and graph queries."
+    },
+    {
+      "id": "enterprise",
+      "name": "Enterprise",
+      "price": "Custom",
+      "access": ["*"],
+      "description": "White-label platform, custom analytics layers, dedicated support, SLA-backed feeds."
+    }
+  ],
+  "endpoints": [
+    {
+      "id": "narratives",
+      "method": "GET",
+      "path": "/social/narratives",
+      "tier": "starter",
+      "summary": "List narrative clusters detected by MessyNet NLP",
+      "useCase": "Social listening, brand monitoring, campaign planning",
+      "queryParams": ["region", "brand", "sentiment_trend", "since"],
+      "sampleRequest": "GET /v1/social/narratives?region=ncr&brand=P%26G&since=2024-02-01",
+      "sampleResponse": {
+        "data": [
+          {
+            "id": "n-pg-sustain",
+            "label": "Sustainable Living PH",
+            "brand": "P&G",
+            "sentiment_trend": "rising",
+            "audience_segment": "Urban millennials, NCR",
+            "platform_mix": { "tiktok": 0.42, "instagram": 0.31, "facebook": 0.18, "x": 0.09 },
+            "buzz_volume_7d": 2840,
+            "avg_sentiment": 0.74
+          }
+        ],
+        "meta": { "count": 1, "region": "ncr", "updated_at": "2024-03-10T08:00:00+08:00" }
+      }
+    },
+    {
+      "id": "social-timeseries",
+      "method": "GET",
+      "path": "/social/timeseries",
+      "tier": "starter",
+      "summary": "Daily buzz volume and sentiment for a narrative or brand",
+      "useCase": "Trend charts, campaign monitoring dashboards",
+      "queryParams": ["narrative_id", "brand", "date_start", "date_end", "granularity"],
+      "sampleRequest": "GET /v1/social/timeseries?narrative_id=n-pg-sustain&date_start=2024-02-01&date_end=2024-03-15",
+      "sampleResponse": {
+        "data": [
+          { "date": "2024-02-28", "buzz_volume": 412, "sentiment": 0.82, "reach": 328000 },
+          { "date": "2024-03-01", "buzz_volume": 538, "sentiment": 0.75, "reach": 430400 }
+        ],
+        "meta": { "narrative_id": "n-pg-sustain", "granularity": "daily" }
+      }
+    },
+    {
+      "id": "footfall",
+      "method": "GET",
+      "path": "/mobility/footfall",
+      "tier": "standard",
+      "summary": "Aggregated foot-traffic index by venue, H3 zone, or city",
+      "useCase": "Store performance, trade-area analysis, mobility dashboards",
+      "queryParams": ["venue_id", "h3", "city", "date_start", "date_end"],
+      "sampleRequest": "GET /v1/mobility/footfall?venue_id=v-store-bgc1&date_start=2024-02-01&date_end=2024-03-15",
+      "sampleResponse": {
+        "data": [
+          { "date": "2024-03-05", "footfall_index": 1240, "baseline_index": 980, "h3": "8a694ec310cffff" },
+          { "date": "2024-03-06", "footfall_index": 1310, "baseline_index": 985, "h3": "8a694ec310cffff" }
+        ],
+        "meta": { "venue_id": "v-store-bgc1", "privacy": "aggregated_anonymized", "min_threshold": 50 }
+      }
+    },
+    {
+      "id": "attribution",
+      "method": "GET",
+      "path": "/fusion/attribution",
+      "tier": "standard",
+      "summary": "Causal attribution linking social narrative to footfall lift",
+      "useCase": "Caryl's 'did it work?' — campaign ROI, CMO reporting",
+      "queryParams": ["campaign_id", "narrative_id", "venue_ids", "date_start", "date_end"],
+      "sampleRequest": "GET /v1/fusion/attribution?campaign_id=camp-pg-sustain-q1",
+      "sampleResponse": {
+        "data": {
+          "campaign_id": "camp-pg-sustain-q1",
+          "lift_pct": 21.0,
+          "causal_lag_days": 3.2,
+          "confidence": 91,
+          "baseline_footfall_index": 980,
+          "campaign_footfall_index": 1186,
+          "narrative_id": "n-pg-sustain",
+          "target_venue_ids": ["v-store-bgc1", "v-store-makati", "v-greenbelt"],
+          "timeseries": {
+            "social_leading": [{ "date": "2024-02-28", "buzz_volume": 412 }],
+            "footfall_lagging": [{ "date": "2024-03-03", "footfall_index": 1180 }]
+          }
+        },
+        "meta": { "method": "cross_correlation_v2", "computed_at": "2024-03-10T08:00:00+08:00" }
+      }
+    },
+    {
+      "id": "corridors",
+      "method": "GET",
+      "path": "/fusion/corridors",
+      "tier": "standard",
+      "summary": "Forward-looking corridor scores for candidate sites and land parcels",
+      "useCase": "Marco's 'where next?' — site selection, land bank assessment",
+      "queryParams": ["region", "status", "min_forward_score", "sort"],
+      "sampleRequest": "GET /v1/fusion/corridors?region=calabarzon&sort=forward_score_desc",
+      "sampleResponse": {
+        "data": [
+          {
+            "id": "corridor-v-cand-nuvali",
+            "name": "Nuvali South Corridor",
+            "forward_score": 38.0,
+            "roi_rank": 1,
+            "status": "hot",
+            "foot_traffic_growth_pct": 22.4,
+            "social_growth_pct": 18.6,
+            "mobility_trend": 72.0,
+            "h3": "8a694ec1eb47fff",
+            "lat": 14.2268,
+            "lng": 121.0562
+          }
+        ],
+        "meta": { "count": 5, "region": "calabarzon" }
+      }
+    },
+    {
+      "id": "graph",
+      "method": "GET",
+      "path": "/graph/edges",
+      "tier": "standard",
+      "summary": "Consumer Behavior Graph — narrative → audience → venue weighted edges",
+      "useCase": "Custom network viz, BI tools, internal intelligence platforms",
+      "queryParams": ["narrative_id", "min_weight", "depth"],
+      "sampleRequest": "GET /v1/graph/edges?narrative_id=n-pg-sustain&min_weight=0.5",
+      "sampleResponse": {
+        "data": {
+          "nodes": [
+            { "id": "n-pg-sustain", "type": "narrative", "label": "Sustainable Living PH" },
+            { "id": "aud-urban-millennial", "type": "audience", "label": "Urban Millennials" },
+            { "id": "v-store-bgc1", "type": "venue", "label": "P&G Experience Store BGC" }
+          ],
+          "edges": [
+            { "source": "n-pg-sustain", "target": "aud-urban-millennial", "weight": 0.85 },
+            { "source": "aud-urban-millennial", "target": "v-store-bgc1", "weight": 0.78 }
+          ]
+        },
+        "meta": { "graph_version": "2024.03", "edge_count": 2 }
+      }
+    },
+    {
+      "id": "ev-stations",
+      "method": "GET",
+      "path": "/ev/stations",
+      "tier": "standard",
+      "summary": "EV charging hub inventory with utilization, energy, and dwell metrics",
+      "useCase": "Reyes' 'is the network keeping up?' — operations monitoring, capacity planning",
+      "queryParams": ["region", "operator", "type", "status", "include"],
+      "sampleRequest": "GET /v1/ev/stations?region=ncr&status=live&include=utilization",
+      "sampleResponse": {
+        "data": [
+          {
+            "id": "ev-moa",
+            "name": "Mall of Asia Fast Hub",
+            "operator": "Shell Recharge",
+            "type": "dcfc",
+            "status": "live",
+            "connectors": 12,
+            "power_kw": 200,
+            "city": "pasay",
+            "h3": "8a3984d2c4dffff",
+            "utilization_7d": 0.61,
+            "sessions_per_day": 84,
+            "energy_kwh_per_day": 2730,
+            "avg_dwell_min": 34
+          }
+        ],
+        "meta": { "count": 15, "region": "ncr", "privacy": "aggregated_anonymized" }
+      }
+    },
+    {
+      "id": "ev-demand",
+      "method": "GET",
+      "path": "/ev/demand",
+      "tier": "standard",
+      "summary": "Hourly charging demand profile (weekday/weekend) for a station or zone",
+      "useCase": "Peak-hour planning, load balancing, dynamic pricing",
+      "queryParams": ["station_id", "h3", "daypart"],
+      "sampleRequest": "GET /v1/ev/demand?station_id=ev-moa&daypart=weekday",
+      "sampleResponse": {
+        "data": {
+          "station_id": "ev-moa",
+          "daypart": "weekday",
+          "hourly_utilization": [0.08, 0.06, 0.05, 0.05, 0.07, 0.12, 0.28, 0.41, 0.52, 0.48, 0.44, 0.5, 0.58, 0.6, 0.55, 0.57, 0.66, 0.78, 0.85, 0.74, 0.55, 0.38, 0.22, 0.12]
+        },
+        "meta": { "peak_hour": 18, "peak_utilization": 0.85 }
+      }
+    },
+    {
+      "id": "ev-opportunity",
+      "method": "GET",
+      "path": "/ev/opportunity",
+      "tier": "standard",
+      "summary": "Ranked charging-network expansion sites from fused mobility demand and coverage gaps",
+      "useCase": "Reyes' 'where to build next?' — network expansion, infrastructure ROI",
+      "queryParams": ["region", "sort", "min_opportunity_score"],
+      "sampleRequest": "GET /v1/ev/opportunity?region=calabarzon&sort=opportunity_score_desc",
+      "sampleResponse": {
+        "data": [
+          {
+            "id": "ev-cand-clark",
+            "name": "Clark Green City Parcel A",
+            "city": "pampanga",
+            "opportunity_score": 118.5,
+            "roi_rank": 1,
+            "nearby_demand": 96,
+            "coverage_gap_pct": 88,
+            "projected_sessions_per_day": 58,
+            "h3": "8a3940d2c4dffff",
+            "lat": 15.1852,
+            "lng": 120.5972
+          }
+        ],
+        "meta": { "count": 5, "region": "calabarzon" }
+      }
+    }
+  ],
+  "clientFlow": [
+    {
+      "step": 1,
+      "title": "Authenticate",
+      "description": "Obtain a Bearer token via OAuth 2.0 client credentials. Tokens are scoped to your subscription tier."
+    },
+    {
+      "step": 2,
+      "title": "Query the fused feed",
+      "description": "Pull narratives, footfall, attribution, or corridor scores via REST. Filter by region, brand, date range, or H3 zone."
+    },
+    {
+      "step": 3,
+      "title": "Build anything",
+      "description": "Pipe into your BI stack, internal dashboard, CRM, or site-selection tool. This demo is one reference implementation."
+    }
+  ]
+}

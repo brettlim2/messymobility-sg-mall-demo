@@ -1,0 +1,6302 @@
+[
+  {
+    "date": "2024-01-14",
+    "venueId": "v-bgc-high",
+    "footfall": 1292,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-bgc-high",
+    "footfall": 997,
+    "baseline": 920
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-bgc-high",
+    "footfall": 944,
+    "baseline": 920
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-bgc-high",
+    "footfall": 888,
+    "baseline": 920
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-bgc-high",
+    "footfall": 940,
+    "baseline": 920
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-bgc-high",
+    "footfall": 765,
+    "baseline": 920
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-bgc-high",
+    "footfall": 1119,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-bgc-high",
+    "footfall": 1171,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-bgc-high",
+    "footfall": 1107,
+    "baseline": 920
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-bgc-high",
+    "footfall": 830,
+    "baseline": 920
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-bgc-high",
+    "footfall": 882,
+    "baseline": 920
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-bgc-high",
+    "footfall": 898,
+    "baseline": 920
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-bgc-high",
+    "footfall": 875,
+    "baseline": 920
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-bgc-high",
+    "footfall": 1324,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-bgc-high",
+    "footfall": 1238,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-bgc-high",
+    "footfall": 1015,
+    "baseline": 920
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-bgc-high",
+    "footfall": 1162,
+    "baseline": 920
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-bgc-high",
+    "footfall": 1144,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-bgc-high",
+    "footfall": 1085,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-bgc-high",
+    "footfall": 1016,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-bgc-high",
+    "footfall": 1269,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-bgc-high",
+    "footfall": 1225,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-bgc-high",
+    "footfall": 1135,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-bgc-high",
+    "footfall": 960,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-bgc-high",
+    "footfall": 961,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-bgc-high",
+    "footfall": 1118,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-bgc-high",
+    "footfall": 1071,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-bgc-high",
+    "footfall": 1293,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-bgc-high",
+    "footfall": 1307,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-bgc-high",
+    "footfall": 1035,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-bgc-high",
+    "footfall": 920,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-bgc-high",
+    "footfall": 1005,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-bgc-high",
+    "footfall": 997,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-bgc-high",
+    "footfall": 971,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-bgc-high",
+    "footfall": 1370,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-bgc-high",
+    "footfall": 1122,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-bgc-high",
+    "footfall": 829,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-bgc-high",
+    "footfall": 917,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-bgc-high",
+    "footfall": 927,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-bgc-high",
+    "footfall": 903,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-bgc-high",
+    "footfall": 975,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-bgc-high",
+    "footfall": 955,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-bgc-high",
+    "footfall": 1160,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-bgc-high",
+    "footfall": 958,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-bgc-high",
+    "footfall": 1015,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-bgc-high",
+    "footfall": 889,
+    "baseline": 920
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-bgc-high",
+    "footfall": 901,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-bgc-high",
+    "footfall": 880,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-bgc-high",
+    "footfall": 1267,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-bgc-high",
+    "footfall": 1077,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-bgc-high",
+    "footfall": 943,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-bgc-high",
+    "footfall": 943,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-bgc-high",
+    "footfall": 940,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-bgc-high",
+    "footfall": 805,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-bgc-high",
+    "footfall": 980,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-bgc-high",
+    "footfall": 1085,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-bgc-high",
+    "footfall": 1244,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-bgc-high",
+    "footfall": 956,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-bgc-high",
+    "footfall": 930,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-bgc-high",
+    "footfall": 900,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-bgc-high",
+    "footfall": 863,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-bgc-high",
+    "footfall": 979,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-bgc-high",
+    "footfall": 1060,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-bgc-high",
+    "footfall": 1004,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-bgc-high",
+    "footfall": 747,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-bgc-high",
+    "footfall": 794,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-bgc-high",
+    "footfall": 803,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-bgc-high",
+    "footfall": 951,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-bgc-high",
+    "footfall": 1075,
+    "baseline": 920
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-bgc-high",
+    "footfall": 1237,
+    "baseline": 1150
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-greenbelt",
+    "footfall": 1102,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-greenbelt",
+    "footfall": 913,
+    "baseline": 975
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-greenbelt",
+    "footfall": 1033,
+    "baseline": 975
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-greenbelt",
+    "footfall": 970,
+    "baseline": 975
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-greenbelt",
+    "footfall": 837,
+    "baseline": 975
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-greenbelt",
+    "footfall": 964,
+    "baseline": 975
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-greenbelt",
+    "footfall": 1180,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-greenbelt",
+    "footfall": 1339,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-greenbelt",
+    "footfall": 996,
+    "baseline": 975
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-greenbelt",
+    "footfall": 944,
+    "baseline": 975
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-greenbelt",
+    "footfall": 1013,
+    "baseline": 975
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-greenbelt",
+    "footfall": 1041,
+    "baseline": 975
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-greenbelt",
+    "footfall": 1033,
+    "baseline": 975
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-greenbelt",
+    "footfall": 1467,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-greenbelt",
+    "footfall": 1288,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-greenbelt",
+    "footfall": 1010,
+    "baseline": 975
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-greenbelt",
+    "footfall": 980,
+    "baseline": 975
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-greenbelt",
+    "footfall": 1081,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-greenbelt",
+    "footfall": 1245,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-greenbelt",
+    "footfall": 1059,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-greenbelt",
+    "footfall": 1346,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-greenbelt",
+    "footfall": 1243,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-greenbelt",
+    "footfall": 1170,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-greenbelt",
+    "footfall": 1029,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-greenbelt",
+    "footfall": 1283,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-greenbelt",
+    "footfall": 1126,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-greenbelt",
+    "footfall": 1044,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-greenbelt",
+    "footfall": 1206,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-greenbelt",
+    "footfall": 1325,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-greenbelt",
+    "footfall": 1089,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-greenbelt",
+    "footfall": 1041,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-greenbelt",
+    "footfall": 1411,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-greenbelt",
+    "footfall": 1375,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-greenbelt",
+    "footfall": 1234,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-greenbelt",
+    "footfall": 1708,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-greenbelt",
+    "footfall": 1341,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-greenbelt",
+    "footfall": 1440,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-greenbelt",
+    "footfall": 1309,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-greenbelt",
+    "footfall": 1407,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-greenbelt",
+    "footfall": 1128,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-greenbelt",
+    "footfall": 1167,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-greenbelt",
+    "footfall": 1478,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-greenbelt",
+    "footfall": 1556,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-greenbelt",
+    "footfall": 1130,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-greenbelt",
+    "footfall": 1050,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-greenbelt",
+    "footfall": 1039,
+    "baseline": 975
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-greenbelt",
+    "footfall": 1189,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-greenbelt",
+    "footfall": 1123,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-greenbelt",
+    "footfall": 1431,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-greenbelt",
+    "footfall": 1457,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-greenbelt",
+    "footfall": 944,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-greenbelt",
+    "footfall": 1061,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-greenbelt",
+    "footfall": 1174,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-greenbelt",
+    "footfall": 1211,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-greenbelt",
+    "footfall": 1300,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-greenbelt",
+    "footfall": 1444,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-greenbelt",
+    "footfall": 1163,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-greenbelt",
+    "footfall": 930,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-greenbelt",
+    "footfall": 959,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-greenbelt",
+    "footfall": 887,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-greenbelt",
+    "footfall": 1031,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-greenbelt",
+    "footfall": 985,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-greenbelt",
+    "footfall": 1297,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-greenbelt",
+    "footfall": 1095,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-greenbelt",
+    "footfall": 924,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-greenbelt",
+    "footfall": 963,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-greenbelt",
+    "footfall": 1005,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-greenbelt",
+    "footfall": 965,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-greenbelt",
+    "footfall": 1088,
+    "baseline": 975
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-greenbelt",
+    "footfall": 1161,
+    "baseline": 1219
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-trinoma",
+    "footfall": 1271,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-trinoma",
+    "footfall": 1044,
+    "baseline": 998
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-trinoma",
+    "footfall": 987,
+    "baseline": 998
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-trinoma",
+    "footfall": 937,
+    "baseline": 998
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-trinoma",
+    "footfall": 1019,
+    "baseline": 998
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-trinoma",
+    "footfall": 969,
+    "baseline": 998
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-trinoma",
+    "footfall": 1315,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-trinoma",
+    "footfall": 1287,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-trinoma",
+    "footfall": 1012,
+    "baseline": 998
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-trinoma",
+    "footfall": 956,
+    "baseline": 998
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-trinoma",
+    "footfall": 1101,
+    "baseline": 998
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-trinoma",
+    "footfall": 1041,
+    "baseline": 998
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-trinoma",
+    "footfall": 917,
+    "baseline": 998
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-trinoma",
+    "footfall": 1333,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-trinoma",
+    "footfall": 1232,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-trinoma",
+    "footfall": 958,
+    "baseline": 998
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-trinoma",
+    "footfall": 1192,
+    "baseline": 998
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-trinoma",
+    "footfall": 1025,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-trinoma",
+    "footfall": 881,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-trinoma",
+    "footfall": 1006,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-trinoma",
+    "footfall": 1289,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-trinoma",
+    "footfall": 1323,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-trinoma",
+    "footfall": 882,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-trinoma",
+    "footfall": 1026,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-trinoma",
+    "footfall": 1042,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-trinoma",
+    "footfall": 1105,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-trinoma",
+    "footfall": 913,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-trinoma",
+    "footfall": 1307,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-trinoma",
+    "footfall": 1192,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-trinoma",
+    "footfall": 971,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-trinoma",
+    "footfall": 1100,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-trinoma",
+    "footfall": 949,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-trinoma",
+    "footfall": 1035,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-trinoma",
+    "footfall": 1002,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-trinoma",
+    "footfall": 1242,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-trinoma",
+    "footfall": 1417,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-trinoma",
+    "footfall": 1103,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-trinoma",
+    "footfall": 818,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-trinoma",
+    "footfall": 958,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-trinoma",
+    "footfall": 942,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-trinoma",
+    "footfall": 998,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-trinoma",
+    "footfall": 1246,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-trinoma",
+    "footfall": 1489,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-trinoma",
+    "footfall": 1067,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-trinoma",
+    "footfall": 976,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-trinoma",
+    "footfall": 963,
+    "baseline": 998
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-trinoma",
+    "footfall": 996,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-trinoma",
+    "footfall": 910,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-trinoma",
+    "footfall": 1500,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-trinoma",
+    "footfall": 1090,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-trinoma",
+    "footfall": 1036,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-trinoma",
+    "footfall": 884,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-trinoma",
+    "footfall": 883,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-trinoma",
+    "footfall": 991,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-trinoma",
+    "footfall": 1090,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-trinoma",
+    "footfall": 966,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-trinoma",
+    "footfall": 1234,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-trinoma",
+    "footfall": 1005,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-trinoma",
+    "footfall": 1010,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-trinoma",
+    "footfall": 837,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-trinoma",
+    "footfall": 871,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-trinoma",
+    "footfall": 1007,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-trinoma",
+    "footfall": 1232,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-trinoma",
+    "footfall": 1278,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-trinoma",
+    "footfall": 1088,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-trinoma",
+    "footfall": 887,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-trinoma",
+    "footfall": 1039,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-trinoma",
+    "footfall": 854,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-trinoma",
+    "footfall": 1121,
+    "baseline": 998
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-trinoma",
+    "footfall": 1292,
+    "baseline": 1248
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-uptown",
+    "footfall": 1126,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-uptown",
+    "footfall": 760,
+    "baseline": 803
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-uptown",
+    "footfall": 806,
+    "baseline": 803
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-uptown",
+    "footfall": 766,
+    "baseline": 803
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-uptown",
+    "footfall": 924,
+    "baseline": 803
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-uptown",
+    "footfall": 819,
+    "baseline": 803
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-uptown",
+    "footfall": 939,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-uptown",
+    "footfall": 1057,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-uptown",
+    "footfall": 775,
+    "baseline": 803
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-uptown",
+    "footfall": 792,
+    "baseline": 803
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-uptown",
+    "footfall": 971,
+    "baseline": 803
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-uptown",
+    "footfall": 808,
+    "baseline": 803
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-uptown",
+    "footfall": 835,
+    "baseline": 803
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-uptown",
+    "footfall": 992,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-uptown",
+    "footfall": 1184,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-uptown",
+    "footfall": 980,
+    "baseline": 803
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-uptown",
+    "footfall": 906,
+    "baseline": 803
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-uptown",
+    "footfall": 863,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-uptown",
+    "footfall": 931,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-uptown",
+    "footfall": 793,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-uptown",
+    "footfall": 1059,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-uptown",
+    "footfall": 1216,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-uptown",
+    "footfall": 827,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-uptown",
+    "footfall": 815,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-uptown",
+    "footfall": 863,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-uptown",
+    "footfall": 795,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-uptown",
+    "footfall": 944,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-uptown",
+    "footfall": 1169,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-uptown",
+    "footfall": 1154,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-uptown",
+    "footfall": 856,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-uptown",
+    "footfall": 750,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-uptown",
+    "footfall": 757,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-uptown",
+    "footfall": 729,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-uptown",
+    "footfall": 765,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-uptown",
+    "footfall": 1056,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-uptown",
+    "footfall": 988,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-uptown",
+    "footfall": 765,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-uptown",
+    "footfall": 666,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-uptown",
+    "footfall": 817,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-uptown",
+    "footfall": 782,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-uptown",
+    "footfall": 849,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-uptown",
+    "footfall": 883,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-uptown",
+    "footfall": 928,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-uptown",
+    "footfall": 832,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-uptown",
+    "footfall": 870,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-uptown",
+    "footfall": 839,
+    "baseline": 803
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-uptown",
+    "footfall": 808,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-uptown",
+    "footfall": 798,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-uptown",
+    "footfall": 1018,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-uptown",
+    "footfall": 1058,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-uptown",
+    "footfall": 831,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-uptown",
+    "footfall": 731,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-uptown",
+    "footfall": 821,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-uptown",
+    "footfall": 903,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-uptown",
+    "footfall": 848,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-uptown",
+    "footfall": 1065,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-uptown",
+    "footfall": 1217,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-uptown",
+    "footfall": 761,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-uptown",
+    "footfall": 829,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-uptown",
+    "footfall": 727,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-uptown",
+    "footfall": 881,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-uptown",
+    "footfall": 949,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-uptown",
+    "footfall": 1037,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-uptown",
+    "footfall": 1106,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-uptown",
+    "footfall": 841,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-uptown",
+    "footfall": 698,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-uptown",
+    "footfall": 816,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-uptown",
+    "footfall": 823,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-uptown",
+    "footfall": 740,
+    "baseline": 803
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-uptown",
+    "footfall": 1036,
+    "baseline": 1004
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-sm-megamall",
+    "footfall": 1135,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-sm-megamall",
+    "footfall": 782,
+    "baseline": 924
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-sm-megamall",
+    "footfall": 944,
+    "baseline": 924
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-sm-megamall",
+    "footfall": 771,
+    "baseline": 924
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-sm-megamall",
+    "footfall": 956,
+    "baseline": 924
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-sm-megamall",
+    "footfall": 943,
+    "baseline": 924
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-sm-megamall",
+    "footfall": 1183,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-sm-megamall",
+    "footfall": 1088,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-sm-megamall",
+    "footfall": 1021,
+    "baseline": 924
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-sm-megamall",
+    "footfall": 1036,
+    "baseline": 924
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-sm-megamall",
+    "footfall": 1039,
+    "baseline": 924
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-sm-megamall",
+    "footfall": 963,
+    "baseline": 924
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-sm-megamall",
+    "footfall": 849,
+    "baseline": 924
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-sm-megamall",
+    "footfall": 1190,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-sm-megamall",
+    "footfall": 994,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-sm-megamall",
+    "footfall": 1070,
+    "baseline": 924
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-sm-megamall",
+    "footfall": 1051,
+    "baseline": 924
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-sm-megamall",
+    "footfall": 895,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-sm-megamall",
+    "footfall": 939,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-sm-megamall",
+    "footfall": 891,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-sm-megamall",
+    "footfall": 1104,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-sm-megamall",
+    "footfall": 1071,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-sm-megamall",
+    "footfall": 1029,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-sm-megamall",
+    "footfall": 830,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-sm-megamall",
+    "footfall": 867,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-sm-megamall",
+    "footfall": 894,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-sm-megamall",
+    "footfall": 1019,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-sm-megamall",
+    "footfall": 1141,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-sm-megamall",
+    "footfall": 1073,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-sm-megamall",
+    "footfall": 900,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-sm-megamall",
+    "footfall": 1042,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-sm-megamall",
+    "footfall": 993,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-sm-megamall",
+    "footfall": 972,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-sm-megamall",
+    "footfall": 912,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-sm-megamall",
+    "footfall": 954,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-sm-megamall",
+    "footfall": 1078,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-sm-megamall",
+    "footfall": 915,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-sm-megamall",
+    "footfall": 998,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-sm-megamall",
+    "footfall": 1081,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-sm-megamall",
+    "footfall": 1001,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-sm-megamall",
+    "footfall": 957,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-sm-megamall",
+    "footfall": 1229,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-sm-megamall",
+    "footfall": 1038,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-sm-megamall",
+    "footfall": 919,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-sm-megamall",
+    "footfall": 1022,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-sm-megamall",
+    "footfall": 913,
+    "baseline": 924
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-sm-megamall",
+    "footfall": 844,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-sm-megamall",
+    "footfall": 928,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-sm-megamall",
+    "footfall": 1069,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-sm-megamall",
+    "footfall": 1093,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-sm-megamall",
+    "footfall": 897,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-sm-megamall",
+    "footfall": 947,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-sm-megamall",
+    "footfall": 985,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-sm-megamall",
+    "footfall": 735,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-sm-megamall",
+    "footfall": 913,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-sm-megamall",
+    "footfall": 1123,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-sm-megamall",
+    "footfall": 1203,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-sm-megamall",
+    "footfall": 943,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-sm-megamall",
+    "footfall": 953,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-sm-megamall",
+    "footfall": 783,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-sm-megamall",
+    "footfall": 954,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-sm-megamall",
+    "footfall": 960,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-sm-megamall",
+    "footfall": 1028,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-sm-megamall",
+    "footfall": 1087,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-sm-megamall",
+    "footfall": 818,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-sm-megamall",
+    "footfall": 827,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-sm-megamall",
+    "footfall": 880,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-sm-megamall",
+    "footfall": 827,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-sm-megamall",
+    "footfall": 806,
+    "baseline": 924
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-sm-megamall",
+    "footfall": 1412,
+    "baseline": 1154
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-ortigas",
+    "footfall": 1123,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-ortigas",
+    "footfall": 794,
+    "baseline": 812
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-ortigas",
+    "footfall": 848,
+    "baseline": 812
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-ortigas",
+    "footfall": 724,
+    "baseline": 812
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-ortigas",
+    "footfall": 786,
+    "baseline": 812
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-ortigas",
+    "footfall": 682,
+    "baseline": 812
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-ortigas",
+    "footfall": 1156,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-ortigas",
+    "footfall": 1008,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-ortigas",
+    "footfall": 696,
+    "baseline": 812
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-ortigas",
+    "footfall": 762,
+    "baseline": 812
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-ortigas",
+    "footfall": 815,
+    "baseline": 812
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-ortigas",
+    "footfall": 733,
+    "baseline": 812
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-ortigas",
+    "footfall": 916,
+    "baseline": 812
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-ortigas",
+    "footfall": 992,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-ortigas",
+    "footfall": 1069,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-ortigas",
+    "footfall": 877,
+    "baseline": 812
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-ortigas",
+    "footfall": 640,
+    "baseline": 812
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-ortigas",
+    "footfall": 791,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-ortigas",
+    "footfall": 817,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-ortigas",
+    "footfall": 830,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-ortigas",
+    "footfall": 1034,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-ortigas",
+    "footfall": 932,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-ortigas",
+    "footfall": 751,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-ortigas",
+    "footfall": 764,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-ortigas",
+    "footfall": 849,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-ortigas",
+    "footfall": 864,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-ortigas",
+    "footfall": 814,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-ortigas",
+    "footfall": 1042,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-ortigas",
+    "footfall": 1022,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-ortigas",
+    "footfall": 783,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-ortigas",
+    "footfall": 793,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-ortigas",
+    "footfall": 965,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-ortigas",
+    "footfall": 856,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-ortigas",
+    "footfall": 811,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-ortigas",
+    "footfall": 959,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-ortigas",
+    "footfall": 1052,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-ortigas",
+    "footfall": 876,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-ortigas",
+    "footfall": 813,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-ortigas",
+    "footfall": 782,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-ortigas",
+    "footfall": 837,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-ortigas",
+    "footfall": 889,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-ortigas",
+    "footfall": 1070,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-ortigas",
+    "footfall": 1042,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-ortigas",
+    "footfall": 711,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-ortigas",
+    "footfall": 803,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-ortigas",
+    "footfall": 853,
+    "baseline": 812
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-ortigas",
+    "footfall": 775,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-ortigas",
+    "footfall": 701,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-ortigas",
+    "footfall": 924,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-ortigas",
+    "footfall": 1070,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-ortigas",
+    "footfall": 852,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-ortigas",
+    "footfall": 838,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-ortigas",
+    "footfall": 812,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-ortigas",
+    "footfall": 662,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-ortigas",
+    "footfall": 816,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-ortigas",
+    "footfall": 922,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-ortigas",
+    "footfall": 1113,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-ortigas",
+    "footfall": 748,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-ortigas",
+    "footfall": 836,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-ortigas",
+    "footfall": 727,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-ortigas",
+    "footfall": 902,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-ortigas",
+    "footfall": 750,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-ortigas",
+    "footfall": 1103,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-ortigas",
+    "footfall": 1019,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-ortigas",
+    "footfall": 679,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-ortigas",
+    "footfall": 810,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-ortigas",
+    "footfall": 759,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-ortigas",
+    "footfall": 927,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-ortigas",
+    "footfall": 775,
+    "baseline": 812
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-ortigas",
+    "footfall": 1037,
+    "baseline": 1015
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-moa",
+    "footfall": 1369,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-moa",
+    "footfall": 1239,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-moa",
+    "footfall": 1062,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-moa",
+    "footfall": 1068,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-moa",
+    "footfall": 1065,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-moa",
+    "footfall": 990,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-moa",
+    "footfall": 1383,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-moa",
+    "footfall": 1466,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-moa",
+    "footfall": 1299,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-moa",
+    "footfall": 1074,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-moa",
+    "footfall": 978,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-moa",
+    "footfall": 1132,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-moa",
+    "footfall": 1131,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-moa",
+    "footfall": 1496,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-moa",
+    "footfall": 1384,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-moa",
+    "footfall": 1144,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-moa",
+    "footfall": 1051,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-moa",
+    "footfall": 1018,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-moa",
+    "footfall": 1144,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-moa",
+    "footfall": 944,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-moa",
+    "footfall": 1446,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-moa",
+    "footfall": 1486,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-moa",
+    "footfall": 1032,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-moa",
+    "footfall": 1216,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-moa",
+    "footfall": 1052,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-moa",
+    "footfall": 1160,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-moa",
+    "footfall": 1090,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-moa",
+    "footfall": 1447,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-moa",
+    "footfall": 1268,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-moa",
+    "footfall": 1040,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-moa",
+    "footfall": 1101,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-moa",
+    "footfall": 1179,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-moa",
+    "footfall": 1129,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-moa",
+    "footfall": 1091,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-moa",
+    "footfall": 1222,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-moa",
+    "footfall": 1452,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-moa",
+    "footfall": 1058,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-moa",
+    "footfall": 1114,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-moa",
+    "footfall": 1062,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-moa",
+    "footfall": 1012,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-moa",
+    "footfall": 1034,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-moa",
+    "footfall": 1454,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-moa",
+    "footfall": 1355,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-moa",
+    "footfall": 1090,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-moa",
+    "footfall": 1078,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-moa",
+    "footfall": 1085,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-moa",
+    "footfall": 1199,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-moa",
+    "footfall": 1059,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-moa",
+    "footfall": 1266,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-moa",
+    "footfall": 1098,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-moa",
+    "footfall": 1155,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-moa",
+    "footfall": 1012,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-moa",
+    "footfall": 1062,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-moa",
+    "footfall": 1223,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-moa",
+    "footfall": 1048,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-moa",
+    "footfall": 1371,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-moa",
+    "footfall": 1409,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-moa",
+    "footfall": 1048,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-moa",
+    "footfall": 1308,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-moa",
+    "footfall": 1106,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-moa",
+    "footfall": 1057,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-moa",
+    "footfall": 1183,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-moa",
+    "footfall": 1372,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-moa",
+    "footfall": 1386,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-moa",
+    "footfall": 1109,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-moa",
+    "footfall": 1050,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-moa",
+    "footfall": 1074,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-moa",
+    "footfall": 1088,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-moa",
+    "footfall": 1103,
+    "baseline": 1084
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-moa",
+    "footfall": 1197,
+    "baseline": 1355
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-eastwood",
+    "footfall": 1469,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-eastwood",
+    "footfall": 927,
+    "baseline": 956
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-eastwood",
+    "footfall": 974,
+    "baseline": 956
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-eastwood",
+    "footfall": 1020,
+    "baseline": 956
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-eastwood",
+    "footfall": 959,
+    "baseline": 956
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-eastwood",
+    "footfall": 1013,
+    "baseline": 956
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-eastwood",
+    "footfall": 1369,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-eastwood",
+    "footfall": 1196,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-eastwood",
+    "footfall": 915,
+    "baseline": 956
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-eastwood",
+    "footfall": 924,
+    "baseline": 956
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-eastwood",
+    "footfall": 930,
+    "baseline": 956
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-eastwood",
+    "footfall": 991,
+    "baseline": 956
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-eastwood",
+    "footfall": 937,
+    "baseline": 956
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-eastwood",
+    "footfall": 962,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-eastwood",
+    "footfall": 1265,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-eastwood",
+    "footfall": 995,
+    "baseline": 956
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-eastwood",
+    "footfall": 979,
+    "baseline": 956
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-eastwood",
+    "footfall": 908,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-eastwood",
+    "footfall": 1013,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-eastwood",
+    "footfall": 929,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-eastwood",
+    "footfall": 1246,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-eastwood",
+    "footfall": 1435,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-eastwood",
+    "footfall": 1014,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-eastwood",
+    "footfall": 971,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-eastwood",
+    "footfall": 978,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-eastwood",
+    "footfall": 989,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-eastwood",
+    "footfall": 990,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-eastwood",
+    "footfall": 1168,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-eastwood",
+    "footfall": 1232,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-eastwood",
+    "footfall": 787,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-eastwood",
+    "footfall": 934,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-eastwood",
+    "footfall": 1044,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-eastwood",
+    "footfall": 901,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-eastwood",
+    "footfall": 1056,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-eastwood",
+    "footfall": 1282,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-eastwood",
+    "footfall": 1170,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-eastwood",
+    "footfall": 994,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-eastwood",
+    "footfall": 958,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-eastwood",
+    "footfall": 1135,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-eastwood",
+    "footfall": 1044,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-eastwood",
+    "footfall": 973,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-eastwood",
+    "footfall": 1141,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-eastwood",
+    "footfall": 1209,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-eastwood",
+    "footfall": 862,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-eastwood",
+    "footfall": 977,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-eastwood",
+    "footfall": 1005,
+    "baseline": 956
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-eastwood",
+    "footfall": 914,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-eastwood",
+    "footfall": 1090,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-eastwood",
+    "footfall": 1060,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-eastwood",
+    "footfall": 1164,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-eastwood",
+    "footfall": 937,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-eastwood",
+    "footfall": 977,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-eastwood",
+    "footfall": 1136,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-eastwood",
+    "footfall": 923,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-eastwood",
+    "footfall": 756,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-eastwood",
+    "footfall": 1199,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-eastwood",
+    "footfall": 1246,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-eastwood",
+    "footfall": 1004,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-eastwood",
+    "footfall": 979,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-eastwood",
+    "footfall": 888,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-eastwood",
+    "footfall": 839,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-eastwood",
+    "footfall": 839,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-eastwood",
+    "footfall": 1337,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-eastwood",
+    "footfall": 1202,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-eastwood",
+    "footfall": 890,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-eastwood",
+    "footfall": 878,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-eastwood",
+    "footfall": 982,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-eastwood",
+    "footfall": 947,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-eastwood",
+    "footfall": 786,
+    "baseline": 956
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-eastwood",
+    "footfall": 1222,
+    "baseline": 1195
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-store-bgc1",
+    "footfall": 1437,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-store-bgc1",
+    "footfall": 1048,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-store-bgc1",
+    "footfall": 1240,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-store-bgc1",
+    "footfall": 1145,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-store-bgc1",
+    "footfall": 1020,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-store-bgc1",
+    "footfall": 1066,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-store-bgc1",
+    "footfall": 1638,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-store-bgc1",
+    "footfall": 1487,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-store-bgc1",
+    "footfall": 1178,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-store-bgc1",
+    "footfall": 1271,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-store-bgc1",
+    "footfall": 1207,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-store-bgc1",
+    "footfall": 1293,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-store-bgc1",
+    "footfall": 1234,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-store-bgc1",
+    "footfall": 1531,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-store-bgc1",
+    "footfall": 1444,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-store-bgc1",
+    "footfall": 1261,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-store-bgc1",
+    "footfall": 919,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-store-bgc1",
+    "footfall": 1271,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-store-bgc1",
+    "footfall": 1127,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-store-bgc1",
+    "footfall": 1251,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-store-bgc1",
+    "footfall": 1494,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-store-bgc1",
+    "footfall": 1341,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-store-bgc1",
+    "footfall": 1131,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-store-bgc1",
+    "footfall": 1193,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-store-bgc1",
+    "footfall": 1206,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-store-bgc1",
+    "footfall": 1104,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-store-bgc1",
+    "footfall": 1384,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-store-bgc1",
+    "footfall": 1427,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-store-bgc1",
+    "footfall": 1404,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-store-bgc1",
+    "footfall": 1079,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-store-bgc1",
+    "footfall": 1365,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-store-bgc1",
+    "footfall": 1318,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-store-bgc1",
+    "footfall": 1479,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-store-bgc1",
+    "footfall": 1482,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-store-bgc1",
+    "footfall": 1925,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-store-bgc1",
+    "footfall": 2034,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-store-bgc1",
+    "footfall": 1670,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-store-bgc1",
+    "footfall": 1392,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-store-bgc1",
+    "footfall": 1345,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-store-bgc1",
+    "footfall": 1713,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-store-bgc1",
+    "footfall": 1582,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-store-bgc1",
+    "footfall": 1901,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-store-bgc1",
+    "footfall": 2047,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-store-bgc1",
+    "footfall": 1724,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-store-bgc1",
+    "footfall": 1593,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-store-bgc1",
+    "footfall": 1353,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-store-bgc1",
+    "footfall": 1299,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-store-bgc1",
+    "footfall": 1391,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-store-bgc1",
+    "footfall": 1607,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-store-bgc1",
+    "footfall": 1819,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-store-bgc1",
+    "footfall": 1390,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-store-bgc1",
+    "footfall": 1336,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-store-bgc1",
+    "footfall": 1199,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-store-bgc1",
+    "footfall": 1343,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-store-bgc1",
+    "footfall": 1169,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-store-bgc1",
+    "footfall": 1700,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-store-bgc1",
+    "footfall": 1534,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-store-bgc1",
+    "footfall": 1060,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-store-bgc1",
+    "footfall": 1183,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-store-bgc1",
+    "footfall": 1048,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-store-bgc1",
+    "footfall": 1082,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-store-bgc1",
+    "footfall": 1109,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-store-bgc1",
+    "footfall": 1401,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-store-bgc1",
+    "footfall": 1419,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-store-bgc1",
+    "footfall": 1265,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-store-bgc1",
+    "footfall": 1243,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-store-bgc1",
+    "footfall": 1076,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-store-bgc1",
+    "footfall": 1339,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-store-bgc1",
+    "footfall": 1095,
+    "baseline": 1191
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-store-bgc1",
+    "footfall": 1400,
+    "baseline": 1489
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-store-makati",
+    "footfall": 1582,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-store-makati",
+    "footfall": 1178,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-store-makati",
+    "footfall": 1127,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-store-makati",
+    "footfall": 1103,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-store-makati",
+    "footfall": 1244,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-store-makati",
+    "footfall": 1398,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-store-makati",
+    "footfall": 1397,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-store-makati",
+    "footfall": 1551,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-store-makati",
+    "footfall": 1168,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-store-makati",
+    "footfall": 1132,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-store-makati",
+    "footfall": 1268,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-store-makati",
+    "footfall": 1249,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-store-makati",
+    "footfall": 1147,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-store-makati",
+    "footfall": 1342,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-store-makati",
+    "footfall": 1350,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-store-makati",
+    "footfall": 1186,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-store-makati",
+    "footfall": 1159,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-store-makati",
+    "footfall": 1345,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-store-makati",
+    "footfall": 1137,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-store-makati",
+    "footfall": 1118,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-store-makati",
+    "footfall": 1519,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-store-makati",
+    "footfall": 1518,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-store-makati",
+    "footfall": 1214,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-store-makati",
+    "footfall": 1331,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-store-makati",
+    "footfall": 1284,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-store-makati",
+    "footfall": 948,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-store-makati",
+    "footfall": 1316,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-store-makati",
+    "footfall": 1253,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-store-makati",
+    "footfall": 1543,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-store-makati",
+    "footfall": 1300,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-store-makati",
+    "footfall": 1265,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-store-makati",
+    "footfall": 1582,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-store-makati",
+    "footfall": 1402,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-store-makati",
+    "footfall": 1624,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-store-makati",
+    "footfall": 1827,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-store-makati",
+    "footfall": 2126,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-store-makati",
+    "footfall": 1706,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-store-makati",
+    "footfall": 1635,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-store-makati",
+    "footfall": 1477,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-store-makati",
+    "footfall": 1692,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-store-makati",
+    "footfall": 1374,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-store-makati",
+    "footfall": 1782,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-store-makati",
+    "footfall": 1832,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-store-makati",
+    "footfall": 1336,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-store-makati",
+    "footfall": 1460,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-store-makati",
+    "footfall": 1356,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-store-makati",
+    "footfall": 1447,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-store-makati",
+    "footfall": 1295,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-store-makati",
+    "footfall": 1889,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-store-makati",
+    "footfall": 1687,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-store-makati",
+    "footfall": 1346,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-store-makati",
+    "footfall": 1220,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-store-makati",
+    "footfall": 1271,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-store-makati",
+    "footfall": 1264,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-store-makati",
+    "footfall": 1514,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-store-makati",
+    "footfall": 1666,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-store-makati",
+    "footfall": 1340,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-store-makati",
+    "footfall": 1081,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-store-makati",
+    "footfall": 1172,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-store-makati",
+    "footfall": 1023,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-store-makati",
+    "footfall": 1297,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-store-makati",
+    "footfall": 1085,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-store-makati",
+    "footfall": 1670,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-store-makati",
+    "footfall": 1328,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-store-makati",
+    "footfall": 1107,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-store-makati",
+    "footfall": 1082,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-store-makati",
+    "footfall": 1082,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-store-makati",
+    "footfall": 1157,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-store-makati",
+    "footfall": 1305,
+    "baseline": 1179
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-store-makati",
+    "footfall": 1506,
+    "baseline": 1474
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-cand-clark",
+    "footfall": 287,
+    "baseline": 276
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-cand-clark",
+    "footfall": 237,
+    "baseline": 221
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-cand-clark",
+    "footfall": 215,
+    "baseline": 221
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-cand-clark",
+    "footfall": 205,
+    "baseline": 221
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-cand-clark",
+    "footfall": 211,
+    "baseline": 221
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-cand-clark",
+    "footfall": 226,
+    "baseline": 221
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-cand-clark",
+    "footfall": 290,
+    "baseline": 276
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-cand-clark",
+    "footfall": 284,
+    "baseline": 276
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-cand-clark",
+    "footfall": 217,
+    "baseline": 221
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-cand-clark",
+    "footfall": 250,
+    "baseline": 221
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-cand-clark",
+    "footfall": 200,
+    "baseline": 221
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-cand-clark",
+    "footfall": 215,
+    "baseline": 221
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-cand-clark",
+    "footfall": 247,
+    "baseline": 221
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-cand-clark",
+    "footfall": 306,
+    "baseline": 276
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-cand-clark",
+    "footfall": 288,
+    "baseline": 276
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-cand-clark",
+    "footfall": 192,
+    "baseline": 221
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-cand-clark",
+    "footfall": 238,
+    "baseline": 221
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-cand-clark",
+    "footfall": 247,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-cand-clark",
+    "footfall": 221,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-cand-clark",
+    "footfall": 281,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-cand-clark",
+    "footfall": 289,
+    "baseline": 276
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-cand-clark",
+    "footfall": 301,
+    "baseline": 276
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-cand-clark",
+    "footfall": 209,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-cand-clark",
+    "footfall": 214,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-cand-clark",
+    "footfall": 230,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-cand-clark",
+    "footfall": 230,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-cand-clark",
+    "footfall": 214,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-cand-clark",
+    "footfall": 286,
+    "baseline": 276
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-cand-clark",
+    "footfall": 286,
+    "baseline": 276
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-cand-clark",
+    "footfall": 214,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-cand-clark",
+    "footfall": 206,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-cand-clark",
+    "footfall": 223,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-cand-clark",
+    "footfall": 237,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-cand-clark",
+    "footfall": 234,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-cand-clark",
+    "footfall": 282,
+    "baseline": 276
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-cand-clark",
+    "footfall": 254,
+    "baseline": 276
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-cand-clark",
+    "footfall": 236,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-cand-clark",
+    "footfall": 242,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-cand-clark",
+    "footfall": 227,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-cand-clark",
+    "footfall": 219,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-cand-clark",
+    "footfall": 204,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-cand-clark",
+    "footfall": 315,
+    "baseline": 276
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-cand-clark",
+    "footfall": 284,
+    "baseline": 276
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-cand-clark",
+    "footfall": 233,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-cand-clark",
+    "footfall": 231,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-cand-clark",
+    "footfall": 196,
+    "baseline": 221
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-cand-clark",
+    "footfall": 233,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-cand-clark",
+    "footfall": 217,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-cand-clark",
+    "footfall": 296,
+    "baseline": 276
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-cand-clark",
+    "footfall": 265,
+    "baseline": 276
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-cand-clark",
+    "footfall": 223,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-cand-clark",
+    "footfall": 218,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-cand-clark",
+    "footfall": 203,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-cand-clark",
+    "footfall": 216,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-cand-clark",
+    "footfall": 218,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-cand-clark",
+    "footfall": 265,
+    "baseline": 276
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-cand-clark",
+    "footfall": 231,
+    "baseline": 276
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-cand-clark",
+    "footfall": 248,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-cand-clark",
+    "footfall": 211,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-cand-clark",
+    "footfall": 229,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-cand-clark",
+    "footfall": 237,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-cand-clark",
+    "footfall": 228,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-cand-clark",
+    "footfall": 293,
+    "baseline": 276
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-cand-clark",
+    "footfall": 337,
+    "baseline": 276
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-cand-clark",
+    "footfall": 246,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-cand-clark",
+    "footfall": 243,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-cand-clark",
+    "footfall": 235,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-cand-clark",
+    "footfall": 211,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-cand-clark",
+    "footfall": 220,
+    "baseline": 221
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-cand-clark",
+    "footfall": 307,
+    "baseline": 276
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-cand-nuvali",
+    "footfall": 406,
+    "baseline": 368
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-cand-nuvali",
+    "footfall": 282,
+    "baseline": 295
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-cand-nuvali",
+    "footfall": 298,
+    "baseline": 295
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-cand-nuvali",
+    "footfall": 264,
+    "baseline": 295
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-cand-nuvali",
+    "footfall": 325,
+    "baseline": 295
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-cand-nuvali",
+    "footfall": 276,
+    "baseline": 295
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-cand-nuvali",
+    "footfall": 403,
+    "baseline": 368
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-cand-nuvali",
+    "footfall": 322,
+    "baseline": 368
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-cand-nuvali",
+    "footfall": 332,
+    "baseline": 295
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-cand-nuvali",
+    "footfall": 298,
+    "baseline": 295
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-cand-nuvali",
+    "footfall": 289,
+    "baseline": 295
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-cand-nuvali",
+    "footfall": 283,
+    "baseline": 295
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-cand-nuvali",
+    "footfall": 268,
+    "baseline": 295
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-cand-nuvali",
+    "footfall": 392,
+    "baseline": 368
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-cand-nuvali",
+    "footfall": 374,
+    "baseline": 368
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-cand-nuvali",
+    "footfall": 271,
+    "baseline": 295
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-cand-nuvali",
+    "footfall": 291,
+    "baseline": 295
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-cand-nuvali",
+    "footfall": 328,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-cand-nuvali",
+    "footfall": 291,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-cand-nuvali",
+    "footfall": 279,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-cand-nuvali",
+    "footfall": 370,
+    "baseline": 368
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-cand-nuvali",
+    "footfall": 379,
+    "baseline": 368
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-cand-nuvali",
+    "footfall": 292,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-cand-nuvali",
+    "footfall": 307,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-cand-nuvali",
+    "footfall": 329,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-cand-nuvali",
+    "footfall": 327,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-cand-nuvali",
+    "footfall": 284,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-cand-nuvali",
+    "footfall": 361,
+    "baseline": 368
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-cand-nuvali",
+    "footfall": 373,
+    "baseline": 368
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-cand-nuvali",
+    "footfall": 240,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-cand-nuvali",
+    "footfall": 291,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-cand-nuvali",
+    "footfall": 324,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-cand-nuvali",
+    "footfall": 260,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-cand-nuvali",
+    "footfall": 284,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-cand-nuvali",
+    "footfall": 363,
+    "baseline": 368
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-cand-nuvali",
+    "footfall": 417,
+    "baseline": 368
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-cand-nuvali",
+    "footfall": 267,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-cand-nuvali",
+    "footfall": 288,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-cand-nuvali",
+    "footfall": 317,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-cand-nuvali",
+    "footfall": 270,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-cand-nuvali",
+    "footfall": 272,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-cand-nuvali",
+    "footfall": 396,
+    "baseline": 368
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-cand-nuvali",
+    "footfall": 407,
+    "baseline": 368
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-cand-nuvali",
+    "footfall": 295,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-cand-nuvali",
+    "footfall": 361,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-cand-nuvali",
+    "footfall": 272,
+    "baseline": 295
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-cand-nuvali",
+    "footfall": 290,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-cand-nuvali",
+    "footfall": 280,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-cand-nuvali",
+    "footfall": 350,
+    "baseline": 368
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-cand-nuvali",
+    "footfall": 390,
+    "baseline": 368
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-cand-nuvali",
+    "footfall": 296,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-cand-nuvali",
+    "footfall": 279,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-cand-nuvali",
+    "footfall": 280,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-cand-nuvali",
+    "footfall": 299,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-cand-nuvali",
+    "footfall": 337,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-cand-nuvali",
+    "footfall": 366,
+    "baseline": 368
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-cand-nuvali",
+    "footfall": 413,
+    "baseline": 368
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-cand-nuvali",
+    "footfall": 293,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-cand-nuvali",
+    "footfall": 299,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-cand-nuvali",
+    "footfall": 299,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-cand-nuvali",
+    "footfall": 310,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-cand-nuvali",
+    "footfall": 332,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-cand-nuvali",
+    "footfall": 329,
+    "baseline": 368
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-cand-nuvali",
+    "footfall": 423,
+    "baseline": 368
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-cand-nuvali",
+    "footfall": 312,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-cand-nuvali",
+    "footfall": 258,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-cand-nuvali",
+    "footfall": 306,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-cand-nuvali",
+    "footfall": 300,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-cand-nuvali",
+    "footfall": 302,
+    "baseline": 295
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-cand-nuvali",
+    "footfall": 433,
+    "baseline": 368
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-cand-calamba",
+    "footfall": 314,
+    "baseline": 300
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-cand-calamba",
+    "footfall": 231,
+    "baseline": 240
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-cand-calamba",
+    "footfall": 245,
+    "baseline": 240
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-cand-calamba",
+    "footfall": 274,
+    "baseline": 240
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-cand-calamba",
+    "footfall": 252,
+    "baseline": 240
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-cand-calamba",
+    "footfall": 269,
+    "baseline": 240
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-cand-calamba",
+    "footfall": 290,
+    "baseline": 300
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-cand-calamba",
+    "footfall": 286,
+    "baseline": 300
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-cand-calamba",
+    "footfall": 261,
+    "baseline": 240
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-cand-calamba",
+    "footfall": 229,
+    "baseline": 240
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-cand-calamba",
+    "footfall": 255,
+    "baseline": 240
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-cand-calamba",
+    "footfall": 225,
+    "baseline": 240
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-cand-calamba",
+    "footfall": 226,
+    "baseline": 240
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-cand-calamba",
+    "footfall": 288,
+    "baseline": 300
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-cand-calamba",
+    "footfall": 333,
+    "baseline": 300
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-cand-calamba",
+    "footfall": 225,
+    "baseline": 240
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-cand-calamba",
+    "footfall": 223,
+    "baseline": 240
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-cand-calamba",
+    "footfall": 237,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-cand-calamba",
+    "footfall": 214,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-cand-calamba",
+    "footfall": 198,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-cand-calamba",
+    "footfall": 317,
+    "baseline": 300
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-cand-calamba",
+    "footfall": 289,
+    "baseline": 300
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-cand-calamba",
+    "footfall": 248,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-cand-calamba",
+    "footfall": 258,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-cand-calamba",
+    "footfall": 255,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-cand-calamba",
+    "footfall": 237,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-cand-calamba",
+    "footfall": 254,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-cand-calamba",
+    "footfall": 290,
+    "baseline": 300
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-cand-calamba",
+    "footfall": 309,
+    "baseline": 300
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-cand-calamba",
+    "footfall": 265,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-cand-calamba",
+    "footfall": 247,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-cand-calamba",
+    "footfall": 248,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-cand-calamba",
+    "footfall": 228,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-cand-calamba",
+    "footfall": 233,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-cand-calamba",
+    "footfall": 267,
+    "baseline": 300
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-cand-calamba",
+    "footfall": 272,
+    "baseline": 300
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-cand-calamba",
+    "footfall": 248,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-cand-calamba",
+    "footfall": 242,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-cand-calamba",
+    "footfall": 249,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-cand-calamba",
+    "footfall": 258,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-cand-calamba",
+    "footfall": 217,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-cand-calamba",
+    "footfall": 293,
+    "baseline": 300
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-cand-calamba",
+    "footfall": 312,
+    "baseline": 300
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-cand-calamba",
+    "footfall": 225,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-cand-calamba",
+    "footfall": 256,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-cand-calamba",
+    "footfall": 252,
+    "baseline": 240
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-cand-calamba",
+    "footfall": 215,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-cand-calamba",
+    "footfall": 291,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-cand-calamba",
+    "footfall": 330,
+    "baseline": 300
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-cand-calamba",
+    "footfall": 301,
+    "baseline": 300
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-cand-calamba",
+    "footfall": 219,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-cand-calamba",
+    "footfall": 252,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-cand-calamba",
+    "footfall": 263,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-cand-calamba",
+    "footfall": 243,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-cand-calamba",
+    "footfall": 256,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-cand-calamba",
+    "footfall": 363,
+    "baseline": 300
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-cand-calamba",
+    "footfall": 327,
+    "baseline": 300
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-cand-calamba",
+    "footfall": 257,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-cand-calamba",
+    "footfall": 245,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-cand-calamba",
+    "footfall": 250,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-cand-calamba",
+    "footfall": 249,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-cand-calamba",
+    "footfall": 292,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-cand-calamba",
+    "footfall": 290,
+    "baseline": 300
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-cand-calamba",
+    "footfall": 290,
+    "baseline": 300
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-cand-calamba",
+    "footfall": 268,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-cand-calamba",
+    "footfall": 250,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-cand-calamba",
+    "footfall": 244,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-cand-calamba",
+    "footfall": 265,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-cand-calamba",
+    "footfall": 242,
+    "baseline": 240
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-cand-calamba",
+    "footfall": 315,
+    "baseline": 300
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-cand-tanza",
+    "footfall": 304,
+    "baseline": 270
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-cand-tanza",
+    "footfall": 245,
+    "baseline": 216
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-cand-tanza",
+    "footfall": 215,
+    "baseline": 216
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-cand-tanza",
+    "footfall": 234,
+    "baseline": 216
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-cand-tanza",
+    "footfall": 198,
+    "baseline": 216
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-cand-tanza",
+    "footfall": 201,
+    "baseline": 216
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-cand-tanza",
+    "footfall": 265,
+    "baseline": 270
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-cand-tanza",
+    "footfall": 232,
+    "baseline": 270
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-cand-tanza",
+    "footfall": 248,
+    "baseline": 216
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-cand-tanza",
+    "footfall": 225,
+    "baseline": 216
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-cand-tanza",
+    "footfall": 213,
+    "baseline": 216
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-cand-tanza",
+    "footfall": 197,
+    "baseline": 216
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-cand-tanza",
+    "footfall": 256,
+    "baseline": 216
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-cand-tanza",
+    "footfall": 268,
+    "baseline": 270
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-cand-tanza",
+    "footfall": 246,
+    "baseline": 270
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-cand-tanza",
+    "footfall": 222,
+    "baseline": 216
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-cand-tanza",
+    "footfall": 215,
+    "baseline": 216
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-cand-tanza",
+    "footfall": 236,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-cand-tanza",
+    "footfall": 219,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-cand-tanza",
+    "footfall": 216,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-cand-tanza",
+    "footfall": 286,
+    "baseline": 270
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-cand-tanza",
+    "footfall": 279,
+    "baseline": 270
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-cand-tanza",
+    "footfall": 220,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-cand-tanza",
+    "footfall": 208,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-cand-tanza",
+    "footfall": 237,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-cand-tanza",
+    "footfall": 242,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-cand-tanza",
+    "footfall": 195,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-cand-tanza",
+    "footfall": 302,
+    "baseline": 270
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-cand-tanza",
+    "footfall": 265,
+    "baseline": 270
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-cand-tanza",
+    "footfall": 241,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-cand-tanza",
+    "footfall": 200,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-cand-tanza",
+    "footfall": 202,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-cand-tanza",
+    "footfall": 224,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-cand-tanza",
+    "footfall": 236,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-cand-tanza",
+    "footfall": 266,
+    "baseline": 270
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-cand-tanza",
+    "footfall": 320,
+    "baseline": 270
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-cand-tanza",
+    "footfall": 210,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-cand-tanza",
+    "footfall": 206,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-cand-tanza",
+    "footfall": 195,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-cand-tanza",
+    "footfall": 197,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-cand-tanza",
+    "footfall": 236,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-cand-tanza",
+    "footfall": 321,
+    "baseline": 270
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-cand-tanza",
+    "footfall": 287,
+    "baseline": 270
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-cand-tanza",
+    "footfall": 217,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-cand-tanza",
+    "footfall": 206,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-cand-tanza",
+    "footfall": 217,
+    "baseline": 216
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-cand-tanza",
+    "footfall": 212,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-cand-tanza",
+    "footfall": 234,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-cand-tanza",
+    "footfall": 284,
+    "baseline": 270
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-cand-tanza",
+    "footfall": 277,
+    "baseline": 270
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-cand-tanza",
+    "footfall": 228,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-cand-tanza",
+    "footfall": 234,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-cand-tanza",
+    "footfall": 251,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-cand-tanza",
+    "footfall": 198,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-cand-tanza",
+    "footfall": 216,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-cand-tanza",
+    "footfall": 272,
+    "baseline": 270
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-cand-tanza",
+    "footfall": 272,
+    "baseline": 270
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-cand-tanza",
+    "footfall": 234,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-cand-tanza",
+    "footfall": 260,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-cand-tanza",
+    "footfall": 236,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-cand-tanza",
+    "footfall": 242,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-cand-tanza",
+    "footfall": 232,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-cand-tanza",
+    "footfall": 299,
+    "baseline": 270
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-cand-tanza",
+    "footfall": 313,
+    "baseline": 270
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-cand-tanza",
+    "footfall": 214,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-cand-tanza",
+    "footfall": 241,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-cand-tanza",
+    "footfall": 215,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-cand-tanza",
+    "footfall": 239,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-cand-tanza",
+    "footfall": 226,
+    "baseline": 216
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-cand-tanza",
+    "footfall": 262,
+    "baseline": 270
+  },
+  {
+    "date": "2024-01-14",
+    "venueId": "v-cand-bulacan",
+    "footfall": 300,
+    "baseline": 289
+  },
+  {
+    "date": "2024-01-15",
+    "venueId": "v-cand-bulacan",
+    "footfall": 224,
+    "baseline": 231
+  },
+  {
+    "date": "2024-01-16",
+    "venueId": "v-cand-bulacan",
+    "footfall": 264,
+    "baseline": 231
+  },
+  {
+    "date": "2024-01-17",
+    "venueId": "v-cand-bulacan",
+    "footfall": 247,
+    "baseline": 231
+  },
+  {
+    "date": "2024-01-18",
+    "venueId": "v-cand-bulacan",
+    "footfall": 231,
+    "baseline": 231
+  },
+  {
+    "date": "2024-01-19",
+    "venueId": "v-cand-bulacan",
+    "footfall": 247,
+    "baseline": 231
+  },
+  {
+    "date": "2024-01-20",
+    "venueId": "v-cand-bulacan",
+    "footfall": 254,
+    "baseline": 289
+  },
+  {
+    "date": "2024-01-21",
+    "venueId": "v-cand-bulacan",
+    "footfall": 275,
+    "baseline": 289
+  },
+  {
+    "date": "2024-01-22",
+    "venueId": "v-cand-bulacan",
+    "footfall": 226,
+    "baseline": 231
+  },
+  {
+    "date": "2024-01-23",
+    "venueId": "v-cand-bulacan",
+    "footfall": 256,
+    "baseline": 231
+  },
+  {
+    "date": "2024-01-24",
+    "venueId": "v-cand-bulacan",
+    "footfall": 220,
+    "baseline": 231
+  },
+  {
+    "date": "2024-01-25",
+    "venueId": "v-cand-bulacan",
+    "footfall": 239,
+    "baseline": 231
+  },
+  {
+    "date": "2024-01-26",
+    "venueId": "v-cand-bulacan",
+    "footfall": 229,
+    "baseline": 231
+  },
+  {
+    "date": "2024-01-27",
+    "venueId": "v-cand-bulacan",
+    "footfall": 282,
+    "baseline": 289
+  },
+  {
+    "date": "2024-01-28",
+    "venueId": "v-cand-bulacan",
+    "footfall": 321,
+    "baseline": 289
+  },
+  {
+    "date": "2024-01-29",
+    "venueId": "v-cand-bulacan",
+    "footfall": 270,
+    "baseline": 231
+  },
+  {
+    "date": "2024-01-30",
+    "venueId": "v-cand-bulacan",
+    "footfall": 227,
+    "baseline": 231
+  },
+  {
+    "date": "2024-01-31",
+    "venueId": "v-cand-bulacan",
+    "footfall": 210,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-01",
+    "venueId": "v-cand-bulacan",
+    "footfall": 244,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-02",
+    "venueId": "v-cand-bulacan",
+    "footfall": 242,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-03",
+    "venueId": "v-cand-bulacan",
+    "footfall": 302,
+    "baseline": 289
+  },
+  {
+    "date": "2024-02-04",
+    "venueId": "v-cand-bulacan",
+    "footfall": 308,
+    "baseline": 289
+  },
+  {
+    "date": "2024-02-05",
+    "venueId": "v-cand-bulacan",
+    "footfall": 241,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-06",
+    "venueId": "v-cand-bulacan",
+    "footfall": 256,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-07",
+    "venueId": "v-cand-bulacan",
+    "footfall": 257,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-08",
+    "venueId": "v-cand-bulacan",
+    "footfall": 261,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-09",
+    "venueId": "v-cand-bulacan",
+    "footfall": 253,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-10",
+    "venueId": "v-cand-bulacan",
+    "footfall": 290,
+    "baseline": 289
+  },
+  {
+    "date": "2024-02-11",
+    "venueId": "v-cand-bulacan",
+    "footfall": 303,
+    "baseline": 289
+  },
+  {
+    "date": "2024-02-12",
+    "venueId": "v-cand-bulacan",
+    "footfall": 227,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-13",
+    "venueId": "v-cand-bulacan",
+    "footfall": 252,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-14",
+    "venueId": "v-cand-bulacan",
+    "footfall": 232,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-15",
+    "venueId": "v-cand-bulacan",
+    "footfall": 248,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-16",
+    "venueId": "v-cand-bulacan",
+    "footfall": 223,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-17",
+    "venueId": "v-cand-bulacan",
+    "footfall": 273,
+    "baseline": 289
+  },
+  {
+    "date": "2024-02-18",
+    "venueId": "v-cand-bulacan",
+    "footfall": 267,
+    "baseline": 289
+  },
+  {
+    "date": "2024-02-19",
+    "venueId": "v-cand-bulacan",
+    "footfall": 264,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-20",
+    "venueId": "v-cand-bulacan",
+    "footfall": 219,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-21",
+    "venueId": "v-cand-bulacan",
+    "footfall": 263,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-22",
+    "venueId": "v-cand-bulacan",
+    "footfall": 207,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-23",
+    "venueId": "v-cand-bulacan",
+    "footfall": 221,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-24",
+    "venueId": "v-cand-bulacan",
+    "footfall": 324,
+    "baseline": 289
+  },
+  {
+    "date": "2024-02-25",
+    "venueId": "v-cand-bulacan",
+    "footfall": 273,
+    "baseline": 289
+  },
+  {
+    "date": "2024-02-26",
+    "venueId": "v-cand-bulacan",
+    "footfall": 246,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-27",
+    "venueId": "v-cand-bulacan",
+    "footfall": 228,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-28",
+    "venueId": "v-cand-bulacan",
+    "footfall": 255,
+    "baseline": 231
+  },
+  {
+    "date": "2024-02-29",
+    "venueId": "v-cand-bulacan",
+    "footfall": 258,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-01",
+    "venueId": "v-cand-bulacan",
+    "footfall": 246,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-02",
+    "venueId": "v-cand-bulacan",
+    "footfall": 304,
+    "baseline": 289
+  },
+  {
+    "date": "2024-03-03",
+    "venueId": "v-cand-bulacan",
+    "footfall": 275,
+    "baseline": 289
+  },
+  {
+    "date": "2024-03-04",
+    "venueId": "v-cand-bulacan",
+    "footfall": 249,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-05",
+    "venueId": "v-cand-bulacan",
+    "footfall": 210,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-06",
+    "venueId": "v-cand-bulacan",
+    "footfall": 252,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-07",
+    "venueId": "v-cand-bulacan",
+    "footfall": 227,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-08",
+    "venueId": "v-cand-bulacan",
+    "footfall": 236,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-09",
+    "venueId": "v-cand-bulacan",
+    "footfall": 339,
+    "baseline": 289
+  },
+  {
+    "date": "2024-03-10",
+    "venueId": "v-cand-bulacan",
+    "footfall": 339,
+    "baseline": 289
+  },
+  {
+    "date": "2024-03-11",
+    "venueId": "v-cand-bulacan",
+    "footfall": 240,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-12",
+    "venueId": "v-cand-bulacan",
+    "footfall": 261,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-13",
+    "venueId": "v-cand-bulacan",
+    "footfall": 254,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-14",
+    "venueId": "v-cand-bulacan",
+    "footfall": 268,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-15",
+    "venueId": "v-cand-bulacan",
+    "footfall": 217,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-16",
+    "venueId": "v-cand-bulacan",
+    "footfall": 325,
+    "baseline": 289
+  },
+  {
+    "date": "2024-03-17",
+    "venueId": "v-cand-bulacan",
+    "footfall": 299,
+    "baseline": 289
+  },
+  {
+    "date": "2024-03-18",
+    "venueId": "v-cand-bulacan",
+    "footfall": 217,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-19",
+    "venueId": "v-cand-bulacan",
+    "footfall": 251,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-20",
+    "venueId": "v-cand-bulacan",
+    "footfall": 239,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-21",
+    "venueId": "v-cand-bulacan",
+    "footfall": 226,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-22",
+    "venueId": "v-cand-bulacan",
+    "footfall": 190,
+    "baseline": 231
+  },
+  {
+    "date": "2024-03-23",
+    "venueId": "v-cand-bulacan",
+    "footfall": 289,
+    "baseline": 289
+  }
+]

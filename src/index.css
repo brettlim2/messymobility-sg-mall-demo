@@ -1,0 +1,167 @@
+@import 'tailwindcss';
+@import 'maplibre-gl/dist/maplibre-gl.css';
+
+/* MessyNet · Signal in the Dark — data face for the mono utility */
+@theme {
+  --font-mono: 'JetBrains Mono', ui-monospace, 'SF Mono', monospace;
+}
+
+:root {
+  color-scheme: dark;
+  font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
+
+  /* MessyNet design tokens (Signal in the Dark) */
+  --mn-night: #0b0e18; /* primary dark ground */
+  --mn-abyss: #07090b; /* deepest ground: heroes, key visuals */
+  --mn-panel: #10161c; /* raised dark section */
+  --mn-card: #152420; /* card surface on dark */
+  --mn-callout-bg: #122823; /* callout surface on dark */
+  --mn-teal: #00c4b0; /* the mark, key accents */
+  --mn-teal-hover: #00d8c2;
+  --mn-deep: #0e4d46; /* structure lines, the loop */
+  --mn-volt: #bbff2b; /* the signal dot — ONE per surface */
+  --mn-border: #2b453f;
+  --mn-wire: #1c3833;
+  --mn-wire-subtle: #1a222b;
+  --mn-heading: #f2f7f6;
+  --mn-ice: #dee9e7;
+  --mn-body: #c3d4d1;
+  --mn-mist: #8fa8a3;
+  --mn-faint: #5f7a76;
+  --mn-logo-ink: #03050a;
+  --mn-radius-sm: 5px;
+  --mn-radius-btn: 6px;
+  --mn-radius: 8px;
+  --mn-radius-lg: 10px;
+  --mn-shadow: 0 10px 36px rgba(0, 0, 0, 0.45);
+
+  /* Legacy vm-* tokens, remapped onto the MessyNet palette so the shell follows */
+  --vm-bg: var(--mn-night);
+  --vm-surface: #10161c;
+  --vm-surface-solid: var(--mn-panel);
+  --vm-border: var(--mn-wire);
+  --vm-border-bright: rgba(0, 196, 176, 0.45);
+  --vm-cyan: var(--mn-teal);
+  --vm-violet: var(--mn-teal);
+  --vm-amber: var(--mn-volt);
+  --vm-rose: var(--mn-faint);
+  --vm-text: var(--mn-heading);
+  --vm-muted: var(--mn-mist);
+  --vm-glow-cyan: transparent;
+  --vm-glow-violet: transparent;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--vm-bg);
+  color: var(--vm-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.font-display {
+  font-family: 'Space Grotesk', ui-sans-serif, system-ui, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+}
+
+/* Page ground — flat, no glow, no grid (brand: separated by borders, not blur) */
+.vm-page-bg {
+  background-color: var(--mn-night);
+}
+
+/* Card surface on dark — flat, bordered, quiet */
+.vm-glass {
+  background: var(--mn-panel);
+  border: 1px solid var(--mn-wire);
+}
+
+/* Featured surface — one teal edge, no gradient */
+.vm-glass-bright {
+  background: var(--mn-card);
+  border: 1px solid var(--mn-border);
+  border-top: 2px solid var(--mn-teal);
+}
+
+/* Map readability overlay for story mode */
+.vm-map-scrim {
+  background: linear-gradient(
+    105deg,
+    rgba(6, 9, 18, 0.92) 0%,
+    rgba(6, 9, 18, 0.75) 38%,
+    rgba(6, 9, 18, 0.35) 62%,
+    rgba(6, 9, 18, 0.15) 100%
+  );
+}
+
+/* Scroll snap for story beats */
+.vm-story-scroll {
+  scroll-snap-type: y proximity;
+}
+
+.vm-story-beat {
+  scroll-snap-align: center;
+}
+
+.vm-graph-edge-pulse {
+  animation: vm-edge-pulse 2.5s ease-in-out infinite;
+}
+
+@keyframes vm-edge-pulse {
+  0%,
+  100% {
+    stroke-opacity: 0.25;
+  }
+  50% {
+    stroke-opacity: 0.65;
+  }
+}
+
+.vm-mall-flow {
+  animation: vm-mall-flow 2.2s linear infinite;
+}
+
+.vm-mall-flow-delay {
+  animation-delay: -0.75s;
+}
+
+.vm-mall-flow-delay-2 {
+  animation-delay: -1.4s;
+}
+
+@keyframes vm-mall-flow {
+  to {
+    stroke-dashoffset: -30;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .vm-mall-flow {
+    animation: none;
+  }
+}
+
+/* Chart container — prevents Recharts overflow */
+.vm-chart-box {
+  min-height: 300px;
+  height: 300px;
+  width: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 196, 176, 0.22);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 196, 176, 0.4);
+}

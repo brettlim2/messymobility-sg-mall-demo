@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-06-23T03:05:55.461Z",
+  "seed": 42,
+  "days": 70,
+  "startDate": "2024-01-14",
+  "endDate": "2024-03-23",
+  "headlineMetrics": {
+    "liftPct": 25,
+    "causalLagDays": 3.2,
+    "confidence": 91
+  },
+  "ev": {
+    "liveStations": 15,
+    "candidateSites": 5,
+    "avgUtilization": 0.335,
+    "totalKwhPerDay": 26708,
+    "sessionsPerDay": 782,
+    "topOpportunity": "Clark Green City Parcel A",
+    "topOpportunityScore": 118.5
+  }
+}

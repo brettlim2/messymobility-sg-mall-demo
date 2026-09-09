@@ -1,0 +1,161 @@
+[
+  {
+    "id": "n-pg-sustain",
+    "label": "Sustainable Living PH",
+    "brand": "P&G",
+    "sentimentTrend": "rising",
+    "audienceSegment": "Urban millennials, NCR",
+    "platformMix": {
+      "tiktok": 0.42,
+      "instagram": 0.31,
+      "facebook": 0.18,
+      "x": 0.09
+    },
+    "samplePosts": [
+      {
+        "platform": "tiktok",
+        "text": "Grabe ang glow-up ng new P&G eco line sa BGC! Worth the trip 🌿 #SustainableLivingPH",
+        "sentiment": 0.82,
+        "date": "2024-02-28"
+      },
+      {
+        "platform": "instagram",
+        "text": "Finally tried the refill station at Greenbelt. Sulit talaga!",
+        "sentiment": 0.75,
+        "date": "2024-03-01"
+      },
+      {
+        "platform": "facebook",
+        "text": "Sino na nakapunta sa P&G pop-up? Legit yung products.",
+        "sentiment": 0.68,
+        "date": "2024-03-03"
+      },
+      {
+        "platform": "tiktok",
+        "text": "POV: you heard about the campaign and drove to Makati 😂",
+        "sentiment": 0.91,
+        "date": "2024-03-05"
+      },
+      {
+        "platform": "x",
+        "text": "P&G sustainability push actually driving foot traffic in BGC. Interesting.",
+        "sentiment": 0.55,
+        "date": "2024-03-06"
+      }
+    ]
+  },
+  {
+    "id": "n-bgc-lifestyle",
+    "label": "BGC Weekend Vibes",
+    "brand": "Ayala Malls",
+    "sentimentTrend": "rising",
+    "audienceSegment": "Young professionals, Taguig/Makati",
+    "platformMix": {
+      "instagram": 0.45,
+      "tiktok": 0.35,
+      "facebook": 0.12,
+      "x": 0.08
+    },
+    "samplePosts": [
+      {
+        "platform": "instagram",
+        "text": "BGC High Street hits different on weekends ✨",
+        "sentiment": 0.88,
+        "date": "2024-02-20"
+      },
+      {
+        "platform": "tiktok",
+        "text": "New coffee spots along High Street — must visit!",
+        "sentiment": 0.79,
+        "date": "2024-02-22"
+      }
+    ]
+  },
+  {
+    "id": "n-south-growth",
+    "label": "South Luzon Growth Corridor",
+    "brand": "AyalaLand",
+    "sentimentTrend": "rising",
+    "audienceSegment": "Property investors, CALABARZON",
+    "platformMix": {
+      "facebook": 0.38,
+      "x": 0.28,
+      "instagram": 0.22,
+      "tiktok": 0.12
+    },
+    "samplePosts": [
+      {
+        "platform": "facebook",
+        "text": "Nuvali expansion rumors getting louder. Worth watching.",
+        "sentiment": 0.62,
+        "date": "2024-02-15"
+      },
+      {
+        "platform": "x",
+        "text": "Calamba gateway site showing early social buzz. Corridor play?",
+        "sentiment": 0.58,
+        "date": "2024-02-18"
+      }
+    ]
+  },
+  {
+    "id": "n-commute-pain",
+    "label": "EDSA Commute Frustration",
+    "brand": "General",
+    "sentimentTrend": "declining",
+    "audienceSegment": "Daily commuters, NCR",
+    "platformMix": {
+      "x": 0.4,
+      "facebook": 0.35,
+      "tiktok": 0.15,
+      "instagram": 0.1
+    },
+    "samplePosts": [
+      {
+        "platform": "x",
+        "text": "2 hours EDSA again. This city needs better transit hubs.",
+        "sentiment": -0.45,
+        "date": "2024-02-10"
+      }
+    ]
+  },
+  {
+    "id": "n-ev-adoption",
+    "label": "EV Shift PH",
+    "brand": "General",
+    "sentimentTrend": "rising",
+    "audienceSegment": "Early EV adopters, NCR",
+    "platformMix": {
+      "tiktok": 0.38,
+      "facebook": 0.27,
+      "instagram": 0.22,
+      "x": 0.13
+    },
+    "samplePosts": [
+      {
+        "platform": "tiktok",
+        "text": "One month with the EV — gas savings are insane. Just need more chargers sa BGC 🔌",
+        "sentiment": 0.74,
+        "date": "2024-02-22"
+      },
+      {
+        "platform": "facebook",
+        "text": "Finally a fast charger near Megamall! No more range anxiety on the EDSA run.",
+        "sentiment": 0.69,
+        "date": "2024-02-26"
+      },
+      {
+        "platform": "x",
+        "text": "Charger queue at MOA was 30 mins. Demand is clearly outpacing supply.",
+        "sentiment": -0.18,
+        "date": "2024-03-02"
+      },
+      {
+        "platform": "instagram",
+        "text": "Road trip to Nuvali in the EV — but charging options down south are still thin.",
+        "sentiment": 0.31,
+        "date": "2024-03-08"
+      }
+    ]
+  }
+]

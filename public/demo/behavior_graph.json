@@ -1,0 +1,130 @@
+{
+  "nodes": [
+    {
+      "id": "n-pg-sustain",
+      "type": "narrative",
+      "label": "Sustainable Living PH",
+      "brand": "P&G"
+    },
+    {
+      "id": "n-bgc-lifestyle",
+      "type": "narrative",
+      "label": "BGC Weekend Vibes",
+      "brand": "Ayala Malls"
+    },
+    {
+      "id": "n-south-growth",
+      "type": "narrative",
+      "label": "South Luzon Growth Corridor",
+      "brand": "AyalaLand"
+    },
+    {
+      "id": "n-commute-pain",
+      "type": "narrative",
+      "label": "EDSA Commute Frustration",
+      "brand": "General"
+    },
+    {
+      "id": "n-ev-adoption",
+      "type": "narrative",
+      "label": "EV Shift PH",
+      "brand": "General"
+    },
+    {
+      "id": "aud-urban-millennial",
+      "type": "audience",
+      "label": "Urban Millennials",
+      "brand": ""
+    },
+    {
+      "id": "aud-young-pro",
+      "type": "audience",
+      "label": "Young Professionals",
+      "brand": ""
+    },
+    {
+      "id": "aud-investors",
+      "type": "audience",
+      "label": "Property Investors",
+      "brand": ""
+    },
+    {
+      "id": "v-bgc-high",
+      "type": "venue",
+      "label": "BGC High Street",
+      "brand": "Ayala Malls"
+    },
+    {
+      "id": "v-greenbelt",
+      "type": "venue",
+      "label": "Greenbelt 5",
+      "brand": "Ayala Malls"
+    },
+    {
+      "id": "v-trinoma",
+      "type": "venue",
+      "label": "Trinoma",
+      "brand": "Ayala Malls"
+    },
+    {
+      "id": "v-uptown",
+      "type": "venue",
+      "label": "Uptown Mall BGC",
+      "brand": "Megaworld"
+    },
+    {
+      "id": "v-sm-megamall",
+      "type": "venue",
+      "label": "SM Megamall",
+      "brand": "SM"
+    },
+    {
+      "id": "v-ortigas",
+      "type": "venue",
+      "label": "Ortigas Center",
+      "brand": "Robinsons"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n-pg-sustain",
+      "target": "aud-urban-millennial",
+      "weight": 0.85
+    },
+    {
+      "source": "n-bgc-lifestyle",
+      "target": "aud-young-pro",
+      "weight": 0.72
+    },
+    {
+      "source": "n-south-growth",
+      "target": "aud-investors",
+      "weight": 0.68
+    },
+    {
+      "source": "aud-urban-millennial",
+      "target": "v-store-bgc1",
+      "weight": 0.78
+    },
+    {
+      "source": "aud-urban-millennial",
+      "target": "v-store-makati",
+      "weight": 0.65
+    },
+    {
+      "source": "aud-young-pro",
+      "target": "v-bgc-high",
+      "weight": 0.82
+    },
+    {
+      "source": "aud-young-pro",
+      "target": "v-greenbelt",
+      "weight": 0.71
+    },
+    {
+      "source": "aud-investors",
+      "target": "v-cand-nuvali",
+      "weight": 0.55
+    }
+  ]
+}

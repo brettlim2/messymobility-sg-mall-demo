@@ -1,0 +1,9452 @@
+[
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-bgc-high",
+    "sessions": 67,
+    "energyKwh": 2544,
+    "avgDwellMin": 37,
+    "utilization": 0.215,
+    "baseline": 65
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-bgc-high",
+    "sessions": 59,
+    "energyKwh": 2240,
+    "avgDwellMin": 38,
+    "utilization": 0.195,
+    "baseline": 53
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-bgc-high",
+    "sessions": 55,
+    "energyKwh": 2088,
+    "avgDwellMin": 36,
+    "utilization": 0.172,
+    "baseline": 53
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-bgc-high",
+    "sessions": 55,
+    "energyKwh": 2088,
+    "avgDwellMin": 30,
+    "utilization": 0.143,
+    "baseline": 53
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-bgc-high",
+    "sessions": 52,
+    "energyKwh": 1974,
+    "avgDwellMin": 37,
+    "utilization": 0.167,
+    "baseline": 53
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-bgc-high",
+    "sessions": 64,
+    "energyKwh": 2430,
+    "avgDwellMin": 46,
+    "utilization": 0.256,
+    "baseline": 53
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-bgc-high",
+    "sessions": 73,
+    "energyKwh": 2772,
+    "avgDwellMin": 36,
+    "utilization": 0.228,
+    "baseline": 65
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-bgc-high",
+    "sessions": 66,
+    "energyKwh": 2506,
+    "avgDwellMin": 38,
+    "utilization": 0.218,
+    "baseline": 65
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-bgc-high",
+    "sessions": 58,
+    "energyKwh": 2202,
+    "avgDwellMin": 32,
+    "utilization": 0.161,
+    "baseline": 53
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-bgc-high",
+    "sessions": 58,
+    "energyKwh": 2202,
+    "avgDwellMin": 31,
+    "utilization": 0.156,
+    "baseline": 53
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-bgc-high",
+    "sessions": 48,
+    "energyKwh": 1822,
+    "avgDwellMin": 36,
+    "utilization": 0.15,
+    "baseline": 53
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-bgc-high",
+    "sessions": 51,
+    "energyKwh": 1936,
+    "avgDwellMin": 30,
+    "utilization": 0.133,
+    "baseline": 53
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-bgc-high",
+    "sessions": 62,
+    "energyKwh": 2354,
+    "avgDwellMin": 26,
+    "utilization": 0.14,
+    "baseline": 53
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-bgc-high",
+    "sessions": 69,
+    "energyKwh": 2620,
+    "avgDwellMin": 34,
+    "utilization": 0.204,
+    "baseline": 65
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-bgc-high",
+    "sessions": 68,
+    "energyKwh": 2582,
+    "avgDwellMin": 27,
+    "utilization": 0.159,
+    "baseline": 65
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-bgc-high",
+    "sessions": 47,
+    "energyKwh": 1784,
+    "avgDwellMin": 29,
+    "utilization": 0.118,
+    "baseline": 53
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-bgc-high",
+    "sessions": 55,
+    "energyKwh": 2088,
+    "avgDwellMin": 39,
+    "utilization": 0.186,
+    "baseline": 53
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-bgc-high",
+    "sessions": 52,
+    "energyKwh": 1974,
+    "avgDwellMin": 33,
+    "utilization": 0.149,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-bgc-high",
+    "sessions": 51,
+    "energyKwh": 1936,
+    "avgDwellMin": 38,
+    "utilization": 0.168,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-bgc-high",
+    "sessions": 63,
+    "energyKwh": 2392,
+    "avgDwellMin": 33,
+    "utilization": 0.18,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-bgc-high",
+    "sessions": 72,
+    "energyKwh": 2734,
+    "avgDwellMin": 33,
+    "utilization": 0.206,
+    "baseline": 65
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-bgc-high",
+    "sessions": 72,
+    "energyKwh": 2734,
+    "avgDwellMin": 30,
+    "utilization": 0.188,
+    "baseline": 65
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-bgc-high",
+    "sessions": 54,
+    "energyKwh": 2050,
+    "avgDwellMin": 40,
+    "utilization": 0.188,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-bgc-high",
+    "sessions": 57,
+    "energyKwh": 2164,
+    "avgDwellMin": 31,
+    "utilization": 0.153,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-bgc-high",
+    "sessions": 59,
+    "energyKwh": 2240,
+    "avgDwellMin": 29,
+    "utilization": 0.149,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-bgc-high",
+    "sessions": 60,
+    "energyKwh": 2278,
+    "avgDwellMin": 38,
+    "utilization": 0.198,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-bgc-high",
+    "sessions": 59,
+    "energyKwh": 2240,
+    "avgDwellMin": 30,
+    "utilization": 0.154,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-bgc-high",
+    "sessions": 73,
+    "energyKwh": 2772,
+    "avgDwellMin": 37,
+    "utilization": 0.234,
+    "baseline": 65
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-bgc-high",
+    "sessions": 72,
+    "energyKwh": 2734,
+    "avgDwellMin": 26,
+    "utilization": 0.163,
+    "baseline": 65
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-bgc-high",
+    "sessions": 56,
+    "energyKwh": 2126,
+    "avgDwellMin": 35,
+    "utilization": 0.17,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-bgc-high",
+    "sessions": 67,
+    "energyKwh": 2544,
+    "avgDwellMin": 34,
+    "utilization": 0.198,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-bgc-high",
+    "sessions": 65,
+    "energyKwh": 2468,
+    "avgDwellMin": 35,
+    "utilization": 0.197,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-bgc-high",
+    "sessions": 52,
+    "energyKwh": 1974,
+    "avgDwellMin": 31,
+    "utilization": 0.14,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-bgc-high",
+    "sessions": 56,
+    "energyKwh": 2126,
+    "avgDwellMin": 33,
+    "utilization": 0.16,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-bgc-high",
+    "sessions": 78,
+    "energyKwh": 2962,
+    "avgDwellMin": 34,
+    "utilization": 0.23,
+    "baseline": 65
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-bgc-high",
+    "sessions": 79,
+    "energyKwh": 2999,
+    "avgDwellMin": 32,
+    "utilization": 0.219,
+    "baseline": 65
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-bgc-high",
+    "sessions": 64,
+    "energyKwh": 2430,
+    "avgDwellMin": 37,
+    "utilization": 0.206,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-bgc-high",
+    "sessions": 64,
+    "energyKwh": 2430,
+    "avgDwellMin": 38,
+    "utilization": 0.211,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-bgc-high",
+    "sessions": 60,
+    "energyKwh": 2278,
+    "avgDwellMin": 37,
+    "utilization": 0.193,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-bgc-high",
+    "sessions": 61,
+    "energyKwh": 2316,
+    "avgDwellMin": 34,
+    "utilization": 0.18,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-bgc-high",
+    "sessions": 63,
+    "energyKwh": 2392,
+    "avgDwellMin": 34,
+    "utilization": 0.186,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-bgc-high",
+    "sessions": 89,
+    "energyKwh": 3379,
+    "avgDwellMin": 34,
+    "utilization": 0.263,
+    "baseline": 65
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-bgc-high",
+    "sessions": 77,
+    "energyKwh": 2924,
+    "avgDwellMin": 35,
+    "utilization": 0.234,
+    "baseline": 65
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-bgc-high",
+    "sessions": 65,
+    "energyKwh": 2468,
+    "avgDwellMin": 35,
+    "utilization": 0.197,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-bgc-high",
+    "sessions": 62,
+    "energyKwh": 2354,
+    "avgDwellMin": 38,
+    "utilization": 0.205,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-bgc-high",
+    "sessions": 72,
+    "energyKwh": 2734,
+    "avgDwellMin": 32,
+    "utilization": 0.2,
+    "baseline": 53
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-bgc-high",
+    "sessions": 65,
+    "energyKwh": 2468,
+    "avgDwellMin": 37,
+    "utilization": 0.209,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-bgc-high",
+    "sessions": 72,
+    "energyKwh": 2734,
+    "avgDwellMin": 38,
+    "utilization": 0.238,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-bgc-high",
+    "sessions": 79,
+    "energyKwh": 2999,
+    "avgDwellMin": 33,
+    "utilization": 0.226,
+    "baseline": 65
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-bgc-high",
+    "sessions": 86,
+    "energyKwh": 3265,
+    "avgDwellMin": 35,
+    "utilization": 0.261,
+    "baseline": 65
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-bgc-high",
+    "sessions": 71,
+    "energyKwh": 2696,
+    "avgDwellMin": 39,
+    "utilization": 0.24,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-bgc-high",
+    "sessions": 66,
+    "energyKwh": 2506,
+    "avgDwellMin": 37,
+    "utilization": 0.212,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-bgc-high",
+    "sessions": 66,
+    "energyKwh": 2506,
+    "avgDwellMin": 39,
+    "utilization": 0.223,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-bgc-high",
+    "sessions": 65,
+    "energyKwh": 2468,
+    "avgDwellMin": 35,
+    "utilization": 0.197,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-bgc-high",
+    "sessions": 67,
+    "energyKwh": 2544,
+    "avgDwellMin": 30,
+    "utilization": 0.174,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-bgc-high",
+    "sessions": 82,
+    "energyKwh": 3113,
+    "avgDwellMin": 32,
+    "utilization": 0.228,
+    "baseline": 65
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-bgc-high",
+    "sessions": 81,
+    "energyKwh": 3075,
+    "avgDwellMin": 29,
+    "utilization": 0.204,
+    "baseline": 65
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-bgc-high",
+    "sessions": 72,
+    "energyKwh": 2734,
+    "avgDwellMin": 34,
+    "utilization": 0.213,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-bgc-high",
+    "sessions": 74,
+    "energyKwh": 2810,
+    "avgDwellMin": 35,
+    "utilization": 0.225,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-bgc-high",
+    "sessions": 75,
+    "energyKwh": 2848,
+    "avgDwellMin": 37,
+    "utilization": 0.241,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-bgc-high",
+    "sessions": 74,
+    "energyKwh": 2810,
+    "avgDwellMin": 40,
+    "utilization": 0.257,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-bgc-high",
+    "sessions": 63,
+    "energyKwh": 2392,
+    "avgDwellMin": 35,
+    "utilization": 0.191,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-bgc-high",
+    "sessions": 75,
+    "energyKwh": 2848,
+    "avgDwellMin": 33,
+    "utilization": 0.215,
+    "baseline": 65
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-bgc-high",
+    "sessions": 82,
+    "energyKwh": 3113,
+    "avgDwellMin": 34,
+    "utilization": 0.242,
+    "baseline": 65
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-bgc-high",
+    "sessions": 72,
+    "energyKwh": 2734,
+    "avgDwellMin": 35,
+    "utilization": 0.219,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-bgc-high",
+    "sessions": 71,
+    "energyKwh": 2696,
+    "avgDwellMin": 40,
+    "utilization": 0.247,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-bgc-high",
+    "sessions": 67,
+    "energyKwh": 2544,
+    "avgDwellMin": 33,
+    "utilization": 0.192,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-bgc-high",
+    "sessions": 70,
+    "energyKwh": 2658,
+    "avgDwellMin": 37,
+    "utilization": 0.225,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-bgc-high",
+    "sessions": 64,
+    "energyKwh": 2430,
+    "avgDwellMin": 39,
+    "utilization": 0.217,
+    "baseline": 53
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-bgc-high",
+    "sessions": 84,
+    "energyKwh": 3189,
+    "avgDwellMin": 34,
+    "utilization": 0.248,
+    "baseline": 65
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-uptown",
+    "sessions": 27,
+    "energyKwh": 355,
+    "avgDwellMin": 170,
+    "utilization": 0.531,
+    "baseline": 27
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-uptown",
+    "sessions": 23,
+    "energyKwh": 302,
+    "avgDwellMin": 175,
+    "utilization": 0.466,
+    "baseline": 22
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-uptown",
+    "sessions": 21,
+    "energyKwh": 276,
+    "avgDwellMin": 177,
+    "utilization": 0.43,
+    "baseline": 22
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-uptown",
+    "sessions": 25,
+    "energyKwh": 329,
+    "avgDwellMin": 172,
+    "utilization": 0.498,
+    "baseline": 22
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-uptown",
+    "sessions": 21,
+    "energyKwh": 276,
+    "avgDwellMin": 166,
+    "utilization": 0.403,
+    "baseline": 22
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-uptown",
+    "sessions": 24,
+    "energyKwh": 316,
+    "avgDwellMin": 166,
+    "utilization": 0.461,
+    "baseline": 22
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-uptown",
+    "sessions": 25,
+    "energyKwh": 329,
+    "avgDwellMin": 173,
+    "utilization": 0.501,
+    "baseline": 27
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-uptown",
+    "sessions": 30,
+    "energyKwh": 394,
+    "avgDwellMin": 175,
+    "utilization": 0.608,
+    "baseline": 27
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-uptown",
+    "sessions": 27,
+    "energyKwh": 355,
+    "avgDwellMin": 175,
+    "utilization": 0.547,
+    "baseline": 22
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-uptown",
+    "sessions": 22,
+    "energyKwh": 289,
+    "avgDwellMin": 169,
+    "utilization": 0.43,
+    "baseline": 22
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-uptown",
+    "sessions": 18,
+    "energyKwh": 237,
+    "avgDwellMin": 174,
+    "utilization": 0.363,
+    "baseline": 22
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-uptown",
+    "sessions": 21,
+    "energyKwh": 276,
+    "avgDwellMin": 166,
+    "utilization": 0.403,
+    "baseline": 22
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-uptown",
+    "sessions": 24,
+    "energyKwh": 316,
+    "avgDwellMin": 172,
+    "utilization": 0.478,
+    "baseline": 22
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-uptown",
+    "sessions": 30,
+    "energyKwh": 394,
+    "avgDwellMin": 173,
+    "utilization": 0.601,
+    "baseline": 27
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-uptown",
+    "sessions": 27,
+    "energyKwh": 355,
+    "avgDwellMin": 176,
+    "utilization": 0.55,
+    "baseline": 27
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-uptown",
+    "sessions": 25,
+    "energyKwh": 329,
+    "avgDwellMin": 169,
+    "utilization": 0.489,
+    "baseline": 22
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-uptown",
+    "sessions": 23,
+    "energyKwh": 302,
+    "avgDwellMin": 168,
+    "utilization": 0.447,
+    "baseline": 22
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-uptown",
+    "sessions": 26,
+    "energyKwh": 342,
+    "avgDwellMin": 170,
+    "utilization": 0.512,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-uptown",
+    "sessions": 25,
+    "energyKwh": 329,
+    "avgDwellMin": 172,
+    "utilization": 0.498,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-uptown",
+    "sessions": 24,
+    "energyKwh": 316,
+    "avgDwellMin": 167,
+    "utilization": 0.464,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-uptown",
+    "sessions": 29,
+    "energyKwh": 381,
+    "avgDwellMin": 167,
+    "utilization": 0.561,
+    "baseline": 27
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-uptown",
+    "sessions": 31,
+    "energyKwh": 408,
+    "avgDwellMin": 170,
+    "utilization": 0.61,
+    "baseline": 27
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-uptown",
+    "sessions": 23,
+    "energyKwh": 302,
+    "avgDwellMin": 173,
+    "utilization": 0.461,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-uptown",
+    "sessions": 19,
+    "energyKwh": 250,
+    "avgDwellMin": 174,
+    "utilization": 0.383,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-uptown",
+    "sessions": 28,
+    "energyKwh": 368,
+    "avgDwellMin": 171,
+    "utilization": 0.554,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-uptown",
+    "sessions": 23,
+    "energyKwh": 302,
+    "avgDwellMin": 167,
+    "utilization": 0.445,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-uptown",
+    "sessions": 27,
+    "energyKwh": 355,
+    "avgDwellMin": 166,
+    "utilization": 0.519,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-uptown",
+    "sessions": 30,
+    "energyKwh": 394,
+    "avgDwellMin": 171,
+    "utilization": 0.594,
+    "baseline": 27
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-uptown",
+    "sessions": 30,
+    "energyKwh": 394,
+    "avgDwellMin": 173,
+    "utilization": 0.601,
+    "baseline": 27
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-uptown",
+    "sessions": 23,
+    "energyKwh": 302,
+    "avgDwellMin": 169,
+    "utilization": 0.45,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-uptown",
+    "sessions": 27,
+    "energyKwh": 355,
+    "avgDwellMin": 178,
+    "utilization": 0.556,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-uptown",
+    "sessions": 22,
+    "energyKwh": 289,
+    "avgDwellMin": 182,
+    "utilization": 0.463,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-uptown",
+    "sessions": 29,
+    "energyKwh": 381,
+    "avgDwellMin": 166,
+    "utilization": 0.557,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-uptown",
+    "sessions": 25,
+    "energyKwh": 329,
+    "avgDwellMin": 172,
+    "utilization": 0.498,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-uptown",
+    "sessions": 34,
+    "energyKwh": 447,
+    "avgDwellMin": 176,
+    "utilization": 0.693,
+    "baseline": 27
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-uptown",
+    "sessions": 33,
+    "energyKwh": 434,
+    "avgDwellMin": 169,
+    "utilization": 0.645,
+    "baseline": 27
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-uptown",
+    "sessions": 25,
+    "energyKwh": 329,
+    "avgDwellMin": 181,
+    "utilization": 0.524,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-uptown",
+    "sessions": 27,
+    "energyKwh": 355,
+    "avgDwellMin": 175,
+    "utilization": 0.547,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-uptown",
+    "sessions": 24,
+    "energyKwh": 316,
+    "avgDwellMin": 175,
+    "utilization": 0.486,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-uptown",
+    "sessions": 27,
+    "energyKwh": 355,
+    "avgDwellMin": 178,
+    "utilization": 0.556,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-uptown",
+    "sessions": 20,
+    "energyKwh": 263,
+    "avgDwellMin": 170,
+    "utilization": 0.394,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-uptown",
+    "sessions": 36,
+    "energyKwh": 473,
+    "avgDwellMin": 173,
+    "utilization": 0.721,
+    "baseline": 27
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-uptown",
+    "sessions": 31,
+    "energyKwh": 408,
+    "avgDwellMin": 174,
+    "utilization": 0.624,
+    "baseline": 27
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-uptown",
+    "sessions": 28,
+    "energyKwh": 368,
+    "avgDwellMin": 179,
+    "utilization": 0.58,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-uptown",
+    "sessions": 26,
+    "energyKwh": 342,
+    "avgDwellMin": 171,
+    "utilization": 0.515,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-uptown",
+    "sessions": 28,
+    "energyKwh": 368,
+    "avgDwellMin": 170,
+    "utilization": 0.551,
+    "baseline": 22
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-uptown",
+    "sessions": 27,
+    "energyKwh": 355,
+    "avgDwellMin": 173,
+    "utilization": 0.541,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-uptown",
+    "sessions": 24,
+    "energyKwh": 316,
+    "avgDwellMin": 171,
+    "utilization": 0.475,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-uptown",
+    "sessions": 30,
+    "energyKwh": 394,
+    "avgDwellMin": 172,
+    "utilization": 0.597,
+    "baseline": 27
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-uptown",
+    "sessions": 32,
+    "energyKwh": 421,
+    "avgDwellMin": 161,
+    "utilization": 0.596,
+    "baseline": 27
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-uptown",
+    "sessions": 28,
+    "energyKwh": 368,
+    "avgDwellMin": 178,
+    "utilization": 0.577,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-uptown",
+    "sessions": 27,
+    "energyKwh": 355,
+    "avgDwellMin": 176,
+    "utilization": 0.55,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-uptown",
+    "sessions": 29,
+    "energyKwh": 381,
+    "avgDwellMin": 170,
+    "utilization": 0.571,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-uptown",
+    "sessions": 26,
+    "energyKwh": 342,
+    "avgDwellMin": 172,
+    "utilization": 0.518,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-uptown",
+    "sessions": 26,
+    "energyKwh": 342,
+    "avgDwellMin": 165,
+    "utilization": 0.497,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-uptown",
+    "sessions": 34,
+    "energyKwh": 447,
+    "avgDwellMin": 172,
+    "utilization": 0.677,
+    "baseline": 27
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-uptown",
+    "sessions": 31,
+    "energyKwh": 408,
+    "avgDwellMin": 172,
+    "utilization": 0.617,
+    "baseline": 27
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-uptown",
+    "sessions": 24,
+    "energyKwh": 316,
+    "avgDwellMin": 167,
+    "utilization": 0.464,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-uptown",
+    "sessions": 28,
+    "energyKwh": 368,
+    "avgDwellMin": 183,
+    "utilization": 0.593,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-uptown",
+    "sessions": 28,
+    "energyKwh": 368,
+    "avgDwellMin": 173,
+    "utilization": 0.561,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-uptown",
+    "sessions": 28,
+    "energyKwh": 368,
+    "avgDwellMin": 170,
+    "utilization": 0.551,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-uptown",
+    "sessions": 28,
+    "energyKwh": 368,
+    "avgDwellMin": 162,
+    "utilization": 0.525,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-uptown",
+    "sessions": 32,
+    "energyKwh": 421,
+    "avgDwellMin": 176,
+    "utilization": 0.652,
+    "baseline": 27
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-uptown",
+    "sessions": 35,
+    "energyKwh": 460,
+    "avgDwellMin": 171,
+    "utilization": 0.693,
+    "baseline": 27
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-uptown",
+    "sessions": 25,
+    "energyKwh": 329,
+    "avgDwellMin": 175,
+    "utilization": 0.506,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-uptown",
+    "sessions": 29,
+    "energyKwh": 381,
+    "avgDwellMin": 166,
+    "utilization": 0.557,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-uptown",
+    "sessions": 26,
+    "energyKwh": 342,
+    "avgDwellMin": 169,
+    "utilization": 0.509,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-uptown",
+    "sessions": 29,
+    "energyKwh": 381,
+    "avgDwellMin": 172,
+    "utilization": 0.577,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-uptown",
+    "sessions": 29,
+    "energyKwh": 381,
+    "avgDwellMin": 168,
+    "utilization": 0.564,
+    "baseline": 22
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-uptown",
+    "sessions": 33,
+    "energyKwh": 434,
+    "avgDwellMin": 175,
+    "utilization": 0.668,
+    "baseline": 27
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-greenbelt",
+    "sessions": 48,
+    "energyKwh": 1641,
+    "avgDwellMin": 40,
+    "utilization": 0.222,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-greenbelt",
+    "sessions": 35,
+    "energyKwh": 1196,
+    "avgDwellMin": 46,
+    "utilization": 0.186,
+    "baseline": 38
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-greenbelt",
+    "sessions": 35,
+    "energyKwh": 1196,
+    "avgDwellMin": 42,
+    "utilization": 0.17,
+    "baseline": 38
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-greenbelt",
+    "sessions": 41,
+    "energyKwh": 1402,
+    "avgDwellMin": 38,
+    "utilization": 0.18,
+    "baseline": 38
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-greenbelt",
+    "sessions": 44,
+    "energyKwh": 1504,
+    "avgDwellMin": 40,
+    "utilization": 0.204,
+    "baseline": 38
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-greenbelt",
+    "sessions": 40,
+    "energyKwh": 1367,
+    "avgDwellMin": 35,
+    "utilization": 0.162,
+    "baseline": 38
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-greenbelt",
+    "sessions": 49,
+    "energyKwh": 1675,
+    "avgDwellMin": 28,
+    "utilization": 0.159,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-greenbelt",
+    "sessions": 48,
+    "energyKwh": 1641,
+    "avgDwellMin": 28,
+    "utilization": 0.156,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-greenbelt",
+    "sessions": 37,
+    "energyKwh": 1265,
+    "avgDwellMin": 38,
+    "utilization": 0.163,
+    "baseline": 38
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-greenbelt",
+    "sessions": 40,
+    "energyKwh": 1367,
+    "avgDwellMin": 43,
+    "utilization": 0.199,
+    "baseline": 38
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-greenbelt",
+    "sessions": 42,
+    "energyKwh": 1436,
+    "avgDwellMin": 32,
+    "utilization": 0.156,
+    "baseline": 38
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-greenbelt",
+    "sessions": 48,
+    "energyKwh": 1641,
+    "avgDwellMin": 39,
+    "utilization": 0.217,
+    "baseline": 38
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-greenbelt",
+    "sessions": 44,
+    "energyKwh": 1504,
+    "avgDwellMin": 39,
+    "utilization": 0.199,
+    "baseline": 38
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-greenbelt",
+    "sessions": 48,
+    "energyKwh": 1641,
+    "avgDwellMin": 35,
+    "utilization": 0.194,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-greenbelt",
+    "sessions": 48,
+    "energyKwh": 1641,
+    "avgDwellMin": 34,
+    "utilization": 0.189,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-greenbelt",
+    "sessions": 41,
+    "energyKwh": 1402,
+    "avgDwellMin": 35,
+    "utilization": 0.166,
+    "baseline": 38
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-greenbelt",
+    "sessions": 40,
+    "energyKwh": 1367,
+    "avgDwellMin": 46,
+    "utilization": 0.213,
+    "baseline": 38
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-greenbelt",
+    "sessions": 44,
+    "energyKwh": 1504,
+    "avgDwellMin": 36,
+    "utilization": 0.183,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-greenbelt",
+    "sessions": 45,
+    "energyKwh": 1538,
+    "avgDwellMin": 32,
+    "utilization": 0.167,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-greenbelt",
+    "sessions": 40,
+    "energyKwh": 1367,
+    "avgDwellMin": 36,
+    "utilization": 0.167,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-greenbelt",
+    "sessions": 51,
+    "energyKwh": 1743,
+    "avgDwellMin": 41,
+    "utilization": 0.242,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-greenbelt",
+    "sessions": 52,
+    "energyKwh": 1778,
+    "avgDwellMin": 37,
+    "utilization": 0.223,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-greenbelt",
+    "sessions": 41,
+    "energyKwh": 1402,
+    "avgDwellMin": 39,
+    "utilization": 0.185,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-greenbelt",
+    "sessions": 40,
+    "energyKwh": 1367,
+    "avgDwellMin": 36,
+    "utilization": 0.167,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-greenbelt",
+    "sessions": 42,
+    "energyKwh": 1436,
+    "avgDwellMin": 32,
+    "utilization": 0.156,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-greenbelt",
+    "sessions": 42,
+    "energyKwh": 1436,
+    "avgDwellMin": 39,
+    "utilization": 0.19,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-greenbelt",
+    "sessions": 43,
+    "energyKwh": 1470,
+    "avgDwellMin": 38,
+    "utilization": 0.189,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-greenbelt",
+    "sessions": 51,
+    "energyKwh": 1743,
+    "avgDwellMin": 42,
+    "utilization": 0.248,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-greenbelt",
+    "sessions": 48,
+    "energyKwh": 1641,
+    "avgDwellMin": 46,
+    "utilization": 0.256,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-greenbelt",
+    "sessions": 43,
+    "energyKwh": 1470,
+    "avgDwellMin": 45,
+    "utilization": 0.224,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-greenbelt",
+    "sessions": 40,
+    "energyKwh": 1367,
+    "avgDwellMin": 40,
+    "utilization": 0.185,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-greenbelt",
+    "sessions": 42,
+    "energyKwh": 1436,
+    "avgDwellMin": 42,
+    "utilization": 0.204,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-greenbelt",
+    "sessions": 42,
+    "energyKwh": 1436,
+    "avgDwellMin": 31,
+    "utilization": 0.151,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-greenbelt",
+    "sessions": 47,
+    "energyKwh": 1607,
+    "avgDwellMin": 39,
+    "utilization": 0.212,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-greenbelt",
+    "sessions": 55,
+    "energyKwh": 1880,
+    "avgDwellMin": 39,
+    "utilization": 0.248,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-greenbelt",
+    "sessions": 56,
+    "energyKwh": 1914,
+    "avgDwellMin": 39,
+    "utilization": 0.253,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-greenbelt",
+    "sessions": 41,
+    "energyKwh": 1402,
+    "avgDwellMin": 35,
+    "utilization": 0.166,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-greenbelt",
+    "sessions": 46,
+    "energyKwh": 1572,
+    "avgDwellMin": 38,
+    "utilization": 0.202,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-greenbelt",
+    "sessions": 45,
+    "energyKwh": 1538,
+    "avgDwellMin": 44,
+    "utilization": 0.229,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-greenbelt",
+    "sessions": 45,
+    "energyKwh": 1538,
+    "avgDwellMin": 46,
+    "utilization": 0.24,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-greenbelt",
+    "sessions": 45,
+    "energyKwh": 1538,
+    "avgDwellMin": 34,
+    "utilization": 0.177,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-greenbelt",
+    "sessions": 51,
+    "energyKwh": 1743,
+    "avgDwellMin": 45,
+    "utilization": 0.266,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-greenbelt",
+    "sessions": 51,
+    "energyKwh": 1743,
+    "avgDwellMin": 45,
+    "utilization": 0.266,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-greenbelt",
+    "sessions": 44,
+    "energyKwh": 1504,
+    "avgDwellMin": 39,
+    "utilization": 0.199,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-greenbelt",
+    "sessions": 46,
+    "energyKwh": 1572,
+    "avgDwellMin": 28,
+    "utilization": 0.149,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-greenbelt",
+    "sessions": 42,
+    "energyKwh": 1436,
+    "avgDwellMin": 40,
+    "utilization": 0.194,
+    "baseline": 38
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-greenbelt",
+    "sessions": 47,
+    "energyKwh": 1607,
+    "avgDwellMin": 35,
+    "utilization": 0.19,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-greenbelt",
+    "sessions": 50,
+    "energyKwh": 1709,
+    "avgDwellMin": 41,
+    "utilization": 0.237,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-greenbelt",
+    "sessions": 58,
+    "energyKwh": 1983,
+    "avgDwellMin": 42,
+    "utilization": 0.282,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-greenbelt",
+    "sessions": 62,
+    "energyKwh": 2119,
+    "avgDwellMin": 39,
+    "utilization": 0.28,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-greenbelt",
+    "sessions": 45,
+    "energyKwh": 1538,
+    "avgDwellMin": 38,
+    "utilization": 0.198,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-greenbelt",
+    "sessions": 49,
+    "energyKwh": 1675,
+    "avgDwellMin": 42,
+    "utilization": 0.238,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-greenbelt",
+    "sessions": 46,
+    "energyKwh": 1572,
+    "avgDwellMin": 39,
+    "utilization": 0.208,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-greenbelt",
+    "sessions": 47,
+    "energyKwh": 1607,
+    "avgDwellMin": 45,
+    "utilization": 0.245,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-greenbelt",
+    "sessions": 43,
+    "energyKwh": 1470,
+    "avgDwellMin": 37,
+    "utilization": 0.184,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-greenbelt",
+    "sessions": 54,
+    "energyKwh": 1846,
+    "avgDwellMin": 40,
+    "utilization": 0.25,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-greenbelt",
+    "sessions": 64,
+    "energyKwh": 2188,
+    "avgDwellMin": 31,
+    "utilization": 0.23,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-greenbelt",
+    "sessions": 48,
+    "energyKwh": 1641,
+    "avgDwellMin": 41,
+    "utilization": 0.228,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-greenbelt",
+    "sessions": 46,
+    "energyKwh": 1572,
+    "avgDwellMin": 35,
+    "utilization": 0.186,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-greenbelt",
+    "sessions": 45,
+    "energyKwh": 1538,
+    "avgDwellMin": 45,
+    "utilization": 0.234,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-greenbelt",
+    "sessions": 52,
+    "energyKwh": 1778,
+    "avgDwellMin": 40,
+    "utilization": 0.241,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-greenbelt",
+    "sessions": 46,
+    "energyKwh": 1572,
+    "avgDwellMin": 34,
+    "utilization": 0.181,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-greenbelt",
+    "sessions": 56,
+    "energyKwh": 1914,
+    "avgDwellMin": 41,
+    "utilization": 0.266,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-greenbelt",
+    "sessions": 60,
+    "energyKwh": 2051,
+    "avgDwellMin": 38,
+    "utilization": 0.264,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-greenbelt",
+    "sessions": 48,
+    "energyKwh": 1641,
+    "avgDwellMin": 46,
+    "utilization": 0.256,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-greenbelt",
+    "sessions": 48,
+    "energyKwh": 1641,
+    "avgDwellMin": 34,
+    "utilization": 0.189,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-greenbelt",
+    "sessions": 51,
+    "energyKwh": 1743,
+    "avgDwellMin": 34,
+    "utilization": 0.201,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-greenbelt",
+    "sessions": 50,
+    "energyKwh": 1709,
+    "avgDwellMin": 39,
+    "utilization": 0.226,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-greenbelt",
+    "sessions": 53,
+    "energyKwh": 1812,
+    "avgDwellMin": 40,
+    "utilization": 0.245,
+    "baseline": 38
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-greenbelt",
+    "sessions": 54,
+    "energyKwh": 1846,
+    "avgDwellMin": 37,
+    "utilization": 0.231,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-makati-cbd",
+    "sessions": 17,
+    "energyKwh": 314,
+    "avgDwellMin": 164,
+    "utilization": 0.242,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-makati-cbd",
+    "sessions": 30,
+    "energyKwh": 555,
+    "avgDwellMin": 167,
+    "utilization": 0.435,
+    "baseline": 30
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-makati-cbd",
+    "sessions": 33,
+    "energyKwh": 610,
+    "avgDwellMin": 162,
+    "utilization": 0.464,
+    "baseline": 30
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-makati-cbd",
+    "sessions": 31,
+    "energyKwh": 573,
+    "avgDwellMin": 163,
+    "utilization": 0.439,
+    "baseline": 30
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-makati-cbd",
+    "sessions": 34,
+    "energyKwh": 629,
+    "avgDwellMin": 164,
+    "utilization": 0.484,
+    "baseline": 30
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-makati-cbd",
+    "sessions": 33,
+    "energyKwh": 610,
+    "avgDwellMin": 162,
+    "utilization": 0.464,
+    "baseline": 30
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-makati-cbd",
+    "sessions": 21,
+    "energyKwh": 388,
+    "avgDwellMin": 163,
+    "utilization": 0.297,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-makati-cbd",
+    "sessions": 22,
+    "energyKwh": 407,
+    "avgDwellMin": 165,
+    "utilization": 0.315,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-makati-cbd",
+    "sessions": 28,
+    "energyKwh": 518,
+    "avgDwellMin": 161,
+    "utilization": 0.391,
+    "baseline": 30
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-makati-cbd",
+    "sessions": 31,
+    "energyKwh": 573,
+    "avgDwellMin": 167,
+    "utilization": 0.449,
+    "baseline": 30
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-makati-cbd",
+    "sessions": 31,
+    "energyKwh": 573,
+    "avgDwellMin": 162,
+    "utilization": 0.436,
+    "baseline": 30
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-makati-cbd",
+    "sessions": 28,
+    "energyKwh": 518,
+    "avgDwellMin": 156,
+    "utilization": 0.379,
+    "baseline": 30
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-makati-cbd",
+    "sessions": 30,
+    "energyKwh": 555,
+    "avgDwellMin": 163,
+    "utilization": 0.424,
+    "baseline": 30
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-makati-cbd",
+    "sessions": 21,
+    "energyKwh": 388,
+    "avgDwellMin": 165,
+    "utilization": 0.301,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-makati-cbd",
+    "sessions": 24,
+    "energyKwh": 444,
+    "avgDwellMin": 166,
+    "utilization": 0.346,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-makati-cbd",
+    "sessions": 31,
+    "energyKwh": 573,
+    "avgDwellMin": 158,
+    "utilization": 0.425,
+    "baseline": 30
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-makati-cbd",
+    "sessions": 31,
+    "energyKwh": 573,
+    "avgDwellMin": 168,
+    "utilization": 0.452,
+    "baseline": 30
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-makati-cbd",
+    "sessions": 34,
+    "energyKwh": 629,
+    "avgDwellMin": 164,
+    "utilization": 0.484,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-makati-cbd",
+    "sessions": 33,
+    "energyKwh": 610,
+    "avgDwellMin": 169,
+    "utilization": 0.484,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-makati-cbd",
+    "sessions": 32,
+    "energyKwh": 592,
+    "avgDwellMin": 166,
+    "utilization": 0.461,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-makati-cbd",
+    "sessions": 21,
+    "energyKwh": 388,
+    "avgDwellMin": 161,
+    "utilization": 0.293,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-makati-cbd",
+    "sessions": 23,
+    "energyKwh": 425,
+    "avgDwellMin": 173,
+    "utilization": 0.345,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-makati-cbd",
+    "sessions": 34,
+    "energyKwh": 629,
+    "avgDwellMin": 169,
+    "utilization": 0.499,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-makati-cbd",
+    "sessions": 34,
+    "energyKwh": 629,
+    "avgDwellMin": 164,
+    "utilization": 0.484,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-makati-cbd",
+    "sessions": 36,
+    "energyKwh": 666,
+    "avgDwellMin": 161,
+    "utilization": 0.503,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-makati-cbd",
+    "sessions": 32,
+    "energyKwh": 592,
+    "avgDwellMin": 165,
+    "utilization": 0.458,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-makati-cbd",
+    "sessions": 31,
+    "energyKwh": 573,
+    "avgDwellMin": 163,
+    "utilization": 0.439,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-makati-cbd",
+    "sessions": 21,
+    "energyKwh": 388,
+    "avgDwellMin": 163,
+    "utilization": 0.297,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-makati-cbd",
+    "sessions": 25,
+    "energyKwh": 462,
+    "avgDwellMin": 156,
+    "utilization": 0.339,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-makati-cbd",
+    "sessions": 37,
+    "energyKwh": 684,
+    "avgDwellMin": 163,
+    "utilization": 0.524,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-makati-cbd",
+    "sessions": 38,
+    "energyKwh": 703,
+    "avgDwellMin": 166,
+    "utilization": 0.548,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-makati-cbd",
+    "sessions": 32,
+    "energyKwh": 592,
+    "avgDwellMin": 170,
+    "utilization": 0.472,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-makati-cbd",
+    "sessions": 34,
+    "energyKwh": 629,
+    "avgDwellMin": 157,
+    "utilization": 0.463,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-makati-cbd",
+    "sessions": 37,
+    "energyKwh": 684,
+    "avgDwellMin": 166,
+    "utilization": 0.533,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-makati-cbd",
+    "sessions": 26,
+    "energyKwh": 481,
+    "avgDwellMin": 168,
+    "utilization": 0.379,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-makati-cbd",
+    "sessions": 21,
+    "energyKwh": 388,
+    "avgDwellMin": 160,
+    "utilization": 0.292,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-makati-cbd",
+    "sessions": 31,
+    "energyKwh": 573,
+    "avgDwellMin": 166,
+    "utilization": 0.447,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-makati-cbd",
+    "sessions": 36,
+    "energyKwh": 666,
+    "avgDwellMin": 168,
+    "utilization": 0.525,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-makati-cbd",
+    "sessions": 37,
+    "energyKwh": 684,
+    "avgDwellMin": 162,
+    "utilization": 0.52,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-makati-cbd",
+    "sessions": 35,
+    "energyKwh": 647,
+    "avgDwellMin": 163,
+    "utilization": 0.495,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-makati-cbd",
+    "sessions": 35,
+    "energyKwh": 647,
+    "avgDwellMin": 158,
+    "utilization": 0.48,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-makati-cbd",
+    "sessions": 24,
+    "energyKwh": 444,
+    "avgDwellMin": 164,
+    "utilization": 0.342,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-makati-cbd",
+    "sessions": 24,
+    "energyKwh": 444,
+    "avgDwellMin": 156,
+    "utilization": 0.325,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-makati-cbd",
+    "sessions": 35,
+    "energyKwh": 647,
+    "avgDwellMin": 167,
+    "utilization": 0.507,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-makati-cbd",
+    "sessions": 36,
+    "energyKwh": 666,
+    "avgDwellMin": 165,
+    "utilization": 0.516,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-makati-cbd",
+    "sessions": 39,
+    "energyKwh": 721,
+    "avgDwellMin": 164,
+    "utilization": 0.555,
+    "baseline": 30
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-makati-cbd",
+    "sessions": 42,
+    "energyKwh": 777,
+    "avgDwellMin": 165,
+    "utilization": 0.602,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-makati-cbd",
+    "sessions": 32,
+    "energyKwh": 592,
+    "avgDwellMin": 165,
+    "utilization": 0.458,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-makati-cbd",
+    "sessions": 25,
+    "energyKwh": 462,
+    "avgDwellMin": 160,
+    "utilization": 0.347,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-makati-cbd",
+    "sessions": 25,
+    "energyKwh": 462,
+    "avgDwellMin": 170,
+    "utilization": 0.369,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-makati-cbd",
+    "sessions": 34,
+    "energyKwh": 629,
+    "avgDwellMin": 165,
+    "utilization": 0.487,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-makati-cbd",
+    "sessions": 34,
+    "energyKwh": 629,
+    "avgDwellMin": 161,
+    "utilization": 0.475,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-makati-cbd",
+    "sessions": 36,
+    "energyKwh": 666,
+    "avgDwellMin": 164,
+    "utilization": 0.513,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-makati-cbd",
+    "sessions": 35,
+    "energyKwh": 647,
+    "avgDwellMin": 160,
+    "utilization": 0.486,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-makati-cbd",
+    "sessions": 37,
+    "energyKwh": 684,
+    "avgDwellMin": 160,
+    "utilization": 0.514,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-makati-cbd",
+    "sessions": 25,
+    "energyKwh": 462,
+    "avgDwellMin": 166,
+    "utilization": 0.36,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-makati-cbd",
+    "sessions": 27,
+    "energyKwh": 499,
+    "avgDwellMin": 169,
+    "utilization": 0.396,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-makati-cbd",
+    "sessions": 39,
+    "energyKwh": 721,
+    "avgDwellMin": 157,
+    "utilization": 0.532,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-makati-cbd",
+    "sessions": 38,
+    "energyKwh": 703,
+    "avgDwellMin": 162,
+    "utilization": 0.534,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-makati-cbd",
+    "sessions": 35,
+    "energyKwh": 647,
+    "avgDwellMin": 167,
+    "utilization": 0.507,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-makati-cbd",
+    "sessions": 38,
+    "energyKwh": 703,
+    "avgDwellMin": 163,
+    "utilization": 0.538,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-makati-cbd",
+    "sessions": 37,
+    "energyKwh": 684,
+    "avgDwellMin": 160,
+    "utilization": 0.514,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-makati-cbd",
+    "sessions": 30,
+    "energyKwh": 555,
+    "avgDwellMin": 172,
+    "utilization": 0.448,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-makati-cbd",
+    "sessions": 27,
+    "energyKwh": 499,
+    "avgDwellMin": 161,
+    "utilization": 0.377,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-makati-cbd",
+    "sessions": 41,
+    "energyKwh": 758,
+    "avgDwellMin": 162,
+    "utilization": 0.577,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-makati-cbd",
+    "sessions": 32,
+    "energyKwh": 592,
+    "avgDwellMin": 160,
+    "utilization": 0.444,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-makati-cbd",
+    "sessions": 37,
+    "energyKwh": 684,
+    "avgDwellMin": 164,
+    "utilization": 0.527,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-makati-cbd",
+    "sessions": 40,
+    "energyKwh": 740,
+    "avgDwellMin": 160,
+    "utilization": 0.556,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-makati-cbd",
+    "sessions": 32,
+    "energyKwh": 592,
+    "avgDwellMin": 166,
+    "utilization": 0.461,
+    "baseline": 30
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-makati-cbd",
+    "sessions": 26,
+    "energyKwh": 481,
+    "avgDwellMin": 168,
+    "utilization": 0.379,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-megamall",
+    "sessions": 85,
+    "energyKwh": 3509,
+    "avgDwellMin": 47,
+    "utilization": 0.277,
+    "baseline": 93
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-megamall",
+    "sessions": 80,
+    "energyKwh": 3303,
+    "avgDwellMin": 42,
+    "utilization": 0.233,
+    "baseline": 76
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-megamall",
+    "sessions": 81,
+    "energyKwh": 3344,
+    "avgDwellMin": 33,
+    "utilization": 0.186,
+    "baseline": 76
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-megamall",
+    "sessions": 75,
+    "energyKwh": 3096,
+    "avgDwellMin": 38,
+    "utilization": 0.198,
+    "baseline": 76
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-megamall",
+    "sessions": 76,
+    "energyKwh": 3138,
+    "avgDwellMin": 39,
+    "utilization": 0.206,
+    "baseline": 76
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-megamall",
+    "sessions": 84,
+    "energyKwh": 3468,
+    "avgDwellMin": 36,
+    "utilization": 0.21,
+    "baseline": 76
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-megamall",
+    "sessions": 102,
+    "energyKwh": 4211,
+    "avgDwellMin": 26,
+    "utilization": 0.184,
+    "baseline": 93
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-megamall",
+    "sessions": 96,
+    "energyKwh": 3963,
+    "avgDwellMin": 36,
+    "utilization": 0.24,
+    "baseline": 93
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-megamall",
+    "sessions": 88,
+    "energyKwh": 3633,
+    "avgDwellMin": 35,
+    "utilization": 0.214,
+    "baseline": 76
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-megamall",
+    "sessions": 73,
+    "energyKwh": 3014,
+    "avgDwellMin": 39,
+    "utilization": 0.198,
+    "baseline": 76
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-megamall",
+    "sessions": 83,
+    "energyKwh": 3427,
+    "avgDwellMin": 44,
+    "utilization": 0.254,
+    "baseline": 76
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-megamall",
+    "sessions": 77,
+    "energyKwh": 3179,
+    "avgDwellMin": 42,
+    "utilization": 0.225,
+    "baseline": 76
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-megamall",
+    "sessions": 84,
+    "energyKwh": 3468,
+    "avgDwellMin": 36,
+    "utilization": 0.21,
+    "baseline": 76
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-megamall",
+    "sessions": 100,
+    "energyKwh": 4129,
+    "avgDwellMin": 32,
+    "utilization": 0.222,
+    "baseline": 93
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-megamall",
+    "sessions": 111,
+    "energyKwh": 4583,
+    "avgDwellMin": 42,
+    "utilization": 0.324,
+    "baseline": 93
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-megamall",
+    "sessions": 91,
+    "energyKwh": 3757,
+    "avgDwellMin": 37,
+    "utilization": 0.234,
+    "baseline": 76
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-megamall",
+    "sessions": 80,
+    "energyKwh": 3303,
+    "avgDwellMin": 44,
+    "utilization": 0.244,
+    "baseline": 76
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-megamall",
+    "sessions": 74,
+    "energyKwh": 3055,
+    "avgDwellMin": 36,
+    "utilization": 0.185,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-megamall",
+    "sessions": 84,
+    "energyKwh": 3468,
+    "avgDwellMin": 45,
+    "utilization": 0.263,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-megamall",
+    "sessions": 89,
+    "energyKwh": 3674,
+    "avgDwellMin": 48,
+    "utilization": 0.297,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-megamall",
+    "sessions": 100,
+    "energyKwh": 4129,
+    "avgDwellMin": 38,
+    "utilization": 0.264,
+    "baseline": 93
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-megamall",
+    "sessions": 95,
+    "energyKwh": 3922,
+    "avgDwellMin": 37,
+    "utilization": 0.244,
+    "baseline": 93
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-megamall",
+    "sessions": 85,
+    "energyKwh": 3509,
+    "avgDwellMin": 40,
+    "utilization": 0.236,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-megamall",
+    "sessions": 83,
+    "energyKwh": 3427,
+    "avgDwellMin": 35,
+    "utilization": 0.202,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-megamall",
+    "sessions": 91,
+    "energyKwh": 3757,
+    "avgDwellMin": 38,
+    "utilization": 0.24,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-megamall",
+    "sessions": 76,
+    "energyKwh": 3138,
+    "avgDwellMin": 35,
+    "utilization": 0.185,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-megamall",
+    "sessions": 81,
+    "energyKwh": 3344,
+    "avgDwellMin": 42,
+    "utilization": 0.236,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-megamall",
+    "sessions": 115,
+    "energyKwh": 4748,
+    "avgDwellMin": 38,
+    "utilization": 0.303,
+    "baseline": 93
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-megamall",
+    "sessions": 113,
+    "energyKwh": 4665,
+    "avgDwellMin": 35,
+    "utilization": 0.275,
+    "baseline": 93
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-megamall",
+    "sessions": 94,
+    "energyKwh": 3881,
+    "avgDwellMin": 38,
+    "utilization": 0.248,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-megamall",
+    "sessions": 86,
+    "energyKwh": 3551,
+    "avgDwellMin": 32,
+    "utilization": 0.191,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-megamall",
+    "sessions": 82,
+    "energyKwh": 3385,
+    "avgDwellMin": 34,
+    "utilization": 0.194,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-megamall",
+    "sessions": 84,
+    "energyKwh": 3468,
+    "avgDwellMin": 33,
+    "utilization": 0.193,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-megamall",
+    "sessions": 89,
+    "energyKwh": 3674,
+    "avgDwellMin": 37,
+    "utilization": 0.229,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-megamall",
+    "sessions": 105,
+    "energyKwh": 4335,
+    "avgDwellMin": 34,
+    "utilization": 0.248,
+    "baseline": 93
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-megamall",
+    "sessions": 89,
+    "energyKwh": 3674,
+    "avgDwellMin": 40,
+    "utilization": 0.247,
+    "baseline": 93
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-megamall",
+    "sessions": 96,
+    "energyKwh": 3963,
+    "avgDwellMin": 44,
+    "utilization": 0.293,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-megamall",
+    "sessions": 84,
+    "energyKwh": 3468,
+    "avgDwellMin": 38,
+    "utilization": 0.222,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-megamall",
+    "sessions": 95,
+    "energyKwh": 3922,
+    "avgDwellMin": 38,
+    "utilization": 0.251,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-megamall",
+    "sessions": 89,
+    "energyKwh": 3674,
+    "avgDwellMin": 39,
+    "utilization": 0.241,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-megamall",
+    "sessions": 89,
+    "energyKwh": 3674,
+    "avgDwellMin": 43,
+    "utilization": 0.266,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-megamall",
+    "sessions": 113,
+    "energyKwh": 4665,
+    "avgDwellMin": 30,
+    "utilization": 0.235,
+    "baseline": 93
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-megamall",
+    "sessions": 108,
+    "energyKwh": 4459,
+    "avgDwellMin": 34,
+    "utilization": 0.255,
+    "baseline": 93
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-megamall",
+    "sessions": 94,
+    "energyKwh": 3881,
+    "avgDwellMin": 32,
+    "utilization": 0.209,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-megamall",
+    "sessions": 95,
+    "energyKwh": 3922,
+    "avgDwellMin": 44,
+    "utilization": 0.29,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-megamall",
+    "sessions": 105,
+    "energyKwh": 4335,
+    "avgDwellMin": 41,
+    "utilization": 0.299,
+    "baseline": 76
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-megamall",
+    "sessions": 90,
+    "energyKwh": 3716,
+    "avgDwellMin": 38,
+    "utilization": 0.238,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-megamall",
+    "sessions": 103,
+    "energyKwh": 4252,
+    "avgDwellMin": 38,
+    "utilization": 0.272,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-megamall",
+    "sessions": 123,
+    "energyKwh": 5078,
+    "avgDwellMin": 39,
+    "utilization": 0.333,
+    "baseline": 93
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-megamall",
+    "sessions": 122,
+    "energyKwh": 5037,
+    "avgDwellMin": 34,
+    "utilization": 0.288,
+    "baseline": 93
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-megamall",
+    "sessions": 96,
+    "energyKwh": 3963,
+    "avgDwellMin": 40,
+    "utilization": 0.267,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-megamall",
+    "sessions": 96,
+    "energyKwh": 3963,
+    "avgDwellMin": 29,
+    "utilization": 0.193,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-megamall",
+    "sessions": 100,
+    "energyKwh": 4129,
+    "avgDwellMin": 48,
+    "utilization": 0.333,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-megamall",
+    "sessions": 94,
+    "energyKwh": 3881,
+    "avgDwellMin": 35,
+    "utilization": 0.228,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-megamall",
+    "sessions": 89,
+    "energyKwh": 3674,
+    "avgDwellMin": 41,
+    "utilization": 0.253,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-megamall",
+    "sessions": 112,
+    "energyKwh": 4624,
+    "avgDwellMin": 41,
+    "utilization": 0.319,
+    "baseline": 93
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-megamall",
+    "sessions": 123,
+    "energyKwh": 5078,
+    "avgDwellMin": 39,
+    "utilization": 0.333,
+    "baseline": 93
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-megamall",
+    "sessions": 109,
+    "energyKwh": 4500,
+    "avgDwellMin": 36,
+    "utilization": 0.273,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-megamall",
+    "sessions": 106,
+    "energyKwh": 4376,
+    "avgDwellMin": 44,
+    "utilization": 0.324,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-megamall",
+    "sessions": 96,
+    "energyKwh": 3963,
+    "avgDwellMin": 35,
+    "utilization": 0.233,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-megamall",
+    "sessions": 105,
+    "energyKwh": 4335,
+    "avgDwellMin": 41,
+    "utilization": 0.299,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-megamall",
+    "sessions": 96,
+    "energyKwh": 3963,
+    "avgDwellMin": 34,
+    "utilization": 0.227,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-megamall",
+    "sessions": 126,
+    "energyKwh": 5202,
+    "avgDwellMin": 42,
+    "utilization": 0.368,
+    "baseline": 93
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-megamall",
+    "sessions": 123,
+    "energyKwh": 5078,
+    "avgDwellMin": 40,
+    "utilization": 0.342,
+    "baseline": 93
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-megamall",
+    "sessions": 106,
+    "energyKwh": 4376,
+    "avgDwellMin": 41,
+    "utilization": 0.302,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-megamall",
+    "sessions": 98,
+    "energyKwh": 4046,
+    "avgDwellMin": 35,
+    "utilization": 0.238,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-megamall",
+    "sessions": 99,
+    "energyKwh": 4087,
+    "avgDwellMin": 40,
+    "utilization": 0.275,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-megamall",
+    "sessions": 97,
+    "energyKwh": 4005,
+    "avgDwellMin": 35,
+    "utilization": 0.236,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-megamall",
+    "sessions": 101,
+    "energyKwh": 4170,
+    "avgDwellMin": 40,
+    "utilization": 0.281,
+    "baseline": 76
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-megamall",
+    "sessions": 123,
+    "energyKwh": 5078,
+    "avgDwellMin": 35,
+    "utilization": 0.299,
+    "baseline": 93
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-ortigas",
+    "sessions": 16,
+    "energyKwh": 279,
+    "avgDwellMin": 138,
+    "utilization": 0.256,
+    "baseline": 15
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-ortigas",
+    "sessions": 22,
+    "energyKwh": 383,
+    "avgDwellMin": 138,
+    "utilization": 0.351,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-ortigas",
+    "sessions": 25,
+    "energyKwh": 436,
+    "avgDwellMin": 137,
+    "utilization": 0.396,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-ortigas",
+    "sessions": 23,
+    "energyKwh": 401,
+    "avgDwellMin": 132,
+    "utilization": 0.351,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-ortigas",
+    "sessions": 21,
+    "energyKwh": 366,
+    "avgDwellMin": 137,
+    "utilization": 0.333,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-ortigas",
+    "sessions": 19,
+    "energyKwh": 331,
+    "avgDwellMin": 129,
+    "utilization": 0.284,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-ortigas",
+    "sessions": 19,
+    "energyKwh": 331,
+    "avgDwellMin": 137,
+    "utilization": 0.301,
+    "baseline": 15
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-ortigas",
+    "sessions": 18,
+    "energyKwh": 314,
+    "avgDwellMin": 131,
+    "utilization": 0.273,
+    "baseline": 15
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-ortigas",
+    "sessions": 23,
+    "energyKwh": 401,
+    "avgDwellMin": 137,
+    "utilization": 0.365,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-ortigas",
+    "sessions": 23,
+    "energyKwh": 401,
+    "avgDwellMin": 130,
+    "utilization": 0.346,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-ortigas",
+    "sessions": 24,
+    "energyKwh": 418,
+    "avgDwellMin": 130,
+    "utilization": 0.361,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-ortigas",
+    "sessions": 24,
+    "energyKwh": 418,
+    "avgDwellMin": 131,
+    "utilization": 0.364,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-ortigas",
+    "sessions": 20,
+    "energyKwh": 349,
+    "avgDwellMin": 122,
+    "utilization": 0.282,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-ortigas",
+    "sessions": 15,
+    "energyKwh": 261,
+    "avgDwellMin": 136,
+    "utilization": 0.236,
+    "baseline": 15
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-ortigas",
+    "sessions": 17,
+    "energyKwh": 296,
+    "avgDwellMin": 136,
+    "utilization": 0.268,
+    "baseline": 15
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-ortigas",
+    "sessions": 20,
+    "energyKwh": 349,
+    "avgDwellMin": 138,
+    "utilization": 0.319,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-ortigas",
+    "sessions": 24,
+    "energyKwh": 418,
+    "avgDwellMin": 135,
+    "utilization": 0.375,
+    "baseline": 21
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-ortigas",
+    "sessions": 20,
+    "energyKwh": 349,
+    "avgDwellMin": 144,
+    "utilization": 0.333,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-ortigas",
+    "sessions": 24,
+    "energyKwh": 418,
+    "avgDwellMin": 132,
+    "utilization": 0.367,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-ortigas",
+    "sessions": 20,
+    "energyKwh": 349,
+    "avgDwellMin": 132,
+    "utilization": 0.306,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-ortigas",
+    "sessions": 16,
+    "energyKwh": 279,
+    "avgDwellMin": 131,
+    "utilization": 0.243,
+    "baseline": 15
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-ortigas",
+    "sessions": 17,
+    "energyKwh": 296,
+    "avgDwellMin": 128,
+    "utilization": 0.252,
+    "baseline": 15
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-ortigas",
+    "sessions": 24,
+    "energyKwh": 418,
+    "avgDwellMin": 125,
+    "utilization": 0.347,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-ortigas",
+    "sessions": 23,
+    "energyKwh": 401,
+    "avgDwellMin": 131,
+    "utilization": 0.349,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-ortigas",
+    "sessions": 21,
+    "energyKwh": 366,
+    "avgDwellMin": 126,
+    "utilization": 0.306,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-ortigas",
+    "sessions": 25,
+    "energyKwh": 436,
+    "avgDwellMin": 132,
+    "utilization": 0.382,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-ortigas",
+    "sessions": 22,
+    "energyKwh": 383,
+    "avgDwellMin": 127,
+    "utilization": 0.323,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-ortigas",
+    "sessions": 15,
+    "energyKwh": 261,
+    "avgDwellMin": 134,
+    "utilization": 0.233,
+    "baseline": 15
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-ortigas",
+    "sessions": 17,
+    "energyKwh": 296,
+    "avgDwellMin": 140,
+    "utilization": 0.275,
+    "baseline": 15
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-ortigas",
+    "sessions": 24,
+    "energyKwh": 418,
+    "avgDwellMin": 136,
+    "utilization": 0.378,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-ortigas",
+    "sessions": 24,
+    "energyKwh": 418,
+    "avgDwellMin": 137,
+    "utilization": 0.381,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-ortigas",
+    "sessions": 22,
+    "energyKwh": 383,
+    "avgDwellMin": 131,
+    "utilization": 0.334,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-ortigas",
+    "sessions": 21,
+    "energyKwh": 366,
+    "avgDwellMin": 133,
+    "utilization": 0.323,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-ortigas",
+    "sessions": 22,
+    "energyKwh": 383,
+    "avgDwellMin": 130,
+    "utilization": 0.331,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-ortigas",
+    "sessions": 17,
+    "energyKwh": 296,
+    "avgDwellMin": 139,
+    "utilization": 0.273,
+    "baseline": 15
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-ortigas",
+    "sessions": 19,
+    "energyKwh": 331,
+    "avgDwellMin": 131,
+    "utilization": 0.288,
+    "baseline": 15
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-ortigas",
+    "sessions": 22,
+    "energyKwh": 383,
+    "avgDwellMin": 126,
+    "utilization": 0.321,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-ortigas",
+    "sessions": 25,
+    "energyKwh": 436,
+    "avgDwellMin": 136,
+    "utilization": 0.394,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-ortigas",
+    "sessions": 26,
+    "energyKwh": 453,
+    "avgDwellMin": 128,
+    "utilization": 0.385,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-ortigas",
+    "sessions": 26,
+    "energyKwh": 453,
+    "avgDwellMin": 134,
+    "utilization": 0.403,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-ortigas",
+    "sessions": 26,
+    "energyKwh": 453,
+    "avgDwellMin": 133,
+    "utilization": 0.4,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-ortigas",
+    "sessions": 16,
+    "energyKwh": 279,
+    "avgDwellMin": 130,
+    "utilization": 0.241,
+    "baseline": 15
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-ortigas",
+    "sessions": 19,
+    "energyKwh": 331,
+    "avgDwellMin": 129,
+    "utilization": 0.284,
+    "baseline": 15
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-ortigas",
+    "sessions": 25,
+    "energyKwh": 436,
+    "avgDwellMin": 132,
+    "utilization": 0.382,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-ortigas",
+    "sessions": 25,
+    "energyKwh": 436,
+    "avgDwellMin": 135,
+    "utilization": 0.391,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-ortigas",
+    "sessions": 22,
+    "energyKwh": 383,
+    "avgDwellMin": 131,
+    "utilization": 0.334,
+    "baseline": 21
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-ortigas",
+    "sessions": 24,
+    "energyKwh": 418,
+    "avgDwellMin": 129,
+    "utilization": 0.358,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-ortigas",
+    "sessions": 28,
+    "energyKwh": 488,
+    "avgDwellMin": 133,
+    "utilization": 0.431,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-ortigas",
+    "sessions": 17,
+    "energyKwh": 296,
+    "avgDwellMin": 127,
+    "utilization": 0.25,
+    "baseline": 15
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-ortigas",
+    "sessions": 19,
+    "energyKwh": 331,
+    "avgDwellMin": 137,
+    "utilization": 0.301,
+    "baseline": 15
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-ortigas",
+    "sessions": 25,
+    "energyKwh": 436,
+    "avgDwellMin": 128,
+    "utilization": 0.37,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-ortigas",
+    "sessions": 25,
+    "energyKwh": 436,
+    "avgDwellMin": 134,
+    "utilization": 0.388,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-ortigas",
+    "sessions": 23,
+    "energyKwh": 401,
+    "avgDwellMin": 139,
+    "utilization": 0.37,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-ortigas",
+    "sessions": 26,
+    "energyKwh": 453,
+    "avgDwellMin": 135,
+    "utilization": 0.406,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-ortigas",
+    "sessions": 25,
+    "energyKwh": 436,
+    "avgDwellMin": 125,
+    "utilization": 0.362,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-ortigas",
+    "sessions": 21,
+    "energyKwh": 366,
+    "avgDwellMin": 130,
+    "utilization": 0.316,
+    "baseline": 15
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-ortigas",
+    "sessions": 20,
+    "energyKwh": 349,
+    "avgDwellMin": 133,
+    "utilization": 0.308,
+    "baseline": 15
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-ortigas",
+    "sessions": 25,
+    "energyKwh": 436,
+    "avgDwellMin": 132,
+    "utilization": 0.382,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-ortigas",
+    "sessions": 25,
+    "energyKwh": 436,
+    "avgDwellMin": 135,
+    "utilization": 0.391,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-ortigas",
+    "sessions": 25,
+    "energyKwh": 436,
+    "avgDwellMin": 134,
+    "utilization": 0.388,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-ortigas",
+    "sessions": 25,
+    "energyKwh": 436,
+    "avgDwellMin": 137,
+    "utilization": 0.396,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-ortigas",
+    "sessions": 24,
+    "energyKwh": 418,
+    "avgDwellMin": 128,
+    "utilization": 0.356,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-ortigas",
+    "sessions": 17,
+    "energyKwh": 296,
+    "avgDwellMin": 141,
+    "utilization": 0.277,
+    "baseline": 15
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-ortigas",
+    "sessions": 20,
+    "energyKwh": 349,
+    "avgDwellMin": 138,
+    "utilization": 0.319,
+    "baseline": 15
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-ortigas",
+    "sessions": 27,
+    "energyKwh": 471,
+    "avgDwellMin": 129,
+    "utilization": 0.403,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-ortigas",
+    "sessions": 29,
+    "energyKwh": 505,
+    "avgDwellMin": 139,
+    "utilization": 0.467,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-ortigas",
+    "sessions": 26,
+    "energyKwh": 453,
+    "avgDwellMin": 133,
+    "utilization": 0.4,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-ortigas",
+    "sessions": 27,
+    "energyKwh": 471,
+    "avgDwellMin": 132,
+    "utilization": 0.413,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-ortigas",
+    "sessions": 28,
+    "energyKwh": 488,
+    "avgDwellMin": 132,
+    "utilization": 0.428,
+    "baseline": 21
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-ortigas",
+    "sessions": 16,
+    "energyKwh": 279,
+    "avgDwellMin": 128,
+    "utilization": 0.237,
+    "baseline": 15
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-moa",
+    "sessions": 107,
+    "energyKwh": 4358,
+    "avgDwellMin": 34,
+    "utilization": 0.211,
+    "baseline": 107
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-moa",
+    "sessions": 95,
+    "energyKwh": 3869,
+    "avgDwellMin": 44,
+    "utilization": 0.242,
+    "baseline": 88
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-moa",
+    "sessions": 84,
+    "energyKwh": 3421,
+    "avgDwellMin": 38,
+    "utilization": 0.185,
+    "baseline": 88
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-moa",
+    "sessions": 83,
+    "energyKwh": 3380,
+    "avgDwellMin": 44,
+    "utilization": 0.211,
+    "baseline": 88
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-moa",
+    "sessions": 101,
+    "energyKwh": 4113,
+    "avgDwellMin": 44,
+    "utilization": 0.257,
+    "baseline": 88
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-moa",
+    "sessions": 88,
+    "energyKwh": 3584,
+    "avgDwellMin": 44,
+    "utilization": 0.224,
+    "baseline": 88
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-moa",
+    "sessions": 111,
+    "energyKwh": 4521,
+    "avgDwellMin": 40,
+    "utilization": 0.257,
+    "baseline": 107
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-moa",
+    "sessions": 95,
+    "energyKwh": 3869,
+    "avgDwellMin": 36,
+    "utilization": 0.198,
+    "baseline": 107
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-moa",
+    "sessions": 85,
+    "energyKwh": 3462,
+    "avgDwellMin": 38,
+    "utilization": 0.187,
+    "baseline": 88
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-moa",
+    "sessions": 91,
+    "energyKwh": 3706,
+    "avgDwellMin": 42,
+    "utilization": 0.221,
+    "baseline": 88
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-moa",
+    "sessions": 77,
+    "energyKwh": 3136,
+    "avgDwellMin": 36,
+    "utilization": 0.16,
+    "baseline": 88
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-moa",
+    "sessions": 86,
+    "energyKwh": 3503,
+    "avgDwellMin": 33,
+    "utilization": 0.164,
+    "baseline": 88
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-moa",
+    "sessions": 76,
+    "energyKwh": 3095,
+    "avgDwellMin": 40,
+    "utilization": 0.176,
+    "baseline": 88
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-moa",
+    "sessions": 95,
+    "energyKwh": 3869,
+    "avgDwellMin": 41,
+    "utilization": 0.225,
+    "baseline": 107
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-moa",
+    "sessions": 119,
+    "energyKwh": 4847,
+    "avgDwellMin": 40,
+    "utilization": 0.275,
+    "baseline": 107
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-moa",
+    "sessions": 106,
+    "energyKwh": 4317,
+    "avgDwellMin": 41,
+    "utilization": 0.252,
+    "baseline": 88
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-moa",
+    "sessions": 83,
+    "energyKwh": 3380,
+    "avgDwellMin": 37,
+    "utilization": 0.178,
+    "baseline": 88
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-moa",
+    "sessions": 79,
+    "energyKwh": 3217,
+    "avgDwellMin": 44,
+    "utilization": 0.201,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-moa",
+    "sessions": 84,
+    "energyKwh": 3421,
+    "avgDwellMin": 42,
+    "utilization": 0.204,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-moa",
+    "sessions": 90,
+    "energyKwh": 3665,
+    "avgDwellMin": 41,
+    "utilization": 0.214,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-moa",
+    "sessions": 117,
+    "energyKwh": 4765,
+    "avgDwellMin": 36,
+    "utilization": 0.244,
+    "baseline": 107
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-moa",
+    "sessions": 121,
+    "energyKwh": 4928,
+    "avgDwellMin": 43,
+    "utilization": 0.301,
+    "baseline": 107
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-moa",
+    "sessions": 80,
+    "energyKwh": 3258,
+    "avgDwellMin": 40,
+    "utilization": 0.185,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-moa",
+    "sessions": 109,
+    "energyKwh": 4439,
+    "avgDwellMin": 40,
+    "utilization": 0.252,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-moa",
+    "sessions": 99,
+    "energyKwh": 4032,
+    "avgDwellMin": 39,
+    "utilization": 0.223,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-moa",
+    "sessions": 98,
+    "energyKwh": 3991,
+    "avgDwellMin": 43,
+    "utilization": 0.244,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-moa",
+    "sessions": 94,
+    "energyKwh": 3828,
+    "avgDwellMin": 37,
+    "utilization": 0.201,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-moa",
+    "sessions": 102,
+    "energyKwh": 4154,
+    "avgDwellMin": 38,
+    "utilization": 0.224,
+    "baseline": 107
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-moa",
+    "sessions": 110,
+    "energyKwh": 4480,
+    "avgDwellMin": 44,
+    "utilization": 0.28,
+    "baseline": 107
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-moa",
+    "sessions": 105,
+    "energyKwh": 4276,
+    "avgDwellMin": 37,
+    "utilization": 0.225,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-moa",
+    "sessions": 94,
+    "energyKwh": 3828,
+    "avgDwellMin": 32,
+    "utilization": 0.174,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-moa",
+    "sessions": 88,
+    "energyKwh": 3584,
+    "avgDwellMin": 39,
+    "utilization": 0.199,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-moa",
+    "sessions": 102,
+    "energyKwh": 4154,
+    "avgDwellMin": 44,
+    "utilization": 0.26,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-moa",
+    "sessions": 100,
+    "energyKwh": 4073,
+    "avgDwellMin": 44,
+    "utilization": 0.255,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-moa",
+    "sessions": 124,
+    "energyKwh": 5050,
+    "avgDwellMin": 36,
+    "utilization": 0.258,
+    "baseline": 107
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-moa",
+    "sessions": 123,
+    "energyKwh": 5009,
+    "avgDwellMin": 33,
+    "utilization": 0.235,
+    "baseline": 107
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-moa",
+    "sessions": 99,
+    "energyKwh": 4032,
+    "avgDwellMin": 33,
+    "utilization": 0.189,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-moa",
+    "sessions": 104,
+    "energyKwh": 4236,
+    "avgDwellMin": 37,
+    "utilization": 0.223,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-moa",
+    "sessions": 102,
+    "energyKwh": 4154,
+    "avgDwellMin": 47,
+    "utilization": 0.277,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-moa",
+    "sessions": 110,
+    "energyKwh": 4480,
+    "avgDwellMin": 36,
+    "utilization": 0.229,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-moa",
+    "sessions": 102,
+    "energyKwh": 4154,
+    "avgDwellMin": 38,
+    "utilization": 0.224,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-moa",
+    "sessions": 128,
+    "energyKwh": 5213,
+    "avgDwellMin": 42,
+    "utilization": 0.311,
+    "baseline": 107
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-moa",
+    "sessions": 122,
+    "energyKwh": 4969,
+    "avgDwellMin": 39,
+    "utilization": 0.275,
+    "baseline": 107
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-moa",
+    "sessions": 115,
+    "energyKwh": 4684,
+    "avgDwellMin": 38,
+    "utilization": 0.253,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-moa",
+    "sessions": 110,
+    "energyKwh": 4480,
+    "avgDwellMin": 45,
+    "utilization": 0.286,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-moa",
+    "sessions": 118,
+    "energyKwh": 4806,
+    "avgDwellMin": 42,
+    "utilization": 0.287,
+    "baseline": 88
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-moa",
+    "sessions": 114,
+    "energyKwh": 4643,
+    "avgDwellMin": 38,
+    "utilization": 0.251,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-moa",
+    "sessions": 120,
+    "energyKwh": 4887,
+    "avgDwellMin": 38,
+    "utilization": 0.264,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-moa",
+    "sessions": 145,
+    "energyKwh": 5905,
+    "avgDwellMin": 36,
+    "utilization": 0.302,
+    "baseline": 107
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-moa",
+    "sessions": 120,
+    "energyKwh": 4887,
+    "avgDwellMin": 41,
+    "utilization": 0.285,
+    "baseline": 107
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-moa",
+    "sessions": 116,
+    "energyKwh": 4724,
+    "avgDwellMin": 35,
+    "utilization": 0.235,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-moa",
+    "sessions": 112,
+    "energyKwh": 4561,
+    "avgDwellMin": 35,
+    "utilization": 0.227,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-moa",
+    "sessions": 115,
+    "energyKwh": 4684,
+    "avgDwellMin": 42,
+    "utilization": 0.28,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-moa",
+    "sessions": 119,
+    "energyKwh": 4847,
+    "avgDwellMin": 41,
+    "utilization": 0.282,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-moa",
+    "sessions": 124,
+    "energyKwh": 5050,
+    "avgDwellMin": 37,
+    "utilization": 0.266,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-moa",
+    "sessions": 141,
+    "energyKwh": 5743,
+    "avgDwellMin": 39,
+    "utilization": 0.318,
+    "baseline": 107
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-moa",
+    "sessions": 122,
+    "energyKwh": 4969,
+    "avgDwellMin": 46,
+    "utilization": 0.325,
+    "baseline": 107
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-moa",
+    "sessions": 109,
+    "energyKwh": 4439,
+    "avgDwellMin": 41,
+    "utilization": 0.259,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-moa",
+    "sessions": 115,
+    "energyKwh": 4684,
+    "avgDwellMin": 37,
+    "utilization": 0.246,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-moa",
+    "sessions": 112,
+    "energyKwh": 4561,
+    "avgDwellMin": 40,
+    "utilization": 0.259,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-moa",
+    "sessions": 120,
+    "energyKwh": 4887,
+    "avgDwellMin": 38,
+    "utilization": 0.264,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-moa",
+    "sessions": 114,
+    "energyKwh": 4643,
+    "avgDwellMin": 41,
+    "utilization": 0.27,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-moa",
+    "sessions": 140,
+    "energyKwh": 5702,
+    "avgDwellMin": 37,
+    "utilization": 0.3,
+    "baseline": 107
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-moa",
+    "sessions": 148,
+    "energyKwh": 6028,
+    "avgDwellMin": 37,
+    "utilization": 0.317,
+    "baseline": 107
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-moa",
+    "sessions": 122,
+    "energyKwh": 4969,
+    "avgDwellMin": 43,
+    "utilization": 0.304,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-moa",
+    "sessions": 110,
+    "energyKwh": 4480,
+    "avgDwellMin": 37,
+    "utilization": 0.236,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-moa",
+    "sessions": 132,
+    "energyKwh": 5376,
+    "avgDwellMin": 41,
+    "utilization": 0.313,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-moa",
+    "sessions": 119,
+    "energyKwh": 4847,
+    "avgDwellMin": 39,
+    "utilization": 0.269,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-moa",
+    "sessions": 111,
+    "energyKwh": 4521,
+    "avgDwellMin": 36,
+    "utilization": 0.231,
+    "baseline": 88
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-moa",
+    "sessions": 135,
+    "energyKwh": 5498,
+    "avgDwellMin": 39,
+    "utilization": 0.305,
+    "baseline": 107
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-trinoma",
+    "sessions": 24,
+    "energyKwh": 430,
+    "avgDwellMin": 159,
+    "utilization": 0.442,
+    "baseline": 24
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-trinoma",
+    "sessions": 21,
+    "energyKwh": 376,
+    "avgDwellMin": 154,
+    "utilization": 0.374,
+    "baseline": 20
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-trinoma",
+    "sessions": 19,
+    "energyKwh": 340,
+    "avgDwellMin": 159,
+    "utilization": 0.35,
+    "baseline": 20
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-trinoma",
+    "sessions": 21,
+    "energyKwh": 376,
+    "avgDwellMin": 157,
+    "utilization": 0.382,
+    "baseline": 20
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-trinoma",
+    "sessions": 20,
+    "energyKwh": 358,
+    "avgDwellMin": 155,
+    "utilization": 0.359,
+    "baseline": 20
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-trinoma",
+    "sessions": 21,
+    "energyKwh": 376,
+    "avgDwellMin": 152,
+    "utilization": 0.369,
+    "baseline": 20
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-trinoma",
+    "sessions": 23,
+    "energyKwh": 412,
+    "avgDwellMin": 157,
+    "utilization": 0.418,
+    "baseline": 24
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-trinoma",
+    "sessions": 23,
+    "energyKwh": 412,
+    "avgDwellMin": 151,
+    "utilization": 0.402,
+    "baseline": 24
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-trinoma",
+    "sessions": 22,
+    "energyKwh": 394,
+    "avgDwellMin": 158,
+    "utilization": 0.402,
+    "baseline": 20
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-trinoma",
+    "sessions": 19,
+    "energyKwh": 340,
+    "avgDwellMin": 162,
+    "utilization": 0.356,
+    "baseline": 20
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-trinoma",
+    "sessions": 21,
+    "energyKwh": 376,
+    "avgDwellMin": 154,
+    "utilization": 0.374,
+    "baseline": 20
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-trinoma",
+    "sessions": 21,
+    "energyKwh": 376,
+    "avgDwellMin": 148,
+    "utilization": 0.36,
+    "baseline": 20
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-trinoma",
+    "sessions": 23,
+    "energyKwh": 412,
+    "avgDwellMin": 153,
+    "utilization": 0.407,
+    "baseline": 20
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-trinoma",
+    "sessions": 26,
+    "energyKwh": 465,
+    "avgDwellMin": 152,
+    "utilization": 0.457,
+    "baseline": 24
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-trinoma",
+    "sessions": 25,
+    "energyKwh": 448,
+    "avgDwellMin": 160,
+    "utilization": 0.463,
+    "baseline": 24
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-trinoma",
+    "sessions": 20,
+    "energyKwh": 358,
+    "avgDwellMin": 152,
+    "utilization": 0.352,
+    "baseline": 20
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-trinoma",
+    "sessions": 19,
+    "energyKwh": 340,
+    "avgDwellMin": 159,
+    "utilization": 0.35,
+    "baseline": 20
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-trinoma",
+    "sessions": 21,
+    "energyKwh": 376,
+    "avgDwellMin": 157,
+    "utilization": 0.382,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-trinoma",
+    "sessions": 21,
+    "energyKwh": 376,
+    "avgDwellMin": 157,
+    "utilization": 0.382,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-trinoma",
+    "sessions": 21,
+    "energyKwh": 376,
+    "avgDwellMin": 151,
+    "utilization": 0.367,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-trinoma",
+    "sessions": 27,
+    "energyKwh": 483,
+    "avgDwellMin": 157,
+    "utilization": 0.491,
+    "baseline": 24
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-trinoma",
+    "sessions": 26,
+    "energyKwh": 465,
+    "avgDwellMin": 159,
+    "utilization": 0.478,
+    "baseline": 24
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-trinoma",
+    "sessions": 20,
+    "energyKwh": 358,
+    "avgDwellMin": 156,
+    "utilization": 0.361,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-trinoma",
+    "sessions": 23,
+    "energyKwh": 412,
+    "avgDwellMin": 156,
+    "utilization": 0.415,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-trinoma",
+    "sessions": 23,
+    "energyKwh": 412,
+    "avgDwellMin": 151,
+    "utilization": 0.402,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-trinoma",
+    "sessions": 23,
+    "energyKwh": 412,
+    "avgDwellMin": 164,
+    "utilization": 0.437,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-trinoma",
+    "sessions": 21,
+    "energyKwh": 376,
+    "avgDwellMin": 146,
+    "utilization": 0.355,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-trinoma",
+    "sessions": 28,
+    "energyKwh": 501,
+    "avgDwellMin": 156,
+    "utilization": 0.506,
+    "baseline": 24
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-trinoma",
+    "sessions": 26,
+    "energyKwh": 465,
+    "avgDwellMin": 154,
+    "utilization": 0.463,
+    "baseline": 24
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-trinoma",
+    "sessions": 22,
+    "energyKwh": 394,
+    "avgDwellMin": 154,
+    "utilization": 0.392,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-trinoma",
+    "sessions": 23,
+    "energyKwh": 412,
+    "avgDwellMin": 158,
+    "utilization": 0.421,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-trinoma",
+    "sessions": 22,
+    "energyKwh": 394,
+    "avgDwellMin": 153,
+    "utilization": 0.39,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-trinoma",
+    "sessions": 24,
+    "energyKwh": 430,
+    "avgDwellMin": 160,
+    "utilization": 0.444,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-trinoma",
+    "sessions": 24,
+    "energyKwh": 430,
+    "avgDwellMin": 161,
+    "utilization": 0.447,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-trinoma",
+    "sessions": 30,
+    "energyKwh": 537,
+    "avgDwellMin": 154,
+    "utilization": 0.535,
+    "baseline": 24
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-trinoma",
+    "sessions": 31,
+    "energyKwh": 555,
+    "avgDwellMin": 148,
+    "utilization": 0.531,
+    "baseline": 24
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-trinoma",
+    "sessions": 22,
+    "energyKwh": 394,
+    "avgDwellMin": 153,
+    "utilization": 0.39,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-trinoma",
+    "sessions": 23,
+    "energyKwh": 412,
+    "avgDwellMin": 153,
+    "utilization": 0.407,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-trinoma",
+    "sessions": 24,
+    "energyKwh": 430,
+    "avgDwellMin": 146,
+    "utilization": 0.406,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-trinoma",
+    "sessions": 22,
+    "energyKwh": 394,
+    "avgDwellMin": 153,
+    "utilization": 0.39,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-trinoma",
+    "sessions": 22,
+    "energyKwh": 394,
+    "avgDwellMin": 153,
+    "utilization": 0.39,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-trinoma",
+    "sessions": 27,
+    "energyKwh": 483,
+    "avgDwellMin": 149,
+    "utilization": 0.466,
+    "baseline": 24
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-trinoma",
+    "sessions": 30,
+    "energyKwh": 537,
+    "avgDwellMin": 156,
+    "utilization": 0.542,
+    "baseline": 24
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-trinoma",
+    "sessions": 24,
+    "energyKwh": 430,
+    "avgDwellMin": 155,
+    "utilization": 0.431,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-trinoma",
+    "sessions": 21,
+    "energyKwh": 376,
+    "avgDwellMin": 153,
+    "utilization": 0.372,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-trinoma",
+    "sessions": 24,
+    "energyKwh": 430,
+    "avgDwellMin": 147,
+    "utilization": 0.408,
+    "baseline": 20
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-trinoma",
+    "sessions": 25,
+    "energyKwh": 448,
+    "avgDwellMin": 154,
+    "utilization": 0.446,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-trinoma",
+    "sessions": 22,
+    "energyKwh": 394,
+    "avgDwellMin": 156,
+    "utilization": 0.397,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-trinoma",
+    "sessions": 31,
+    "energyKwh": 555,
+    "avgDwellMin": 156,
+    "utilization": 0.56,
+    "baseline": 24
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-trinoma",
+    "sessions": 30,
+    "energyKwh": 537,
+    "avgDwellMin": 155,
+    "utilization": 0.538,
+    "baseline": 24
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-trinoma",
+    "sessions": 19,
+    "energyKwh": 340,
+    "avgDwellMin": 150,
+    "utilization": 0.33,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-trinoma",
+    "sessions": 25,
+    "energyKwh": 448,
+    "avgDwellMin": 160,
+    "utilization": 0.463,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-trinoma",
+    "sessions": 23,
+    "energyKwh": 412,
+    "avgDwellMin": 157,
+    "utilization": 0.418,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-trinoma",
+    "sessions": 23,
+    "energyKwh": 412,
+    "avgDwellMin": 147,
+    "utilization": 0.391,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-trinoma",
+    "sessions": 25,
+    "energyKwh": 448,
+    "avgDwellMin": 161,
+    "utilization": 0.466,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-trinoma",
+    "sessions": 30,
+    "energyKwh": 537,
+    "avgDwellMin": 154,
+    "utilization": 0.535,
+    "baseline": 24
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-trinoma",
+    "sessions": 29,
+    "energyKwh": 519,
+    "avgDwellMin": 153,
+    "utilization": 0.514,
+    "baseline": 24
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-trinoma",
+    "sessions": 24,
+    "energyKwh": 430,
+    "avgDwellMin": 157,
+    "utilization": 0.436,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-trinoma",
+    "sessions": 25,
+    "energyKwh": 448,
+    "avgDwellMin": 151,
+    "utilization": 0.437,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-trinoma",
+    "sessions": 26,
+    "energyKwh": 465,
+    "avgDwellMin": 150,
+    "utilization": 0.451,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-trinoma",
+    "sessions": 21,
+    "energyKwh": 376,
+    "avgDwellMin": 147,
+    "utilization": 0.357,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-trinoma",
+    "sessions": 27,
+    "energyKwh": 483,
+    "avgDwellMin": 159,
+    "utilization": 0.497,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-trinoma",
+    "sessions": 29,
+    "energyKwh": 519,
+    "avgDwellMin": 149,
+    "utilization": 0.5,
+    "baseline": 24
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-trinoma",
+    "sessions": 30,
+    "energyKwh": 537,
+    "avgDwellMin": 152,
+    "utilization": 0.528,
+    "baseline": 24
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-trinoma",
+    "sessions": 23,
+    "energyKwh": 412,
+    "avgDwellMin": 154,
+    "utilization": 0.41,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-trinoma",
+    "sessions": 25,
+    "energyKwh": 448,
+    "avgDwellMin": 155,
+    "utilization": 0.448,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-trinoma",
+    "sessions": 27,
+    "energyKwh": 483,
+    "avgDwellMin": 156,
+    "utilization": 0.488,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-trinoma",
+    "sessions": 25,
+    "energyKwh": 448,
+    "avgDwellMin": 148,
+    "utilization": 0.428,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-trinoma",
+    "sessions": 25,
+    "energyKwh": 448,
+    "avgDwellMin": 159,
+    "utilization": 0.46,
+    "baseline": 20
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-trinoma",
+    "sessions": 33,
+    "energyKwh": 591,
+    "avgDwellMin": 155,
+    "utilization": 0.592,
+    "baseline": 24
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-eastwood",
+    "sessions": 27,
+    "energyKwh": 972,
+    "avgDwellMin": 45,
+    "utilization": 0.141,
+    "baseline": 29
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-eastwood",
+    "sessions": 39,
+    "energyKwh": 1404,
+    "avgDwellMin": 42,
+    "utilization": 0.19,
+    "baseline": 41
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-eastwood",
+    "sessions": 43,
+    "energyKwh": 1548,
+    "avgDwellMin": 41,
+    "utilization": 0.204,
+    "baseline": 41
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-eastwood",
+    "sessions": 46,
+    "energyKwh": 1656,
+    "avgDwellMin": 48,
+    "utilization": 0.256,
+    "baseline": 41
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-eastwood",
+    "sessions": 51,
+    "energyKwh": 1836,
+    "avgDwellMin": 46,
+    "utilization": 0.272,
+    "baseline": 41
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-eastwood",
+    "sessions": 42,
+    "energyKwh": 1512,
+    "avgDwellMin": 42,
+    "utilization": 0.204,
+    "baseline": 41
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-eastwood",
+    "sessions": 31,
+    "energyKwh": 1116,
+    "avgDwellMin": 40,
+    "utilization": 0.144,
+    "baseline": 29
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-eastwood",
+    "sessions": 34,
+    "energyKwh": 1224,
+    "avgDwellMin": 40,
+    "utilization": 0.157,
+    "baseline": 29
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-eastwood",
+    "sessions": 40,
+    "energyKwh": 1440,
+    "avgDwellMin": 43,
+    "utilization": 0.199,
+    "baseline": 41
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-eastwood",
+    "sessions": 39,
+    "energyKwh": 1404,
+    "avgDwellMin": 37,
+    "utilization": 0.167,
+    "baseline": 41
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-eastwood",
+    "sessions": 45,
+    "energyKwh": 1620,
+    "avgDwellMin": 37,
+    "utilization": 0.193,
+    "baseline": 41
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-eastwood",
+    "sessions": 49,
+    "energyKwh": 1764,
+    "avgDwellMin": 39,
+    "utilization": 0.221,
+    "baseline": 41
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-eastwood",
+    "sessions": 43,
+    "energyKwh": 1548,
+    "avgDwellMin": 38,
+    "utilization": 0.189,
+    "baseline": 41
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-eastwood",
+    "sessions": 28,
+    "energyKwh": 1008,
+    "avgDwellMin": 41,
+    "utilization": 0.133,
+    "baseline": 29
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-eastwood",
+    "sessions": 37,
+    "energyKwh": 1332,
+    "avgDwellMin": 42,
+    "utilization": 0.18,
+    "baseline": 29
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-eastwood",
+    "sessions": 38,
+    "energyKwh": 1368,
+    "avgDwellMin": 39,
+    "utilization": 0.172,
+    "baseline": 41
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-eastwood",
+    "sessions": 45,
+    "energyKwh": 1620,
+    "avgDwellMin": 37,
+    "utilization": 0.193,
+    "baseline": 41
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-eastwood",
+    "sessions": 46,
+    "energyKwh": 1656,
+    "avgDwellMin": 42,
+    "utilization": 0.224,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-eastwood",
+    "sessions": 41,
+    "energyKwh": 1476,
+    "avgDwellMin": 43,
+    "utilization": 0.204,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-eastwood",
+    "sessions": 43,
+    "energyKwh": 1548,
+    "avgDwellMin": 40,
+    "utilization": 0.199,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-eastwood",
+    "sessions": 34,
+    "energyKwh": 1224,
+    "avgDwellMin": 51,
+    "utilization": 0.201,
+    "baseline": 29
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-eastwood",
+    "sessions": 31,
+    "energyKwh": 1116,
+    "avgDwellMin": 40,
+    "utilization": 0.144,
+    "baseline": 29
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-eastwood",
+    "sessions": 45,
+    "energyKwh": 1620,
+    "avgDwellMin": 45,
+    "utilization": 0.234,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-eastwood",
+    "sessions": 41,
+    "energyKwh": 1476,
+    "avgDwellMin": 39,
+    "utilization": 0.185,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-eastwood",
+    "sessions": 45,
+    "energyKwh": 1620,
+    "avgDwellMin": 50,
+    "utilization": 0.26,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-eastwood",
+    "sessions": 49,
+    "energyKwh": 1764,
+    "avgDwellMin": 42,
+    "utilization": 0.238,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-eastwood",
+    "sessions": 46,
+    "energyKwh": 1656,
+    "avgDwellMin": 42,
+    "utilization": 0.224,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-eastwood",
+    "sessions": 29,
+    "energyKwh": 1044,
+    "avgDwellMin": 41,
+    "utilization": 0.138,
+    "baseline": 29
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-eastwood",
+    "sessions": 31,
+    "energyKwh": 1116,
+    "avgDwellMin": 38,
+    "utilization": 0.136,
+    "baseline": 29
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-eastwood",
+    "sessions": 47,
+    "energyKwh": 1692,
+    "avgDwellMin": 46,
+    "utilization": 0.25,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-eastwood",
+    "sessions": 50,
+    "energyKwh": 1800,
+    "avgDwellMin": 48,
+    "utilization": 0.278,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-eastwood",
+    "sessions": 42,
+    "energyKwh": 1512,
+    "avgDwellMin": 40,
+    "utilization": 0.194,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-eastwood",
+    "sessions": 50,
+    "energyKwh": 1800,
+    "avgDwellMin": 43,
+    "utilization": 0.249,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-eastwood",
+    "sessions": 48,
+    "energyKwh": 1728,
+    "avgDwellMin": 36,
+    "utilization": 0.2,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-eastwood",
+    "sessions": 32,
+    "energyKwh": 1152,
+    "avgDwellMin": 50,
+    "utilization": 0.185,
+    "baseline": 29
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-eastwood",
+    "sessions": 32,
+    "energyKwh": 1152,
+    "avgDwellMin": 47,
+    "utilization": 0.174,
+    "baseline": 29
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-eastwood",
+    "sessions": 51,
+    "energyKwh": 1836,
+    "avgDwellMin": 40,
+    "utilization": 0.236,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-eastwood",
+    "sessions": 44,
+    "energyKwh": 1584,
+    "avgDwellMin": 42,
+    "utilization": 0.214,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-eastwood",
+    "sessions": 45,
+    "energyKwh": 1620,
+    "avgDwellMin": 50,
+    "utilization": 0.26,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-eastwood",
+    "sessions": 47,
+    "energyKwh": 1692,
+    "avgDwellMin": 40,
+    "utilization": 0.218,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-eastwood",
+    "sessions": 45,
+    "energyKwh": 1620,
+    "avgDwellMin": 45,
+    "utilization": 0.234,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-eastwood",
+    "sessions": 37,
+    "energyKwh": 1332,
+    "avgDwellMin": 42,
+    "utilization": 0.18,
+    "baseline": 29
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-eastwood",
+    "sessions": 33,
+    "energyKwh": 1188,
+    "avgDwellMin": 38,
+    "utilization": 0.145,
+    "baseline": 29
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-eastwood",
+    "sessions": 43,
+    "energyKwh": 1548,
+    "avgDwellMin": 41,
+    "utilization": 0.204,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-eastwood",
+    "sessions": 47,
+    "energyKwh": 1692,
+    "avgDwellMin": 52,
+    "utilization": 0.283,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-eastwood",
+    "sessions": 45,
+    "energyKwh": 1620,
+    "avgDwellMin": 42,
+    "utilization": 0.219,
+    "baseline": 41
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-eastwood",
+    "sessions": 46,
+    "energyKwh": 1656,
+    "avgDwellMin": 41,
+    "utilization": 0.218,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-eastwood",
+    "sessions": 49,
+    "energyKwh": 1764,
+    "avgDwellMin": 43,
+    "utilization": 0.244,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-eastwood",
+    "sessions": 41,
+    "energyKwh": 1476,
+    "avgDwellMin": 40,
+    "utilization": 0.19,
+    "baseline": 29
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-eastwood",
+    "sessions": 35,
+    "energyKwh": 1260,
+    "avgDwellMin": 43,
+    "utilization": 0.174,
+    "baseline": 29
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-eastwood",
+    "sessions": 51,
+    "energyKwh": 1836,
+    "avgDwellMin": 42,
+    "utilization": 0.248,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-eastwood",
+    "sessions": 43,
+    "energyKwh": 1548,
+    "avgDwellMin": 50,
+    "utilization": 0.249,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-eastwood",
+    "sessions": 49,
+    "energyKwh": 1764,
+    "avgDwellMin": 47,
+    "utilization": 0.267,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-eastwood",
+    "sessions": 59,
+    "energyKwh": 2124,
+    "avgDwellMin": 41,
+    "utilization": 0.28,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-eastwood",
+    "sessions": 52,
+    "energyKwh": 1872,
+    "avgDwellMin": 44,
+    "utilization": 0.265,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-eastwood",
+    "sessions": 32,
+    "energyKwh": 1152,
+    "avgDwellMin": 42,
+    "utilization": 0.156,
+    "baseline": 29
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-eastwood",
+    "sessions": 41,
+    "energyKwh": 1476,
+    "avgDwellMin": 40,
+    "utilization": 0.19,
+    "baseline": 29
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-eastwood",
+    "sessions": 51,
+    "energyKwh": 1836,
+    "avgDwellMin": 38,
+    "utilization": 0.224,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-eastwood",
+    "sessions": 42,
+    "energyKwh": 1512,
+    "avgDwellMin": 45,
+    "utilization": 0.219,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-eastwood",
+    "sessions": 49,
+    "energyKwh": 1764,
+    "avgDwellMin": 42,
+    "utilization": 0.238,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-eastwood",
+    "sessions": 52,
+    "energyKwh": 1872,
+    "avgDwellMin": 40,
+    "utilization": 0.241,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-eastwood",
+    "sessions": 51,
+    "energyKwh": 1836,
+    "avgDwellMin": 41,
+    "utilization": 0.242,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-eastwood",
+    "sessions": 41,
+    "energyKwh": 1476,
+    "avgDwellMin": 36,
+    "utilization": 0.171,
+    "baseline": 29
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-eastwood",
+    "sessions": 39,
+    "energyKwh": 1404,
+    "avgDwellMin": 40,
+    "utilization": 0.181,
+    "baseline": 29
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-eastwood",
+    "sessions": 57,
+    "energyKwh": 2052,
+    "avgDwellMin": 43,
+    "utilization": 0.284,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-eastwood",
+    "sessions": 48,
+    "energyKwh": 1728,
+    "avgDwellMin": 38,
+    "utilization": 0.211,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-eastwood",
+    "sessions": 46,
+    "energyKwh": 1656,
+    "avgDwellMin": 42,
+    "utilization": 0.224,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-eastwood",
+    "sessions": 51,
+    "energyKwh": 1836,
+    "avgDwellMin": 37,
+    "utilization": 0.218,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-eastwood",
+    "sessions": 52,
+    "energyKwh": 1872,
+    "avgDwellMin": 41,
+    "utilization": 0.247,
+    "baseline": 41
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-eastwood",
+    "sessions": 45,
+    "energyKwh": 1620,
+    "avgDwellMin": 41,
+    "utilization": 0.214,
+    "baseline": 29
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-naia",
+    "sessions": 35,
+    "energyKwh": 1276,
+    "avgDwellMin": 46,
+    "utilization": 0.14,
+    "baseline": 34
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-naia",
+    "sessions": 43,
+    "energyKwh": 1568,
+    "avgDwellMin": 43,
+    "utilization": 0.161,
+    "baseline": 48
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-naia",
+    "sessions": 50,
+    "energyKwh": 1823,
+    "avgDwellMin": 53,
+    "utilization": 0.23,
+    "baseline": 48
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-naia",
+    "sessions": 54,
+    "energyKwh": 1969,
+    "avgDwellMin": 48,
+    "utilization": 0.225,
+    "baseline": 48
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-naia",
+    "sessions": 45,
+    "energyKwh": 1640,
+    "avgDwellMin": 39,
+    "utilization": 0.152,
+    "baseline": 48
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-naia",
+    "sessions": 49,
+    "energyKwh": 1786,
+    "avgDwellMin": 40,
+    "utilization": 0.17,
+    "baseline": 48
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-naia",
+    "sessions": 33,
+    "energyKwh": 1203,
+    "avgDwellMin": 46,
+    "utilization": 0.132,
+    "baseline": 34
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-naia",
+    "sessions": 38,
+    "energyKwh": 1385,
+    "avgDwellMin": 37,
+    "utilization": 0.122,
+    "baseline": 34
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-naia",
+    "sessions": 44,
+    "energyKwh": 1604,
+    "avgDwellMin": 46,
+    "utilization": 0.176,
+    "baseline": 48
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-naia",
+    "sessions": 50,
+    "energyKwh": 1823,
+    "avgDwellMin": 45,
+    "utilization": 0.195,
+    "baseline": 48
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-naia",
+    "sessions": 44,
+    "energyKwh": 1604,
+    "avgDwellMin": 44,
+    "utilization": 0.168,
+    "baseline": 48
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-naia",
+    "sessions": 52,
+    "energyKwh": 1896,
+    "avgDwellMin": 44,
+    "utilization": 0.199,
+    "baseline": 48
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-naia",
+    "sessions": 51,
+    "energyKwh": 1859,
+    "avgDwellMin": 46,
+    "utilization": 0.204,
+    "baseline": 48
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-naia",
+    "sessions": 40,
+    "energyKwh": 1458,
+    "avgDwellMin": 49,
+    "utilization": 0.17,
+    "baseline": 34
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-naia",
+    "sessions": 43,
+    "energyKwh": 1568,
+    "avgDwellMin": 32,
+    "utilization": 0.119,
+    "baseline": 34
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-naia",
+    "sessions": 46,
+    "energyKwh": 1677,
+    "avgDwellMin": 45,
+    "utilization": 0.18,
+    "baseline": 48
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-naia",
+    "sessions": 53,
+    "energyKwh": 1932,
+    "avgDwellMin": 44,
+    "utilization": 0.202,
+    "baseline": 48
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-naia",
+    "sessions": 49,
+    "energyKwh": 1786,
+    "avgDwellMin": 43,
+    "utilization": 0.183,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-naia",
+    "sessions": 49,
+    "energyKwh": 1786,
+    "avgDwellMin": 53,
+    "utilization": 0.225,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-naia",
+    "sessions": 53,
+    "energyKwh": 1932,
+    "avgDwellMin": 43,
+    "utilization": 0.198,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-naia",
+    "sessions": 35,
+    "energyKwh": 1276,
+    "avgDwellMin": 50,
+    "utilization": 0.152,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-naia",
+    "sessions": 40,
+    "energyKwh": 1458,
+    "avgDwellMin": 40,
+    "utilization": 0.139,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-naia",
+    "sessions": 56,
+    "energyKwh": 2041,
+    "avgDwellMin": 43,
+    "utilization": 0.209,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-naia",
+    "sessions": 50,
+    "energyKwh": 1823,
+    "avgDwellMin": 40,
+    "utilization": 0.174,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-naia",
+    "sessions": 54,
+    "energyKwh": 1969,
+    "avgDwellMin": 41,
+    "utilization": 0.192,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-naia",
+    "sessions": 48,
+    "energyKwh": 1750,
+    "avgDwellMin": 45,
+    "utilization": 0.188,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-naia",
+    "sessions": 57,
+    "energyKwh": 2078,
+    "avgDwellMin": 45,
+    "utilization": 0.223,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-naia",
+    "sessions": 37,
+    "energyKwh": 1349,
+    "avgDwellMin": 46,
+    "utilization": 0.148,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-naia",
+    "sessions": 33,
+    "energyKwh": 1203,
+    "avgDwellMin": 45,
+    "utilization": 0.129,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-naia",
+    "sessions": 53,
+    "energyKwh": 1932,
+    "avgDwellMin": 42,
+    "utilization": 0.193,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-naia",
+    "sessions": 51,
+    "energyKwh": 1859,
+    "avgDwellMin": 46,
+    "utilization": 0.204,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-naia",
+    "sessions": 58,
+    "energyKwh": 2114,
+    "avgDwellMin": 39,
+    "utilization": 0.196,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-naia",
+    "sessions": 54,
+    "energyKwh": 1969,
+    "avgDwellMin": 49,
+    "utilization": 0.23,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-naia",
+    "sessions": 58,
+    "energyKwh": 2114,
+    "avgDwellMin": 38,
+    "utilization": 0.191,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-naia",
+    "sessions": 33,
+    "energyKwh": 1203,
+    "avgDwellMin": 48,
+    "utilization": 0.138,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-naia",
+    "sessions": 36,
+    "energyKwh": 1312,
+    "avgDwellMin": 36,
+    "utilization": 0.113,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-naia",
+    "sessions": 60,
+    "energyKwh": 2187,
+    "avgDwellMin": 34,
+    "utilization": 0.177,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-naia",
+    "sessions": 53,
+    "energyKwh": 1932,
+    "avgDwellMin": 48,
+    "utilization": 0.221,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-naia",
+    "sessions": 48,
+    "energyKwh": 1750,
+    "avgDwellMin": 37,
+    "utilization": 0.154,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-naia",
+    "sessions": 52,
+    "energyKwh": 1896,
+    "avgDwellMin": 45,
+    "utilization": 0.203,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-naia",
+    "sessions": 56,
+    "energyKwh": 2041,
+    "avgDwellMin": 46,
+    "utilization": 0.224,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-naia",
+    "sessions": 45,
+    "energyKwh": 1640,
+    "avgDwellMin": 40,
+    "utilization": 0.156,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-naia",
+    "sessions": 42,
+    "energyKwh": 1531,
+    "avgDwellMin": 39,
+    "utilization": 0.142,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-naia",
+    "sessions": 60,
+    "energyKwh": 2187,
+    "avgDwellMin": 36,
+    "utilization": 0.188,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-naia",
+    "sessions": 56,
+    "energyKwh": 2041,
+    "avgDwellMin": 47,
+    "utilization": 0.228,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-naia",
+    "sessions": 68,
+    "energyKwh": 2479,
+    "avgDwellMin": 47,
+    "utilization": 0.277,
+    "baseline": 48
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-naia",
+    "sessions": 52,
+    "energyKwh": 1896,
+    "avgDwellMin": 46,
+    "utilization": 0.208,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-naia",
+    "sessions": 52,
+    "energyKwh": 1896,
+    "avgDwellMin": 42,
+    "utilization": 0.19,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-naia",
+    "sessions": 39,
+    "energyKwh": 1422,
+    "avgDwellMin": 47,
+    "utilization": 0.159,
+    "baseline": 34
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-naia",
+    "sessions": 44,
+    "energyKwh": 1604,
+    "avgDwellMin": 39,
+    "utilization": 0.149,
+    "baseline": 34
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-naia",
+    "sessions": 54,
+    "energyKwh": 1969,
+    "avgDwellMin": 56,
+    "utilization": 0.263,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-naia",
+    "sessions": 52,
+    "energyKwh": 1896,
+    "avgDwellMin": 43,
+    "utilization": 0.194,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-naia",
+    "sessions": 56,
+    "energyKwh": 2041,
+    "avgDwellMin": 47,
+    "utilization": 0.228,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-naia",
+    "sessions": 51,
+    "energyKwh": 1859,
+    "avgDwellMin": 45,
+    "utilization": 0.199,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-naia",
+    "sessions": 49,
+    "energyKwh": 1786,
+    "avgDwellMin": 40,
+    "utilization": 0.17,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-naia",
+    "sessions": 44,
+    "energyKwh": 1604,
+    "avgDwellMin": 46,
+    "utilization": 0.176,
+    "baseline": 34
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-naia",
+    "sessions": 42,
+    "energyKwh": 1531,
+    "avgDwellMin": 46,
+    "utilization": 0.168,
+    "baseline": 34
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-naia",
+    "sessions": 56,
+    "energyKwh": 2041,
+    "avgDwellMin": 40,
+    "utilization": 0.194,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-naia",
+    "sessions": 63,
+    "energyKwh": 2297,
+    "avgDwellMin": 42,
+    "utilization": 0.23,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-naia",
+    "sessions": 59,
+    "energyKwh": 2151,
+    "avgDwellMin": 41,
+    "utilization": 0.21,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-naia",
+    "sessions": 67,
+    "energyKwh": 2442,
+    "avgDwellMin": 46,
+    "utilization": 0.268,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-naia",
+    "sessions": 60,
+    "energyKwh": 2187,
+    "avgDwellMin": 44,
+    "utilization": 0.229,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-naia",
+    "sessions": 42,
+    "energyKwh": 1531,
+    "avgDwellMin": 45,
+    "utilization": 0.164,
+    "baseline": 34
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-naia",
+    "sessions": 44,
+    "energyKwh": 1604,
+    "avgDwellMin": 45,
+    "utilization": 0.172,
+    "baseline": 34
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-naia",
+    "sessions": 59,
+    "energyKwh": 2151,
+    "avgDwellMin": 41,
+    "utilization": 0.21,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-naia",
+    "sessions": 60,
+    "energyKwh": 2187,
+    "avgDwellMin": 46,
+    "utilization": 0.24,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-naia",
+    "sessions": 69,
+    "energyKwh": 2515,
+    "avgDwellMin": 42,
+    "utilization": 0.252,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-naia",
+    "sessions": 55,
+    "energyKwh": 2005,
+    "avgDwellMin": 42,
+    "utilization": 0.201,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-naia",
+    "sessions": 63,
+    "energyKwh": 2297,
+    "avgDwellMin": 38,
+    "utilization": 0.208,
+    "baseline": 48
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-naia",
+    "sessions": 40,
+    "energyKwh": 1458,
+    "avgDwellMin": 53,
+    "utilization": 0.184,
+    "baseline": 34
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 30,
+    "energyKwh": 1024,
+    "avgDwellMin": 41,
+    "utilization": 0.142,
+    "baseline": 34
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 43,
+    "energyKwh": 1468,
+    "avgDwellMin": 38,
+    "utilization": 0.189,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 46,
+    "energyKwh": 1570,
+    "avgDwellMin": 39,
+    "utilization": 0.208,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 44,
+    "energyKwh": 1502,
+    "avgDwellMin": 37,
+    "utilization": 0.188,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 48,
+    "energyKwh": 1639,
+    "avgDwellMin": 35,
+    "utilization": 0.194,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 48,
+    "energyKwh": 1639,
+    "avgDwellMin": 31,
+    "utilization": 0.172,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 30,
+    "energyKwh": 1024,
+    "avgDwellMin": 36,
+    "utilization": 0.125,
+    "baseline": 34
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 31,
+    "energyKwh": 1058,
+    "avgDwellMin": 40,
+    "utilization": 0.144,
+    "baseline": 34
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 46,
+    "energyKwh": 1570,
+    "avgDwellMin": 41,
+    "utilization": 0.218,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 51,
+    "energyKwh": 1741,
+    "avgDwellMin": 35,
+    "utilization": 0.207,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 45,
+    "energyKwh": 1536,
+    "avgDwellMin": 37,
+    "utilization": 0.193,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 49,
+    "energyKwh": 1673,
+    "avgDwellMin": 35,
+    "utilization": 0.198,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 49,
+    "energyKwh": 1673,
+    "avgDwellMin": 44,
+    "utilization": 0.25,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 38,
+    "energyKwh": 1297,
+    "avgDwellMin": 40,
+    "utilization": 0.176,
+    "baseline": 34
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 36,
+    "energyKwh": 1229,
+    "avgDwellMin": 39,
+    "utilization": 0.163,
+    "baseline": 34
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 52,
+    "energyKwh": 1775,
+    "avgDwellMin": 36,
+    "utilization": 0.217,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 45,
+    "energyKwh": 1536,
+    "avgDwellMin": 35,
+    "utilization": 0.182,
+    "baseline": 47
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 53,
+    "energyKwh": 1809,
+    "avgDwellMin": 37,
+    "utilization": 0.227,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 49,
+    "energyKwh": 1673,
+    "avgDwellMin": 40,
+    "utilization": 0.227,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 53,
+    "energyKwh": 1809,
+    "avgDwellMin": 45,
+    "utilization": 0.276,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 39,
+    "energyKwh": 1331,
+    "avgDwellMin": 42,
+    "utilization": 0.19,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 36,
+    "energyKwh": 1229,
+    "avgDwellMin": 40,
+    "utilization": 0.167,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 49,
+    "energyKwh": 1673,
+    "avgDwellMin": 43,
+    "utilization": 0.244,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 51,
+    "energyKwh": 1741,
+    "avgDwellMin": 40,
+    "utilization": 0.236,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 52,
+    "energyKwh": 1775,
+    "avgDwellMin": 49,
+    "utilization": 0.295,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 58,
+    "energyKwh": 1980,
+    "avgDwellMin": 47,
+    "utilization": 0.316,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 53,
+    "energyKwh": 1809,
+    "avgDwellMin": 44,
+    "utilization": 0.27,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 36,
+    "energyKwh": 1229,
+    "avgDwellMin": 39,
+    "utilization": 0.163,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 35,
+    "energyKwh": 1195,
+    "avgDwellMin": 37,
+    "utilization": 0.15,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 57,
+    "energyKwh": 1946,
+    "avgDwellMin": 39,
+    "utilization": 0.257,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 48,
+    "energyKwh": 1639,
+    "avgDwellMin": 46,
+    "utilization": 0.256,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 56,
+    "energyKwh": 1912,
+    "avgDwellMin": 45,
+    "utilization": 0.292,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 58,
+    "energyKwh": 1980,
+    "avgDwellMin": 42,
+    "utilization": 0.282,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 51,
+    "energyKwh": 1741,
+    "avgDwellMin": 26,
+    "utilization": 0.153,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 44,
+    "energyKwh": 1502,
+    "avgDwellMin": 43,
+    "utilization": 0.219,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 44,
+    "energyKwh": 1502,
+    "avgDwellMin": 42,
+    "utilization": 0.214,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 51,
+    "energyKwh": 1741,
+    "avgDwellMin": 35,
+    "utilization": 0.207,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 49,
+    "energyKwh": 1673,
+    "avgDwellMin": 35,
+    "utilization": 0.198,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 52,
+    "energyKwh": 1775,
+    "avgDwellMin": 41,
+    "utilization": 0.247,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 54,
+    "energyKwh": 1844,
+    "avgDwellMin": 44,
+    "utilization": 0.275,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 52,
+    "energyKwh": 1775,
+    "avgDwellMin": 44,
+    "utilization": 0.265,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 39,
+    "energyKwh": 1331,
+    "avgDwellMin": 47,
+    "utilization": 0.212,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 41,
+    "energyKwh": 1400,
+    "avgDwellMin": 43,
+    "utilization": 0.204,
+    "baseline": 34
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 56,
+    "energyKwh": 1912,
+    "avgDwellMin": 35,
+    "utilization": 0.227,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 52,
+    "energyKwh": 1775,
+    "avgDwellMin": 38,
+    "utilization": 0.229,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 54,
+    "energyKwh": 1844,
+    "avgDwellMin": 37,
+    "utilization": 0.231,
+    "baseline": 47
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 53,
+    "energyKwh": 1809,
+    "avgDwellMin": 49,
+    "utilization": 0.301,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 51,
+    "energyKwh": 1741,
+    "avgDwellMin": 38,
+    "utilization": 0.224,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 41,
+    "energyKwh": 1400,
+    "avgDwellMin": 38,
+    "utilization": 0.18,
+    "baseline": 34
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 43,
+    "energyKwh": 1468,
+    "avgDwellMin": 41,
+    "utilization": 0.204,
+    "baseline": 34
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 60,
+    "energyKwh": 2048,
+    "avgDwellMin": 34,
+    "utilization": 0.236,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 54,
+    "energyKwh": 1844,
+    "avgDwellMin": 41,
+    "utilization": 0.256,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 58,
+    "energyKwh": 1980,
+    "avgDwellMin": 38,
+    "utilization": 0.255,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 63,
+    "energyKwh": 2151,
+    "avgDwellMin": 42,
+    "utilization": 0.306,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 58,
+    "energyKwh": 1980,
+    "avgDwellMin": 34,
+    "utilization": 0.228,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 46,
+    "energyKwh": 1570,
+    "avgDwellMin": 38,
+    "utilization": 0.202,
+    "baseline": 34
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 39,
+    "energyKwh": 1331,
+    "avgDwellMin": 44,
+    "utilization": 0.199,
+    "baseline": 34
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 56,
+    "energyKwh": 1912,
+    "avgDwellMin": 31,
+    "utilization": 0.201,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 55,
+    "energyKwh": 1878,
+    "avgDwellMin": 41,
+    "utilization": 0.261,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 63,
+    "energyKwh": 2151,
+    "avgDwellMin": 40,
+    "utilization": 0.292,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 55,
+    "energyKwh": 1878,
+    "avgDwellMin": 43,
+    "utilization": 0.274,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 59,
+    "energyKwh": 2014,
+    "avgDwellMin": 45,
+    "utilization": 0.307,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 45,
+    "energyKwh": 1536,
+    "avgDwellMin": 42,
+    "utilization": 0.219,
+    "baseline": 34
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 44,
+    "energyKwh": 1502,
+    "avgDwellMin": 35,
+    "utilization": 0.178,
+    "baseline": 34
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 59,
+    "energyKwh": 2014,
+    "avgDwellMin": 35,
+    "utilization": 0.239,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 59,
+    "energyKwh": 2014,
+    "avgDwellMin": 37,
+    "utilization": 0.253,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 58,
+    "energyKwh": 1980,
+    "avgDwellMin": 40,
+    "utilization": 0.269,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 64,
+    "energyKwh": 2185,
+    "avgDwellMin": 39,
+    "utilization": 0.289,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 61,
+    "energyKwh": 2083,
+    "avgDwellMin": 44,
+    "utilization": 0.311,
+    "baseline": 47
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-edsa-shaw",
+    "sessions": 45,
+    "energyKwh": 1536,
+    "avgDwellMin": 39,
+    "utilization": 0.203,
+    "baseline": 34
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-makati-ave",
+    "sessions": 10,
+    "energyKwh": 155,
+    "avgDwellMin": 145,
+    "utilization": 0.252,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-makati-ave",
+    "sessions": 15,
+    "energyKwh": 233,
+    "avgDwellMin": 149,
+    "utilization": 0.388,
+    "baseline": 16
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-makati-ave",
+    "sessions": 17,
+    "energyKwh": 264,
+    "avgDwellMin": 149,
+    "utilization": 0.44,
+    "baseline": 16
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-makati-ave",
+    "sessions": 17,
+    "energyKwh": 264,
+    "avgDwellMin": 147,
+    "utilization": 0.434,
+    "baseline": 16
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-makati-ave",
+    "sessions": 18,
+    "energyKwh": 279,
+    "avgDwellMin": 153,
+    "utilization": 0.478,
+    "baseline": 16
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-makati-ave",
+    "sessions": 14,
+    "energyKwh": 217,
+    "avgDwellMin": 147,
+    "utilization": 0.357,
+    "baseline": 16
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-makati-ave",
+    "sessions": 10,
+    "energyKwh": 155,
+    "avgDwellMin": 147,
+    "utilization": 0.255,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-makati-ave",
+    "sessions": 13,
+    "energyKwh": 202,
+    "avgDwellMin": 147,
+    "utilization": 0.332,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-makati-ave",
+    "sessions": 15,
+    "energyKwh": 233,
+    "avgDwellMin": 145,
+    "utilization": 0.378,
+    "baseline": 16
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-makati-ave",
+    "sessions": 18,
+    "energyKwh": 279,
+    "avgDwellMin": 154,
+    "utilization": 0.481,
+    "baseline": 16
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-makati-ave",
+    "sessions": 16,
+    "energyKwh": 248,
+    "avgDwellMin": 148,
+    "utilization": 0.411,
+    "baseline": 16
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-makati-ave",
+    "sessions": 14,
+    "energyKwh": 217,
+    "avgDwellMin": 149,
+    "utilization": 0.362,
+    "baseline": 16
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-makati-ave",
+    "sessions": 16,
+    "energyKwh": 248,
+    "avgDwellMin": 147,
+    "utilization": 0.408,
+    "baseline": 16
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-makati-ave",
+    "sessions": 10,
+    "energyKwh": 155,
+    "avgDwellMin": 143,
+    "utilization": 0.248,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-makati-ave",
+    "sessions": 12,
+    "energyKwh": 186,
+    "avgDwellMin": 148,
+    "utilization": 0.308,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-makati-ave",
+    "sessions": 16,
+    "energyKwh": 248,
+    "avgDwellMin": 148,
+    "utilization": 0.411,
+    "baseline": 16
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-makati-ave",
+    "sessions": 15,
+    "energyKwh": 233,
+    "avgDwellMin": 148,
+    "utilization": 0.385,
+    "baseline": 16
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-makati-ave",
+    "sessions": 17,
+    "energyKwh": 264,
+    "avgDwellMin": 155,
+    "utilization": 0.457,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-makati-ave",
+    "sessions": 16,
+    "energyKwh": 248,
+    "avgDwellMin": 142,
+    "utilization": 0.394,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-makati-ave",
+    "sessions": 18,
+    "energyKwh": 279,
+    "avgDwellMin": 152,
+    "utilization": 0.475,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-makati-ave",
+    "sessions": 11,
+    "energyKwh": 171,
+    "avgDwellMin": 146,
+    "utilization": 0.279,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-makati-ave",
+    "sessions": 12,
+    "energyKwh": 186,
+    "avgDwellMin": 153,
+    "utilization": 0.319,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-makati-ave",
+    "sessions": 18,
+    "energyKwh": 279,
+    "avgDwellMin": 148,
+    "utilization": 0.463,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-makati-ave",
+    "sessions": 17,
+    "energyKwh": 264,
+    "avgDwellMin": 148,
+    "utilization": 0.437,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-makati-ave",
+    "sessions": 18,
+    "energyKwh": 279,
+    "avgDwellMin": 153,
+    "utilization": 0.478,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-makati-ave",
+    "sessions": 19,
+    "energyKwh": 295,
+    "avgDwellMin": 152,
+    "utilization": 0.501,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-makati-ave",
+    "sessions": 19,
+    "energyKwh": 295,
+    "avgDwellMin": 151,
+    "utilization": 0.498,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-makati-ave",
+    "sessions": 12,
+    "energyKwh": 186,
+    "avgDwellMin": 153,
+    "utilization": 0.319,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-makati-ave",
+    "sessions": 14,
+    "energyKwh": 217,
+    "avgDwellMin": 143,
+    "utilization": 0.348,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-makati-ave",
+    "sessions": 17,
+    "energyKwh": 264,
+    "avgDwellMin": 152,
+    "utilization": 0.449,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-makati-ave",
+    "sessions": 17,
+    "energyKwh": 264,
+    "avgDwellMin": 147,
+    "utilization": 0.434,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-makati-ave",
+    "sessions": 15,
+    "energyKwh": 233,
+    "avgDwellMin": 154,
+    "utilization": 0.401,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-makati-ave",
+    "sessions": 18,
+    "energyKwh": 279,
+    "avgDwellMin": 145,
+    "utilization": 0.453,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-makati-ave",
+    "sessions": 20,
+    "energyKwh": 310,
+    "avgDwellMin": 148,
+    "utilization": 0.514,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-makati-ave",
+    "sessions": 14,
+    "energyKwh": 217,
+    "avgDwellMin": 147,
+    "utilization": 0.357,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-makati-ave",
+    "sessions": 12,
+    "energyKwh": 186,
+    "avgDwellMin": 150,
+    "utilization": 0.313,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-makati-ave",
+    "sessions": 18,
+    "energyKwh": 279,
+    "avgDwellMin": 146,
+    "utilization": 0.456,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-makati-ave",
+    "sessions": 18,
+    "energyKwh": 279,
+    "avgDwellMin": 148,
+    "utilization": 0.463,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-makati-ave",
+    "sessions": 15,
+    "energyKwh": 233,
+    "avgDwellMin": 145,
+    "utilization": 0.378,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-makati-ave",
+    "sessions": 17,
+    "energyKwh": 264,
+    "avgDwellMin": 143,
+    "utilization": 0.422,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-makati-ave",
+    "sessions": 19,
+    "energyKwh": 295,
+    "avgDwellMin": 142,
+    "utilization": 0.468,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-makati-ave",
+    "sessions": 12,
+    "energyKwh": 186,
+    "avgDwellMin": 142,
+    "utilization": 0.296,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-makati-ave",
+    "sessions": 13,
+    "energyKwh": 202,
+    "avgDwellMin": 148,
+    "utilization": 0.334,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-makati-ave",
+    "sessions": 17,
+    "energyKwh": 264,
+    "avgDwellMin": 154,
+    "utilization": 0.455,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-makati-ave",
+    "sessions": 18,
+    "energyKwh": 279,
+    "avgDwellMin": 150,
+    "utilization": 0.469,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-makati-ave",
+    "sessions": 18,
+    "energyKwh": 279,
+    "avgDwellMin": 149,
+    "utilization": 0.466,
+    "baseline": 16
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-makati-ave",
+    "sessions": 19,
+    "energyKwh": 295,
+    "avgDwellMin": 151,
+    "utilization": 0.498,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-makati-ave",
+    "sessions": 18,
+    "energyKwh": 279,
+    "avgDwellMin": 138,
+    "utilization": 0.431,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-makati-ave",
+    "sessions": 14,
+    "energyKwh": 217,
+    "avgDwellMin": 145,
+    "utilization": 0.352,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-makati-ave",
+    "sessions": 13,
+    "energyKwh": 202,
+    "avgDwellMin": 145,
+    "utilization": 0.327,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-makati-ave",
+    "sessions": 19,
+    "energyKwh": 295,
+    "avgDwellMin": 143,
+    "utilization": 0.472,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-makati-ave",
+    "sessions": 19,
+    "energyKwh": 295,
+    "avgDwellMin": 151,
+    "utilization": 0.498,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-makati-ave",
+    "sessions": 19,
+    "energyKwh": 295,
+    "avgDwellMin": 148,
+    "utilization": 0.488,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-makati-ave",
+    "sessions": 20,
+    "energyKwh": 310,
+    "avgDwellMin": 143,
+    "utilization": 0.497,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-makati-ave",
+    "sessions": 20,
+    "energyKwh": 310,
+    "avgDwellMin": 147,
+    "utilization": 0.51,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-makati-ave",
+    "sessions": 16,
+    "energyKwh": 248,
+    "avgDwellMin": 146,
+    "utilization": 0.406,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-makati-ave",
+    "sessions": 15,
+    "energyKwh": 233,
+    "avgDwellMin": 153,
+    "utilization": 0.398,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-makati-ave",
+    "sessions": 20,
+    "energyKwh": 310,
+    "avgDwellMin": 154,
+    "utilization": 0.535,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-makati-ave",
+    "sessions": 20,
+    "energyKwh": 310,
+    "avgDwellMin": 149,
+    "utilization": 0.517,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-makati-ave",
+    "sessions": 20,
+    "energyKwh": 310,
+    "avgDwellMin": 145,
+    "utilization": 0.503,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-makati-ave",
+    "sessions": 21,
+    "energyKwh": 326,
+    "avgDwellMin": 147,
+    "utilization": 0.536,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-makati-ave",
+    "sessions": 21,
+    "energyKwh": 326,
+    "avgDwellMin": 157,
+    "utilization": 0.572,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-makati-ave",
+    "sessions": 13,
+    "energyKwh": 202,
+    "avgDwellMin": 152,
+    "utilization": 0.343,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-makati-ave",
+    "sessions": 12,
+    "energyKwh": 186,
+    "avgDwellMin": 140,
+    "utilization": 0.292,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-makati-ave",
+    "sessions": 19,
+    "energyKwh": 295,
+    "avgDwellMin": 146,
+    "utilization": 0.482,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-makati-ave",
+    "sessions": 22,
+    "energyKwh": 341,
+    "avgDwellMin": 158,
+    "utilization": 0.603,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-makati-ave",
+    "sessions": 22,
+    "energyKwh": 341,
+    "avgDwellMin": 151,
+    "utilization": 0.577,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-makati-ave",
+    "sessions": 22,
+    "energyKwh": 341,
+    "avgDwellMin": 152,
+    "utilization": 0.581,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-makati-ave",
+    "sessions": 21,
+    "energyKwh": 326,
+    "avgDwellMin": 152,
+    "utilization": 0.554,
+    "baseline": 16
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-makati-ave",
+    "sessions": 13,
+    "energyKwh": 202,
+    "avgDwellMin": 152,
+    "utilization": 0.343,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 187,
+    "utilization": 0.455,
+    "baseline": 13
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-qc-circle",
+    "sessions": 11,
+    "energyKwh": 166,
+    "avgDwellMin": 187,
+    "utilization": 0.357,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-qc-circle",
+    "sessions": 11,
+    "energyKwh": 166,
+    "avgDwellMin": 184,
+    "utilization": 0.351,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-qc-circle",
+    "sessions": 11,
+    "energyKwh": 166,
+    "avgDwellMin": 183,
+    "utilization": 0.349,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-qc-circle",
+    "sessions": 11,
+    "energyKwh": 166,
+    "avgDwellMin": 191,
+    "utilization": 0.365,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 187,
+    "utilization": 0.39,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 192,
+    "utilization": 0.433,
+    "baseline": 13
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 191,
+    "utilization": 0.398,
+    "baseline": 13
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-qc-circle",
+    "sessions": 11,
+    "energyKwh": 166,
+    "avgDwellMin": 182,
+    "utilization": 0.348,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 185,
+    "utilization": 0.385,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-qc-circle",
+    "sessions": 11,
+    "energyKwh": 166,
+    "avgDwellMin": 185,
+    "utilization": 0.353,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 187,
+    "utilization": 0.39,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-qc-circle",
+    "sessions": 11,
+    "energyKwh": 166,
+    "avgDwellMin": 185,
+    "utilization": 0.353,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 180,
+    "utilization": 0.438,
+    "baseline": 13
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 183,
+    "utilization": 0.445,
+    "baseline": 13
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-qc-circle",
+    "sessions": 11,
+    "energyKwh": 166,
+    "avgDwellMin": 193,
+    "utilization": 0.369,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 188,
+    "utilization": 0.392,
+    "baseline": 11
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 189,
+    "utilization": 0.394,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 194,
+    "utilization": 0.404,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 183,
+    "utilization": 0.381,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 185,
+    "utilization": 0.45,
+    "baseline": 13
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 184,
+    "utilization": 0.447,
+    "baseline": 13
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 191,
+    "utilization": 0.398,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 186,
+    "utilization": 0.42,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-qc-circle",
+    "sessions": 11,
+    "energyKwh": 166,
+    "avgDwellMin": 192,
+    "utilization": 0.367,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 182,
+    "utilization": 0.411,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 192,
+    "utilization": 0.467,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-qc-circle",
+    "sessions": 16,
+    "energyKwh": 241,
+    "avgDwellMin": 190,
+    "utilization": 0.528,
+    "baseline": 13
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-qc-circle",
+    "sessions": 16,
+    "energyKwh": 241,
+    "avgDwellMin": 183,
+    "utilization": 0.508,
+    "baseline": 13
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 189,
+    "utilization": 0.394,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-qc-circle",
+    "sessions": 11,
+    "energyKwh": 166,
+    "avgDwellMin": 191,
+    "utilization": 0.365,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-qc-circle",
+    "sessions": 11,
+    "energyKwh": 166,
+    "avgDwellMin": 188,
+    "utilization": 0.359,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 183,
+    "utilization": 0.381,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-qc-circle",
+    "sessions": 11,
+    "energyKwh": 166,
+    "avgDwellMin": 192,
+    "utilization": 0.367,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-qc-circle",
+    "sessions": 17,
+    "energyKwh": 256,
+    "avgDwellMin": 181,
+    "utilization": 0.534,
+    "baseline": 13
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-qc-circle",
+    "sessions": 15,
+    "energyKwh": 226,
+    "avgDwellMin": 191,
+    "utilization": 0.497,
+    "baseline": 13
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 188,
+    "utilization": 0.424,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 187,
+    "utilization": 0.422,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 191,
+    "utilization": 0.464,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 185,
+    "utilization": 0.45,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 183,
+    "utilization": 0.413,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-qc-circle",
+    "sessions": 16,
+    "energyKwh": 241,
+    "avgDwellMin": 195,
+    "utilization": 0.542,
+    "baseline": 13
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-qc-circle",
+    "sessions": 17,
+    "energyKwh": 256,
+    "avgDwellMin": 190,
+    "utilization": 0.561,
+    "baseline": 13
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 183,
+    "utilization": 0.413,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 192,
+    "utilization": 0.433,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 191,
+    "utilization": 0.431,
+    "baseline": 11
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 183,
+    "utilization": 0.413,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 182,
+    "utilization": 0.442,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-qc-circle",
+    "sessions": 17,
+    "energyKwh": 256,
+    "avgDwellMin": 182,
+    "utilization": 0.537,
+    "baseline": 13
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-qc-circle",
+    "sessions": 15,
+    "energyKwh": 226,
+    "avgDwellMin": 187,
+    "utilization": 0.487,
+    "baseline": 13
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-qc-circle",
+    "sessions": 15,
+    "energyKwh": 226,
+    "avgDwellMin": 186,
+    "utilization": 0.484,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-qc-circle",
+    "sessions": 15,
+    "energyKwh": 226,
+    "avgDwellMin": 187,
+    "utilization": 0.487,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 188,
+    "utilization": 0.457,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 190,
+    "utilization": 0.429,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 189,
+    "utilization": 0.394,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-qc-circle",
+    "sessions": 17,
+    "energyKwh": 256,
+    "avgDwellMin": 183,
+    "utilization": 0.54,
+    "baseline": 13
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-qc-circle",
+    "sessions": 17,
+    "energyKwh": 256,
+    "avgDwellMin": 187,
+    "utilization": 0.552,
+    "baseline": 13
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 194,
+    "utilization": 0.438,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 189,
+    "utilization": 0.459,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 193,
+    "utilization": 0.436,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-qc-circle",
+    "sessions": 13,
+    "energyKwh": 196,
+    "avgDwellMin": 189,
+    "utilization": 0.427,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 187,
+    "utilization": 0.455,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-qc-circle",
+    "sessions": 16,
+    "energyKwh": 241,
+    "avgDwellMin": 182,
+    "utilization": 0.506,
+    "baseline": 13
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-qc-circle",
+    "sessions": 17,
+    "energyKwh": 256,
+    "avgDwellMin": 196,
+    "utilization": 0.578,
+    "baseline": 13
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 192,
+    "utilization": 0.467,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-qc-circle",
+    "sessions": 12,
+    "energyKwh": 181,
+    "avgDwellMin": 184,
+    "utilization": 0.383,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 184,
+    "utilization": 0.447,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-qc-circle",
+    "sessions": 14,
+    "energyKwh": 211,
+    "avgDwellMin": 190,
+    "utilization": 0.462,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-qc-circle",
+    "sessions": 15,
+    "energyKwh": 226,
+    "avgDwellMin": 182,
+    "utilization": 0.474,
+    "baseline": 11
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-qc-circle",
+    "sessions": 18,
+    "energyKwh": 271,
+    "avgDwellMin": 185,
+    "utilization": 0.578,
+    "baseline": 13
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-mckinley",
+    "sessions": 47,
+    "energyKwh": 1829,
+    "avgDwellMin": 41,
+    "utilization": 0.223,
+    "baseline": 49
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-mckinley",
+    "sessions": 44,
+    "energyKwh": 1712,
+    "avgDwellMin": 36,
+    "utilization": 0.183,
+    "baseline": 40
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-mckinley",
+    "sessions": 44,
+    "energyKwh": 1712,
+    "avgDwellMin": 47,
+    "utilization": 0.239,
+    "baseline": 40
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-mckinley",
+    "sessions": 41,
+    "energyKwh": 1596,
+    "avgDwellMin": 38,
+    "utilization": 0.18,
+    "baseline": 40
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-mckinley",
+    "sessions": 41,
+    "energyKwh": 1596,
+    "avgDwellMin": 39,
+    "utilization": 0.185,
+    "baseline": 40
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-mckinley",
+    "sessions": 44,
+    "energyKwh": 1712,
+    "avgDwellMin": 38,
+    "utilization": 0.194,
+    "baseline": 40
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-mckinley",
+    "sessions": 49,
+    "energyKwh": 1907,
+    "avgDwellMin": 40,
+    "utilization": 0.227,
+    "baseline": 49
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-mckinley",
+    "sessions": 59,
+    "energyKwh": 2296,
+    "avgDwellMin": 40,
+    "utilization": 0.273,
+    "baseline": 49
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-mckinley",
+    "sessions": 44,
+    "energyKwh": 1712,
+    "avgDwellMin": 35,
+    "utilization": 0.178,
+    "baseline": 40
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-mckinley",
+    "sessions": 45,
+    "energyKwh": 1751,
+    "avgDwellMin": 41,
+    "utilization": 0.214,
+    "baseline": 40
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-mckinley",
+    "sessions": 42,
+    "energyKwh": 1635,
+    "avgDwellMin": 42,
+    "utilization": 0.204,
+    "baseline": 40
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-mckinley",
+    "sessions": 43,
+    "energyKwh": 1673,
+    "avgDwellMin": 37,
+    "utilization": 0.184,
+    "baseline": 40
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-mckinley",
+    "sessions": 43,
+    "energyKwh": 1673,
+    "avgDwellMin": 41,
+    "utilization": 0.204,
+    "baseline": 40
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-mckinley",
+    "sessions": 48,
+    "energyKwh": 1868,
+    "avgDwellMin": 45,
+    "utilization": 0.25,
+    "baseline": 49
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-mckinley",
+    "sessions": 51,
+    "energyKwh": 1985,
+    "avgDwellMin": 41,
+    "utilization": 0.242,
+    "baseline": 49
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-mckinley",
+    "sessions": 44,
+    "energyKwh": 1712,
+    "avgDwellMin": 43,
+    "utilization": 0.219,
+    "baseline": 40
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-mckinley",
+    "sessions": 44,
+    "energyKwh": 1712,
+    "avgDwellMin": 44,
+    "utilization": 0.224,
+    "baseline": 40
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-mckinley",
+    "sessions": 42,
+    "energyKwh": 1635,
+    "avgDwellMin": 41,
+    "utilization": 0.199,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-mckinley",
+    "sessions": 41,
+    "energyKwh": 1596,
+    "avgDwellMin": 38,
+    "utilization": 0.18,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-mckinley",
+    "sessions": 41,
+    "energyKwh": 1596,
+    "avgDwellMin": 40,
+    "utilization": 0.19,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-mckinley",
+    "sessions": 57,
+    "energyKwh": 2218,
+    "avgDwellMin": 38,
+    "utilization": 0.251,
+    "baseline": 49
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-mckinley",
+    "sessions": 55,
+    "energyKwh": 2141,
+    "avgDwellMin": 44,
+    "utilization": 0.28,
+    "baseline": 49
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-mckinley",
+    "sessions": 41,
+    "energyKwh": 1596,
+    "avgDwellMin": 38,
+    "utilization": 0.18,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-mckinley",
+    "sessions": 50,
+    "energyKwh": 1946,
+    "avgDwellMin": 40,
+    "utilization": 0.231,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-mckinley",
+    "sessions": 44,
+    "energyKwh": 1712,
+    "avgDwellMin": 42,
+    "utilization": 0.214,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-mckinley",
+    "sessions": 51,
+    "energyKwh": 1985,
+    "avgDwellMin": 40,
+    "utilization": 0.236,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-mckinley",
+    "sessions": 41,
+    "energyKwh": 1596,
+    "avgDwellMin": 38,
+    "utilization": 0.18,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-mckinley",
+    "sessions": 51,
+    "energyKwh": 1985,
+    "avgDwellMin": 40,
+    "utilization": 0.236,
+    "baseline": 49
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-mckinley",
+    "sessions": 51,
+    "energyKwh": 1985,
+    "avgDwellMin": 41,
+    "utilization": 0.242,
+    "baseline": 49
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-mckinley",
+    "sessions": 38,
+    "energyKwh": 1479,
+    "avgDwellMin": 44,
+    "utilization": 0.194,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-mckinley",
+    "sessions": 43,
+    "energyKwh": 1673,
+    "avgDwellMin": 46,
+    "utilization": 0.229,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-mckinley",
+    "sessions": 51,
+    "energyKwh": 1985,
+    "avgDwellMin": 42,
+    "utilization": 0.248,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-mckinley",
+    "sessions": 45,
+    "energyKwh": 1751,
+    "avgDwellMin": 34,
+    "utilization": 0.177,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-mckinley",
+    "sessions": 41,
+    "energyKwh": 1596,
+    "avgDwellMin": 40,
+    "utilization": 0.19,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-mckinley",
+    "sessions": 55,
+    "energyKwh": 2141,
+    "avgDwellMin": 39,
+    "utilization": 0.248,
+    "baseline": 49
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-mckinley",
+    "sessions": 59,
+    "energyKwh": 2296,
+    "avgDwellMin": 41,
+    "utilization": 0.28,
+    "baseline": 49
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-mckinley",
+    "sessions": 43,
+    "energyKwh": 1673,
+    "avgDwellMin": 46,
+    "utilization": 0.229,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-mckinley",
+    "sessions": 46,
+    "energyKwh": 1790,
+    "avgDwellMin": 36,
+    "utilization": 0.192,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-mckinley",
+    "sessions": 41,
+    "energyKwh": 1596,
+    "avgDwellMin": 46,
+    "utilization": 0.218,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-mckinley",
+    "sessions": 45,
+    "energyKwh": 1751,
+    "avgDwellMin": 44,
+    "utilization": 0.229,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-mckinley",
+    "sessions": 45,
+    "energyKwh": 1751,
+    "avgDwellMin": 43,
+    "utilization": 0.224,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-mckinley",
+    "sessions": 61,
+    "energyKwh": 2374,
+    "avgDwellMin": 40,
+    "utilization": 0.282,
+    "baseline": 49
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-mckinley",
+    "sessions": 59,
+    "energyKwh": 2296,
+    "avgDwellMin": 40,
+    "utilization": 0.273,
+    "baseline": 49
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-mckinley",
+    "sessions": 45,
+    "energyKwh": 1751,
+    "avgDwellMin": 39,
+    "utilization": 0.203,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-mckinley",
+    "sessions": 50,
+    "energyKwh": 1946,
+    "avgDwellMin": 48,
+    "utilization": 0.278,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-mckinley",
+    "sessions": 46,
+    "energyKwh": 1790,
+    "avgDwellMin": 42,
+    "utilization": 0.224,
+    "baseline": 40
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-mckinley",
+    "sessions": 51,
+    "energyKwh": 1985,
+    "avgDwellMin": 41,
+    "utilization": 0.242,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-mckinley",
+    "sessions": 51,
+    "energyKwh": 1985,
+    "avgDwellMin": 38,
+    "utilization": 0.224,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-mckinley",
+    "sessions": 59,
+    "energyKwh": 2296,
+    "avgDwellMin": 34,
+    "utilization": 0.232,
+    "baseline": 49
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-mckinley",
+    "sessions": 64,
+    "energyKwh": 2491,
+    "avgDwellMin": 35,
+    "utilization": 0.259,
+    "baseline": 49
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-mckinley",
+    "sessions": 45,
+    "energyKwh": 1751,
+    "avgDwellMin": 36,
+    "utilization": 0.188,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-mckinley",
+    "sessions": 48,
+    "energyKwh": 1868,
+    "avgDwellMin": 41,
+    "utilization": 0.228,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-mckinley",
+    "sessions": 47,
+    "energyKwh": 1829,
+    "avgDwellMin": 36,
+    "utilization": 0.196,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-mckinley",
+    "sessions": 48,
+    "energyKwh": 1868,
+    "avgDwellMin": 35,
+    "utilization": 0.194,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-mckinley",
+    "sessions": 49,
+    "energyKwh": 1907,
+    "avgDwellMin": 37,
+    "utilization": 0.21,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-mckinley",
+    "sessions": 59,
+    "energyKwh": 2296,
+    "avgDwellMin": 36,
+    "utilization": 0.246,
+    "baseline": 49
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-mckinley",
+    "sessions": 58,
+    "energyKwh": 2257,
+    "avgDwellMin": 41,
+    "utilization": 0.275,
+    "baseline": 49
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-mckinley",
+    "sessions": 50,
+    "energyKwh": 1946,
+    "avgDwellMin": 34,
+    "utilization": 0.197,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-mckinley",
+    "sessions": 51,
+    "energyKwh": 1985,
+    "avgDwellMin": 38,
+    "utilization": 0.224,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-mckinley",
+    "sessions": 50,
+    "energyKwh": 1946,
+    "avgDwellMin": 43,
+    "utilization": 0.249,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-mckinley",
+    "sessions": 52,
+    "energyKwh": 2024,
+    "avgDwellMin": 40,
+    "utilization": 0.241,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-mckinley",
+    "sessions": 52,
+    "energyKwh": 2024,
+    "avgDwellMin": 36,
+    "utilization": 0.217,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-mckinley",
+    "sessions": 61,
+    "energyKwh": 2374,
+    "avgDwellMin": 36,
+    "utilization": 0.254,
+    "baseline": 49
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-mckinley",
+    "sessions": 64,
+    "energyKwh": 2491,
+    "avgDwellMin": 37,
+    "utilization": 0.274,
+    "baseline": 49
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-mckinley",
+    "sessions": 51,
+    "energyKwh": 1985,
+    "avgDwellMin": 45,
+    "utilization": 0.266,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-mckinley",
+    "sessions": 51,
+    "energyKwh": 1985,
+    "avgDwellMin": 38,
+    "utilization": 0.224,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-mckinley",
+    "sessions": 42,
+    "energyKwh": 1635,
+    "avgDwellMin": 39,
+    "utilization": 0.19,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-mckinley",
+    "sessions": 47,
+    "energyKwh": 1829,
+    "avgDwellMin": 42,
+    "utilization": 0.228,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-mckinley",
+    "sessions": 47,
+    "energyKwh": 1829,
+    "avgDwellMin": 45,
+    "utilization": 0.245,
+    "baseline": 40
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-mckinley",
+    "sessions": 63,
+    "energyKwh": 2452,
+    "avgDwellMin": 38,
+    "utilization": 0.277,
+    "baseline": 49
+  },
+  {
+    "date": "2024-01-14",
+    "stationId": "ev-alabang",
+    "sessions": 39,
+    "energyKwh": 1516,
+    "avgDwellMin": 35,
+    "utilization": 0.118,
+    "baseline": 39
+  },
+  {
+    "date": "2024-01-15",
+    "stationId": "ev-alabang",
+    "sessions": 51,
+    "energyKwh": 1983,
+    "avgDwellMin": 29,
+    "utilization": 0.128,
+    "baseline": 55
+  },
+  {
+    "date": "2024-01-16",
+    "stationId": "ev-alabang",
+    "sessions": 58,
+    "energyKwh": 2255,
+    "avgDwellMin": 36,
+    "utilization": 0.181,
+    "baseline": 55
+  },
+  {
+    "date": "2024-01-17",
+    "stationId": "ev-alabang",
+    "sessions": 56,
+    "energyKwh": 2177,
+    "avgDwellMin": 38,
+    "utilization": 0.185,
+    "baseline": 55
+  },
+  {
+    "date": "2024-01-18",
+    "stationId": "ev-alabang",
+    "sessions": 54,
+    "energyKwh": 2099,
+    "avgDwellMin": 44,
+    "utilization": 0.206,
+    "baseline": 55
+  },
+  {
+    "date": "2024-01-19",
+    "stationId": "ev-alabang",
+    "sessions": 51,
+    "energyKwh": 1983,
+    "avgDwellMin": 35,
+    "utilization": 0.155,
+    "baseline": 55
+  },
+  {
+    "date": "2024-01-20",
+    "stationId": "ev-alabang",
+    "sessions": 46,
+    "energyKwh": 1788,
+    "avgDwellMin": 44,
+    "utilization": 0.176,
+    "baseline": 39
+  },
+  {
+    "date": "2024-01-21",
+    "stationId": "ev-alabang",
+    "sessions": 38,
+    "energyKwh": 1477,
+    "avgDwellMin": 28,
+    "utilization": 0.092,
+    "baseline": 39
+  },
+  {
+    "date": "2024-01-22",
+    "stationId": "ev-alabang",
+    "sessions": 57,
+    "energyKwh": 2216,
+    "avgDwellMin": 36,
+    "utilization": 0.178,
+    "baseline": 55
+  },
+  {
+    "date": "2024-01-23",
+    "stationId": "ev-alabang",
+    "sessions": 53,
+    "energyKwh": 2060,
+    "avgDwellMin": 33,
+    "utilization": 0.152,
+    "baseline": 55
+  },
+  {
+    "date": "2024-01-24",
+    "stationId": "ev-alabang",
+    "sessions": 53,
+    "energyKwh": 2060,
+    "avgDwellMin": 33,
+    "utilization": 0.152,
+    "baseline": 55
+  },
+  {
+    "date": "2024-01-25",
+    "stationId": "ev-alabang",
+    "sessions": 49,
+    "energyKwh": 1905,
+    "avgDwellMin": 34,
+    "utilization": 0.145,
+    "baseline": 55
+  },
+  {
+    "date": "2024-01-26",
+    "stationId": "ev-alabang",
+    "sessions": 57,
+    "energyKwh": 2216,
+    "avgDwellMin": 33,
+    "utilization": 0.163,
+    "baseline": 55
+  },
+  {
+    "date": "2024-01-27",
+    "stationId": "ev-alabang",
+    "sessions": 41,
+    "energyKwh": 1594,
+    "avgDwellMin": 30,
+    "utilization": 0.107,
+    "baseline": 39
+  },
+  {
+    "date": "2024-01-28",
+    "stationId": "ev-alabang",
+    "sessions": 34,
+    "energyKwh": 1322,
+    "avgDwellMin": 36,
+    "utilization": 0.106,
+    "baseline": 39
+  },
+  {
+    "date": "2024-01-29",
+    "stationId": "ev-alabang",
+    "sessions": 53,
+    "energyKwh": 2060,
+    "avgDwellMin": 41,
+    "utilization": 0.189,
+    "baseline": 55
+  },
+  {
+    "date": "2024-01-30",
+    "stationId": "ev-alabang",
+    "sessions": 57,
+    "energyKwh": 2216,
+    "avgDwellMin": 36,
+    "utilization": 0.178,
+    "baseline": 55
+  },
+  {
+    "date": "2024-01-31",
+    "stationId": "ev-alabang",
+    "sessions": 52,
+    "energyKwh": 2021,
+    "avgDwellMin": 36,
+    "utilization": 0.163,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-01",
+    "stationId": "ev-alabang",
+    "sessions": 67,
+    "energyKwh": 2604,
+    "avgDwellMin": 41,
+    "utilization": 0.238,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-02",
+    "stationId": "ev-alabang",
+    "sessions": 56,
+    "energyKwh": 2177,
+    "avgDwellMin": 36,
+    "utilization": 0.175,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-03",
+    "stationId": "ev-alabang",
+    "sessions": 45,
+    "energyKwh": 1749,
+    "avgDwellMin": 37,
+    "utilization": 0.145,
+    "baseline": 39
+  },
+  {
+    "date": "2024-02-04",
+    "stationId": "ev-alabang",
+    "sessions": 47,
+    "energyKwh": 1827,
+    "avgDwellMin": 39,
+    "utilization": 0.159,
+    "baseline": 39
+  },
+  {
+    "date": "2024-02-05",
+    "stationId": "ev-alabang",
+    "sessions": 58,
+    "energyKwh": 2255,
+    "avgDwellMin": 37,
+    "utilization": 0.186,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-06",
+    "stationId": "ev-alabang",
+    "sessions": 68,
+    "energyKwh": 2643,
+    "avgDwellMin": 37,
+    "utilization": 0.218,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-07",
+    "stationId": "ev-alabang",
+    "sessions": 52,
+    "energyKwh": 2021,
+    "avgDwellMin": 39,
+    "utilization": 0.176,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-08",
+    "stationId": "ev-alabang",
+    "sessions": 59,
+    "energyKwh": 2293,
+    "avgDwellMin": 35,
+    "utilization": 0.179,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-09",
+    "stationId": "ev-alabang",
+    "sessions": 58,
+    "energyKwh": 2255,
+    "avgDwellMin": 44,
+    "utilization": 0.222,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-10",
+    "stationId": "ev-alabang",
+    "sessions": 48,
+    "energyKwh": 1866,
+    "avgDwellMin": 41,
+    "utilization": 0.171,
+    "baseline": 39
+  },
+  {
+    "date": "2024-02-11",
+    "stationId": "ev-alabang",
+    "sessions": 41,
+    "energyKwh": 1594,
+    "avgDwellMin": 41,
+    "utilization": 0.146,
+    "baseline": 39
+  },
+  {
+    "date": "2024-02-12",
+    "stationId": "ev-alabang",
+    "sessions": 69,
+    "energyKwh": 2682,
+    "avgDwellMin": 40,
+    "utilization": 0.24,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-13",
+    "stationId": "ev-alabang",
+    "sessions": 61,
+    "energyKwh": 2371,
+    "avgDwellMin": 34,
+    "utilization": 0.18,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-14",
+    "stationId": "ev-alabang",
+    "sessions": 65,
+    "energyKwh": 2527,
+    "avgDwellMin": 35,
+    "utilization": 0.197,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-15",
+    "stationId": "ev-alabang",
+    "sessions": 61,
+    "energyKwh": 2371,
+    "avgDwellMin": 36,
+    "utilization": 0.191,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-16",
+    "stationId": "ev-alabang",
+    "sessions": 56,
+    "energyKwh": 2177,
+    "avgDwellMin": 31,
+    "utilization": 0.151,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-17",
+    "stationId": "ev-alabang",
+    "sessions": 49,
+    "energyKwh": 1905,
+    "avgDwellMin": 41,
+    "utilization": 0.174,
+    "baseline": 39
+  },
+  {
+    "date": "2024-02-18",
+    "stationId": "ev-alabang",
+    "sessions": 45,
+    "energyKwh": 1749,
+    "avgDwellMin": 43,
+    "utilization": 0.168,
+    "baseline": 39
+  },
+  {
+    "date": "2024-02-19",
+    "stationId": "ev-alabang",
+    "sessions": 60,
+    "energyKwh": 2332,
+    "avgDwellMin": 30,
+    "utilization": 0.156,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-20",
+    "stationId": "ev-alabang",
+    "sessions": 63,
+    "energyKwh": 2449,
+    "avgDwellMin": 40,
+    "utilization": 0.219,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-21",
+    "stationId": "ev-alabang",
+    "sessions": 64,
+    "energyKwh": 2488,
+    "avgDwellMin": 38,
+    "utilization": 0.211,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-22",
+    "stationId": "ev-alabang",
+    "sessions": 70,
+    "energyKwh": 2721,
+    "avgDwellMin": 40,
+    "utilization": 0.243,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-23",
+    "stationId": "ev-alabang",
+    "sessions": 61,
+    "energyKwh": 2371,
+    "avgDwellMin": 28,
+    "utilization": 0.148,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-24",
+    "stationId": "ev-alabang",
+    "sessions": 48,
+    "energyKwh": 1866,
+    "avgDwellMin": 35,
+    "utilization": 0.146,
+    "baseline": 39
+  },
+  {
+    "date": "2024-02-25",
+    "stationId": "ev-alabang",
+    "sessions": 41,
+    "energyKwh": 1594,
+    "avgDwellMin": 40,
+    "utilization": 0.142,
+    "baseline": 39
+  },
+  {
+    "date": "2024-02-26",
+    "stationId": "ev-alabang",
+    "sessions": 63,
+    "energyKwh": 2449,
+    "avgDwellMin": 38,
+    "utilization": 0.208,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-27",
+    "stationId": "ev-alabang",
+    "sessions": 64,
+    "energyKwh": 2488,
+    "avgDwellMin": 33,
+    "utilization": 0.183,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-28",
+    "stationId": "ev-alabang",
+    "sessions": 66,
+    "energyKwh": 2566,
+    "avgDwellMin": 37,
+    "utilization": 0.212,
+    "baseline": 55
+  },
+  {
+    "date": "2024-02-29",
+    "stationId": "ev-alabang",
+    "sessions": 63,
+    "energyKwh": 2449,
+    "avgDwellMin": 30,
+    "utilization": 0.164,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-01",
+    "stationId": "ev-alabang",
+    "sessions": 58,
+    "energyKwh": 2255,
+    "avgDwellMin": 29,
+    "utilization": 0.146,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-02",
+    "stationId": "ev-alabang",
+    "sessions": 44,
+    "energyKwh": 1710,
+    "avgDwellMin": 39,
+    "utilization": 0.149,
+    "baseline": 39
+  },
+  {
+    "date": "2024-03-03",
+    "stationId": "ev-alabang",
+    "sessions": 53,
+    "energyKwh": 2060,
+    "avgDwellMin": 34,
+    "utilization": 0.156,
+    "baseline": 39
+  },
+  {
+    "date": "2024-03-04",
+    "stationId": "ev-alabang",
+    "sessions": 67,
+    "energyKwh": 2604,
+    "avgDwellMin": 36,
+    "utilization": 0.209,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-05",
+    "stationId": "ev-alabang",
+    "sessions": 73,
+    "energyKwh": 2838,
+    "avgDwellMin": 35,
+    "utilization": 0.222,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-06",
+    "stationId": "ev-alabang",
+    "sessions": 63,
+    "energyKwh": 2449,
+    "avgDwellMin": 33,
+    "utilization": 0.18,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-07",
+    "stationId": "ev-alabang",
+    "sessions": 66,
+    "energyKwh": 2566,
+    "avgDwellMin": 45,
+    "utilization": 0.258,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-08",
+    "stationId": "ev-alabang",
+    "sessions": 68,
+    "energyKwh": 2643,
+    "avgDwellMin": 40,
+    "utilization": 0.236,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-09",
+    "stationId": "ev-alabang",
+    "sessions": 54,
+    "energyKwh": 2099,
+    "avgDwellMin": 49,
+    "utilization": 0.23,
+    "baseline": 39
+  },
+  {
+    "date": "2024-03-10",
+    "stationId": "ev-alabang",
+    "sessions": 45,
+    "energyKwh": 1749,
+    "avgDwellMin": 31,
+    "utilization": 0.121,
+    "baseline": 39
+  },
+  {
+    "date": "2024-03-11",
+    "stationId": "ev-alabang",
+    "sessions": 63,
+    "energyKwh": 2449,
+    "avgDwellMin": 44,
+    "utilization": 0.241,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-12",
+    "stationId": "ev-alabang",
+    "sessions": 63,
+    "energyKwh": 2449,
+    "avgDwellMin": 34,
+    "utilization": 0.186,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-13",
+    "stationId": "ev-alabang",
+    "sessions": 67,
+    "energyKwh": 2604,
+    "avgDwellMin": 34,
+    "utilization": 0.198,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-14",
+    "stationId": "ev-alabang",
+    "sessions": 74,
+    "energyKwh": 2877,
+    "avgDwellMin": 34,
+    "utilization": 0.218,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-15",
+    "stationId": "ev-alabang",
+    "sessions": 71,
+    "energyKwh": 2760,
+    "avgDwellMin": 38,
+    "utilization": 0.234,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-16",
+    "stationId": "ev-alabang",
+    "sessions": 40,
+    "energyKwh": 1555,
+    "avgDwellMin": 42,
+    "utilization": 0.146,
+    "baseline": 39
+  },
+  {
+    "date": "2024-03-17",
+    "stationId": "ev-alabang",
+    "sessions": 52,
+    "energyKwh": 2021,
+    "avgDwellMin": 40,
+    "utilization": 0.181,
+    "baseline": 39
+  },
+  {
+    "date": "2024-03-18",
+    "stationId": "ev-alabang",
+    "sessions": 77,
+    "energyKwh": 2993,
+    "avgDwellMin": 33,
+    "utilization": 0.221,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-19",
+    "stationId": "ev-alabang",
+    "sessions": 70,
+    "energyKwh": 2721,
+    "avgDwellMin": 36,
+    "utilization": 0.219,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-20",
+    "stationId": "ev-alabang",
+    "sessions": 74,
+    "energyKwh": 2877,
+    "avgDwellMin": 31,
+    "utilization": 0.199,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-21",
+    "stationId": "ev-alabang",
+    "sessions": 67,
+    "energyKwh": 2604,
+    "avgDwellMin": 36,
+    "utilization": 0.209,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-22",
+    "stationId": "ev-alabang",
+    "sessions": 64,
+    "energyKwh": 2488,
+    "avgDwellMin": 30,
+    "utilization": 0.167,
+    "baseline": 55
+  },
+  {
+    "date": "2024-03-23",
+    "stationId": "ev-alabang",
+    "sessions": 50,
+    "energyKwh": 1944,
+    "avgDwellMin": 28,
+    "utilization": 0.122,
+    "baseline": 39
+  }
+]
