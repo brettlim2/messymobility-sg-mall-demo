@@ -1,7 +1,7 @@
 import { useMemo, useState, type ReactNode } from 'react'
 import { GlassPanel } from '../ui/GlassPanel'
 import { TEAL, TEAL_MID, DEEP, MIST, FAINT, VOLT, ICE } from './palette'
-import type { Band, CrossShop, DriftSeg, Hotspot, MallProfile, MixItem, Peer, SchematicFloor, TripChain } from './types'
+import type { Band, DriftSeg, Hotspot, LeakDest, MallProfile, MixItem, Peer, SchematicFloor, SegmentLift, TagLift, TripChain } from './types'
 import { MALL_PROFILES, getMallProfile } from './profiles'
 import { SchematicFloorPlan } from './SchematicFloorPlan'
 
@@ -112,7 +112,7 @@ export function MallSpatialAnalytics() {
         <div className="border-b border-[var(--mn-wire)] p-5 lg:p-7 xl:border-b-0 xl:border-r">
           <div className="flex items-start justify-between gap-3"><div><Label>Observed catchment decay</Label><h3 className="mt-1 text-base font-semibold text-[var(--mn-heading)]">Where {profile.name}’s July audience lives</h3></div><StatusChip kind="observed">Observed panel</StatusChip></div>
           <CatchmentCurve bands={profile.catchment.bands} markKm={profile.catchment.markKm} markLabel={profile.catchment.markLabel} />
-          <div className="mt-4 grid grid-cols-3 gap-2"><SmallFact label="Median home" value={profile.catchment.medHome} /><SmallFact label="Weighted visitors" value={profile.catchment.weightedVisitors} /><SmallFact label="Effective n" value={profile.catchment.ess} /></div>
+          <div className="mt-4 grid grid-cols-3 gap-2"><SmallFact label="Median home" value={profile.catchment.medHome} /><SmallFact label="Weighted reach (est.)" value={profile.catchment.weightedVisitors} /><SmallFact label="Effective n" value={profile.catchment.ess} /></div>
           <p className="mt-3 text-[10px] leading-relaxed text-[var(--mn-faint)]">Cumulative share of panel devices whose modeled home lies within each radius. Weighted corrects for panel coverage bias; both are shown.</p>
         </div>
         <div className="p-5 lg:p-7">
@@ -145,6 +145,20 @@ export function MallSpatialAnalytics() {
         </div>
       </div>
 
+      {/* who visits · behavioural mix + lifestyle lift */}
+      <div className="grid border-b border-[var(--mn-wire)] xl:grid-cols-[1.3fr_1fr]">
+        <div className="border-b border-[var(--mn-wire)] p-5 lg:p-7 xl:border-b-0 xl:border-r">
+          <div className="flex items-start justify-between gap-3"><div><Label>Who visits · behavioural mix</Label><h4 className="mt-1 text-base font-semibold text-[var(--mn-heading)]">{profile.name}’s audience vs the average mall-goer</h4></div><StatusChip kind="modelled">Modelled segments</StatusChip></div>
+          <div className="mt-5 space-y-3">{profile.audience.segments.map((seg) => <SegmentLiftRow key={seg.label} {...seg} max={profile.audience.segments[0].share} />)}</div>
+          <p className="mt-4 text-[9px] leading-relaxed text-[var(--mn-faint)]">Share = of {profile.name}’s July visitors in each modelled segment; lift compares that to the average visitor across covered malls (1.0× = typical).</p>
+        </div>
+        <div className="p-5 lg:p-7">
+          <div className="flex items-start justify-between gap-3"><div><Label>Lifestyle lift</Label><h4 className="mt-1 text-base font-semibold text-[var(--mn-heading)]">What they over-index on</h4></div><StatusChip kind="modelled">Index vs 1.0×</StatusChip></div>
+          <div className="mt-5 space-y-2.5">{profile.audience.tags.map((tag) => <LiftRow key={tag.label} {...tag} />)}</div>
+          <p className="mt-4 text-[9px] leading-relaxed text-[var(--mn-faint)]">{profile.audience.note}</p>
+        </div>
+      </div>
+
       <div className="border-b border-[var(--mn-wire)] p-5 lg:p-7">
         <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between"><div><Label>Modeled trip-chain archetypes</Label><h4 className="mt-1 text-base font-semibold text-[var(--mn-heading)]">The visit is one link in a wider activity chain</h4></div><p className="text-[9px] text-[var(--mn-faint)]">Illustrative allocation · structure informed by July tour model</p></div>
         <div className="mt-5 grid gap-3 lg:grid-cols-2">{profile.tripChains.map((chain) => <TripChainCard key={chain.label} chain={chain} mallName={profile.name} />)}</div>
@@ -153,9 +167,9 @@ export function MallSpatialAnalytics() {
       {/* cross-shopping network + behavioural peers */}
       <div className="grid border-b border-[var(--mn-wire)] xl:grid-cols-[1.4fr_1fr]">
         <div className="border-b border-[var(--mn-wire)] p-5 lg:p-7 xl:border-b-0 xl:border-r">
-          <div className="flex items-start justify-between gap-3"><div><Label>Observed cross-shopping network</Label><h4 className="mt-1 text-base font-semibold text-[var(--mn-heading)]">Where {profile.name}’s visitors also go</h4></div><StatusChip kind="observed">Observed panel</StatusChip></div>
-          <div className="mt-5 space-y-2">{profile.crossShop.map((row) => <OverlapBar key={row.mall} {...row} max={profile.crossShop[0].share} />)}</div>
-          <p className="mt-3 text-[9px] leading-relaxed text-[var(--mn-faint)]">Share of {profile.name}’s July panel also observed at each mall, with shared device counts. Co-visitation, not market share.</p>
+          <div className="flex items-start justify-between gap-3"><div><Label>Observed competitive leakage</Label><h4 className="mt-1 text-base font-semibold text-[var(--mn-heading)]">Where {profile.name}’s visitors also go</h4></div><StatusChip kind="observed">Observed panel</StatusChip></div>
+          <div className="mt-5 space-y-2.5">{profile.leakage.dests.map((row) => <LeakageBar key={row.mall} {...row} max={profile.leakage.dests[0].leak} />)}</div>
+          <p className="mt-3 text-[9px] leading-relaxed text-[var(--mn-faint)]">{profile.leakage.note}</p>
         </div>
         <div className="p-5 lg:p-7">
           <div className="flex items-start justify-between gap-3"><div><Label>Behavioral peers</Label><h4 className="mt-1 text-base font-semibold text-[var(--mn-heading)]">Malls {profile.name} behaves like</h4></div><StatusChip kind="modelled">Embedding</StatusChip></div>
@@ -272,11 +286,16 @@ function MixBar({ label, value, note, color }: MixItem & { color: string }) { re
 
 function SmallFact({ label, value }: { label: string; value: string }) { return <div className="rounded-[8px] border border-[var(--mn-wire)] bg-[var(--mn-card)] p-3"><p className="text-[9px] uppercase tracking-[0.13em] text-[var(--mn-faint)]">{label}</p><p className="mt-1 font-mono text-sm text-[var(--mn-ice)]">{value}</p></div> }
 
+function LeakageBar({ mall, leak, capture, max }: LeakDest & { max: number }) { return <div className="grid grid-cols-[128px_1fr_44px] items-center gap-2 sm:grid-cols-[150px_1fr_44px]"><div><p className="truncate text-[11px] font-medium text-[var(--mn-body)]">{mall}</p><p className="truncate text-[8px] text-[var(--mn-faint)]">we hold {capture}% of theirs</p></div><div className="h-2 overflow-hidden rounded-full bg-[var(--mn-wire)]"><div className="h-full rounded-full" style={{ width: `${(leak / max) * 100}%`, background: TEAL }} /></div><span className="text-right font-mono text-[11px] text-[var(--mn-body)]">{leak}%</span></div> }
+
+function SegmentLiftRow({ label, share, lift, max }: SegmentLift & { max: number }) { const over = lift >= 1; return <div className="grid grid-cols-[132px_1fr_46px] items-center gap-2 sm:grid-cols-[150px_1fr_46px]"><div><p className="truncate text-[11px] font-medium text-[var(--mn-body)]">{label}</p><p className="truncate text-[8px] text-[var(--mn-faint)]">{share}% of visitors</p></div><div className="h-2 overflow-hidden rounded-full bg-[var(--mn-wire)]"><div className="h-full rounded-full" style={{ width: `${(share / max) * 100}%`, background: TEAL }} /></div><span className={`text-right font-mono text-[11px] ${over ? 'text-[var(--mn-teal)]' : 'text-[var(--mn-faint)]'}`}>{lift}×</span></div> }
+
+function LiftRow({ label, lift }: TagLift) { const over = lift >= 1; const w = Math.min(Math.max(lift, 0) / 2, 1) * 100; return <div className="grid grid-cols-[112px_1fr_46px] items-center gap-2 sm:grid-cols-[128px_1fr_46px]"><p className="truncate text-[11px] font-medium text-[var(--mn-body)]">{label}</p><div className="relative h-2 rounded-full bg-[var(--mn-wire)]"><div className="h-full rounded-full" style={{ width: `${w}%`, background: over ? TEAL : MIST }} /><span className="absolute -top-0.5 -bottom-0.5 left-1/2 w-px bg-[var(--mn-faint)]" /></div><span className={`text-right font-mono text-[11px] ${over ? 'text-[var(--mn-teal)]' : 'text-[var(--mn-faint)]'}`}>{lift}×</span></div> }
+
 function AudienceBar({ label, value, note, max }: MixItem & { max: number }) { return <div className="grid grid-cols-[112px_1fr_42px] items-center gap-2 sm:grid-cols-[130px_1fr_48px]"><div><p className="truncate text-[11px] font-medium text-[var(--mn-body)]">{label}</p><p className="truncate text-[8px] text-[var(--mn-faint)]">{note}</p></div><div className="h-2 overflow-hidden rounded-full bg-[var(--mn-wire)]"><div className="h-full rounded-full" style={{ width: `${(value / max) * 100}%`, background: TEAL }} /></div><span className="text-right font-mono text-[11px] text-[var(--mn-body)]">{value}%</span></div> }
 
 function TripChainCard({ chain, mallName }: { chain: TripChain; mallName: string }) { return <div className="rounded-[8px] border border-[var(--mn-wire)] bg-[var(--mn-card)] p-4"><div className="flex items-start justify-between gap-3"><div><p className="text-xs font-semibold text-[var(--mn-heading)]">{chain.label}</p><p className="mt-0.5 text-[9px] text-[var(--mn-faint)]">{chain.segment}</p></div><span className="font-mono text-sm text-[var(--mn-teal)]">{chain.share}</span></div><div className="mt-4 flex items-center overflow-x-auto pb-1">{chain.stops.map((stop, index) => <div key={`${stop}-${index}`} className="contents"><div className="shrink-0 text-center"><span className="mx-auto block h-2.5 w-2.5 rounded-full" style={{ background: stop.includes(mallName) ? TEAL : FAINT }} /><span className="mt-1.5 block max-w-[88px] text-[8px] leading-tight text-[var(--mn-mist)]">{stop}</span></div>{index < chain.stops.length - 1 && <span className="mx-2 mb-4 h-px min-w-5 flex-1 bg-[var(--mn-border)] after:float-right after:-mt-[3px] after:h-1.5 after:w-1.5 after:rotate-45 after:border-r after:border-t after:border-[var(--mn-faint)]" />}</div>)}</div></div> }
 
-function OverlapBar({ mall, share, shared, max }: CrossShop & { max: number }) { return <div className="grid grid-cols-[120px_1fr_92px] items-center gap-3 sm:grid-cols-[140px_1fr_100px]"><span className="truncate text-[11px] text-[var(--mn-body)]">{mall}</span><div className="h-2.5 overflow-hidden rounded-full bg-[var(--mn-wire)]"><div className="h-full rounded-full" style={{ width: `${(share / max) * 100}%`, background: TEAL }} /></div><span className="text-right font-mono text-[11px] text-[var(--mn-ice)]">{share}% <span className="text-[9px] text-[var(--mn-faint)]">· {shared.toLocaleString()}</span></span></div> }
 
 function PeerRow({ mall, sim }: Peer) { return <div className="flex items-center gap-3"><div className="h-1.5 w-14 shrink-0 overflow-hidden rounded-full bg-[var(--mn-wire)]"><div className="h-full rounded-full" style={{ width: `${sim * 100}%`, background: TEAL_MID }} /></div><span className="flex-1 truncate text-[11px] text-[var(--mn-body)]">{mall}</span><span className="font-mono text-[11px] text-[var(--mn-ice)]">{sim.toFixed(3)}</span></div> }
 

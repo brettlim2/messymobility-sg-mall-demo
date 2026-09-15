@@ -19,7 +19,7 @@ export const jem: MallProfile = {
     { label: 'Observed devices', value: '12,562', detail: 'July panel, not total visitors' },
     { label: 'Median dwell', value: '64.1 min', detail: '95% CI · 62.5–65.9' },
     { label: 'Repeat rate', value: '31.4%', detail: '95% CI · 28.8–34.2' },
-    { label: 'Home within 3 km', value: '29.2%', detail: 'median home distance · 5.0 km' },
+    { label: 'Home within 3 km', value: '26.1%', detail: 'median home distance · 5.2 km' },
   ],
   meanDaily: '764',
   trend: [95.4,108.9,134,104.6,94.8,90.7,93.7,92.6,100.8,139.3,109.1,93.3,72.8,77.1,78.6,92.8,128.2,99.5,86.1,75.1,87.3,88.3,99.1,132.6,106.1,94,83.3,99.6,84.5,105.5,152.3],
@@ -38,12 +38,12 @@ export const jem: MallProfile = {
 
   catchment: {
     bands: [
-      { km: 2, label: '2 km', uw: 14.1, w: 11.0 },
-      { km: 3, label: '3 km', uw: 29.2, w: 26.4 },
-      { km: 5, label: '5 km', uw: 50.5, w: 48.4 },
-      { km: 10, label: '10 km', uw: 75.9, w: 74.8 },
+      { km: 2, label: '2 km', uw: 11.9, w: 9.5 },
+      { km: 3, label: '3 km', uw: 26.1, w: 23.9 },
+      { km: 5, label: '5 km', uw: 46.8, w: 45.2 },
+      { km: 10, label: '10 km', uw: 72.7, w: 71.7 },
     ],
-    medHome: '4.96 km', weightedVisitors: '19,921', ess: '18,942', markKm: 3, markLabel: '3 km · 26%',
+    medHome: '5.2 km', weightedVisitors: '≈156k', ess: '9,153', markKm: 3, markLabel: '3 km · 26%',
   },
   rhythm: {
     weekday: [1.2,0.7,0.7,0.4,0.5,2.0,10.1,18.4,45.7,42.9,43.2,56.3,72.5,61.7,53.3,48.6,49.2,63.3,84.8,63.8,39.5,15.4,6.2,3.1],
@@ -93,6 +93,36 @@ export const jem: MallProfile = {
     { mall: 'Northpoint City', share: 7.8, shared: 984 },
     { mall: 'Jewel Changi', share: 7.2, shared: 824 },
   ],
+  leakage: {
+    base: '12,562',
+    note: 'Directional: of this mall\'s July visitors, the share also seen at each mall (leak), and the share of that mall\'s visitors we also hold (capture). Covered malls only.',
+    dests: [
+      { mall: 'Jurong Point', leak: 18.2, capture: 22.1 },
+      { mall: 'VivoCity', leak: 13.4, capture: 13.7 },
+      { mall: 'Bugis Junction', leak: 12.5, capture: 10.8 },
+      { mall: 'Causeway Point', leak: 9.8, capture: 11.8 },
+      { mall: 'Ngee Ann City', leak: 9.4, capture: 9.1 },
+    ],
+  },
+  audience: {
+    note: 'Modelled device attributes indexed vs the average visitor across covered malls (lift = mall share / baseline share). Not verified demographics.',
+    segments: [
+      { label: 'Local resident', share: 19.5, lift: 1.13 },
+      { label: 'Unanchored', share: 19.3, lift: 0.7 },
+      { label: 'School-linked', share: 18.1, lift: 1.08 },
+      { label: 'Town commuter', share: 16.7, lift: 1.17 },
+      { label: 'Works near home', share: 9.8, lift: 1.15 },
+      { label: 'Long-haul commuter', share: 6.5, lift: 1.37 },
+    ],
+    tags: [
+      { label: 'Shopper', lift: 1.27 },
+      { label: 'Transit rider', lift: 1.13 },
+      { label: 'Active lifestyle', lift: 1.07 },
+      { label: 'Foodie', lift: 1.06 },
+      { label: 'Night owl', lift: 1.02 },
+      { label: 'Hawker regular', lift: 1.0 },
+    ],
+  },
   peers: [
     { mall: 'NEX', sim: 0.558 },
     { mall: 'Bugis Junction', sim: 0.486 },

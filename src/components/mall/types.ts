@@ -11,6 +11,9 @@ export interface SesItem { label: string; value: number; tone: string; detail: s
 export interface Fact { label: string; value: string }
 export interface Band { km: number; label: string; uw: number; w: number }
 export interface CrossShop { mall: string; share: number; shared: number }
+export interface LeakDest { mall: string; leak: number; capture: number }
+export interface SegmentLift { label: string; share: number; lift: number }
+export interface TagLift { label: string; lift: number }
 export interface Peer { mall: string; sim: number }
 export interface DriftSeg { segment: string; delta: number }
 export interface TripChain { label: string; share: string; segment: string; stops: string[] }
@@ -81,6 +84,8 @@ export interface MallProfile {
   tripChains: TripChain[]
 
   crossShop: CrossShop[]
+  leakage: { base: string; note: string; dests: LeakDest[] }
+  audience: { note: string; segments: SegmentLift[]; tags: TagLift[] }
   peers: Peer[]
   peersNote: string
   drift: {

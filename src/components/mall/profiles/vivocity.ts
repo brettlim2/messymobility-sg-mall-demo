@@ -19,7 +19,7 @@ export const vivocity: MallProfile = {
     { label: 'Observed devices', value: '12,254', detail: 'July panel, not total visitors' },
     { label: 'Median dwell', value: '72.8 min', detail: '95% CI · 70.6–74.6' },
     { label: 'Repeat rate', value: '25.3%', detail: '95% CI · 22.4–27.5' },
-    { label: 'Home within 3 km', value: '17.5%', detail: 'median home distance · 12.4 km' },
+    { label: 'Home within 3 km', value: '12.0%', detail: 'median home distance · 13.2 km' },
   ],
   meanDaily: '670',
   trend: [86.6,82.1,140.2,123.1,126.2,94.9,86.0,91.2,93.0,137.7,134.1,118.3,72.5,77.6,70.2,79.4,120.6,122.1,113.6,71.1,69.4,73.9,78.6,126.3,115.0,122.5,84.5,82.3,78.1,91.8,137.3],
@@ -38,12 +38,12 @@ export const vivocity: MallProfile = {
 
   catchment: {
     bands: [
-      { km: 2, label: '2 km', uw: 9.3, w: 9.2 },
-      { km: 3, label: '3 km', uw: 16.6, w: 15.9 },
-      { km: 5, label: '5 km', uw: 23.5, w: 20.9 },
-      { km: 10, label: '10 km', uw: 39.4, w: 34.4 },
+      { km: 2, label: '2 km', uw: 6.1, w: 6.0 },
+      { km: 3, label: '3 km', uw: 12.0, w: 11.4 },
+      { km: 5, label: '5 km', uw: 18.1, w: 15.8 },
+      { km: 10, label: '10 km', uw: 35.3, w: 30.3 },
     ],
-    medHome: '12.76 km', weightedVisitors: '17,287', ess: '16,340', markKm: 3, markLabel: '3 km · 16%',
+    medHome: '13.2 km', weightedVisitors: '≈154k', ess: '8,904', markKm: 3, markLabel: '3 km · 12%',
   },
   rhythm: {
     weekday: [0.9,1.0,0.6,0.5,0.7,1.1,2.8,8.1,35.3,29.0,38.7,46.8,64.3,55.1,50.1,42.8,44.2,45.8,59.9,52.3,36.1,12.7,5.9,1.9],
@@ -93,6 +93,36 @@ export const vivocity: MallProfile = {
     { mall: 'Waterway Point', share: 10.6, shared: 965 },
     { mall: 'Tampines Mall', share: 8.7, shared: 1065 },
   ],
+  leakage: {
+    base: '12,254',
+    note: 'Directional: of this mall\'s July visitors, the share also seen at each mall (leak), and the share of that mall\'s visitors we also hold (capture). Covered malls only.',
+    dests: [
+      { mall: 'Bugis Junction', leak: 16.1, capture: 13.5 },
+      { mall: 'Ngee Ann City', leak: 14.4, capture: 13.5 },
+      { mall: 'JEM', leak: 13.7, capture: 13.4 },
+      { mall: 'ION Orchard', leak: 13.5, capture: 13.1 },
+      { mall: 'Plaza Singapura', leak: 13.0, capture: 17.6 },
+    ],
+  },
+  audience: {
+    note: 'Modelled device attributes indexed vs the average visitor across covered malls (lift = mall share / baseline share). Not verified demographics.',
+    segments: [
+      { label: 'Local resident', share: 20.7, lift: 1.2 },
+      { label: 'Unanchored', share: 19.5, lift: 0.7 },
+      { label: 'School-linked', share: 18.8, lift: 1.12 },
+      { label: 'Town commuter', share: 14.8, lift: 1.04 },
+      { label: 'Works near home', share: 10.0, lift: 1.18 },
+      { label: 'Long-haul commuter', share: 5.8, lift: 1.23 },
+    ],
+    tags: [
+      { label: 'Hawker regular', lift: 1.27 },
+      { label: 'Night owl', lift: 1.2 },
+      { label: 'Foodie', lift: 1.18 },
+      { label: 'Active lifestyle', lift: 1.14 },
+      { label: 'Shopper', lift: 1.13 },
+      { label: 'Transit rider', lift: 1.09 },
+    ],
+  },
   peers: [
     { mall: 'Plaza Singapura', sim: 0.480 },
     { mall: 'Jem', sim: 0.457 },
