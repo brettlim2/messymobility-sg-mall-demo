@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://api.vectormobility.io/v1",
+  "baseUrl": "https://api.messymobility.io/v1",
   "auth": "Bearer token · OAuth 2.0 client credentials · issued per subscription tier",
   "tiers": [
     {

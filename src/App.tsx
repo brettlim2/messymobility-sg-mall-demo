@@ -33,7 +33,7 @@ function App() {
             </div>
             <div className="min-w-0">
               <h1 className="font-display text-lg tracking-tight text-[var(--mn-heading)] lg:text-xl">
-                VectorMobility
+                MessyMobility
               </h1>
               <p className="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[var(--mn-mist)]">
                 {isMall ? 'Mall Operations Intelligence' : 'Consumer Behavior Graph'}

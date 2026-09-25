@@ -14,7 +14,7 @@ const BEATS = [
   {
     step: '01',
     title: 'You know where to look.',
-    body: 'VectorMobility is the intelligence layer for real-world decisions across Southeast Asia — where people go, what they say, and how the two connect.',
+    body: 'MessyMobility is the intelligence layer for real-world decisions across Southeast Asia — where people go, what they say, and how the two connect.',
     takeaway: 'Real-world decisions need real-world signal — not just dashboards.',
     persona: null as string | null,
     showBegin: true,
@@ -43,7 +43,7 @@ const BEATS = [
   {
     step: '05',
     title: 'The product is the feed.',
-    body: 'VectorMobility ships as a programmatic API. Query fused social, mobility, and attribution endpoints directly — then build any dashboard on top.',
+    body: 'MessyMobility ships as a programmatic API. Query fused social, mobility, and attribution endpoints directly — then build any dashboard on top.',
     takeaway: 'We sell the Consumer Behavior Graph as an API feed. You own the visualization.',
     persona: 'api',
   },
@@ -71,7 +71,7 @@ const BEATS = [
   {
     step: '09',
     title: 'The category seat is empty.',
-    body: '$850M SEA TAM · 18% CAGR · No player connects narrative back to movement. VectorMobility owns the fusion layer — API-first from day one.',
+    body: '$850M SEA TAM · 18% CAGR · No player connects narrative back to movement. MessyMobility owns the fusion layer — API-first from day one.',
     takeaway: 'First-mover in a new data-licensing category.',
     persona: 'vision',
     cta: true,

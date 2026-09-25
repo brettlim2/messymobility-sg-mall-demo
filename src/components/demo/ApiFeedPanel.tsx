@@ -44,7 +44,7 @@ export function ApiFeedPanel() {
       <GlassPanel variant="bright" className="p-6 lg:p-8">
         <div className="flex flex-col gap-6 lg:flex-row lg:items-start lg:justify-between">
           <div className="max-w-2xl">
-            <SectionEyebrow>VectorMobility API</SectionEyebrow>
+            <SectionEyebrow>MessyMobility API</SectionEyebrow>
             <div className="mt-2">
               <ApiChip />
             </div>
@@ -52,7 +52,7 @@ export function ApiFeedPanel() {
               The product is the feed.
             </h2>
             <p className="mt-3 text-sm leading-relaxed text-[var(--vm-muted)] lg:text-base">
-              VectorMobility delivers a fused <strong className="text-white">Consumer Behavior Graph</strong>{' '}
+              MessyMobility delivers a fused <strong className="text-white">Consumer Behavior Graph</strong>{' '}
               as a programmatic API — social narrative, mobility signal, and causal attribution in one
               queryable layer. Clients pipe it into any BI tool, internal dashboard, CRM, or site-selection
               platform.{' '}
@@ -120,7 +120,7 @@ export function ApiFeedPanel() {
               </span>
             </div>
             <p className="mt-3 text-xs text-[var(--vm-muted)]">
-              MessyNet already powers social intelligence feeds for enterprise clients. VectorMobility
+              MessyNet already powers social intelligence feeds for enterprise clients. MessyMobility
               extends that pattern with fused mobility and causal attribution endpoints.
             </p>
           </div>

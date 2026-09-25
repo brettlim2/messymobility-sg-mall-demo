@@ -35,7 +35,7 @@ export function PersonaChip({
     marco: 'Strategy view',
     reyes: 'Network ops view',
     fusion: 'Consumer Behavior Graph',
-    neutral: 'VectorMobility',
+    neutral: 'MessyMobility',
   }
   return (
     <span className={`inline-flex items-center rounded-full border px-3 py-1 text-xs font-medium tracking-wide ${styles[persona]}`}>

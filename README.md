@@ -1,6 +1,6 @@
-# VectorMobility · Mall Operations Intelligence (demo)
+# MessyMobility · Mall Operations Intelligence (demo)
 
-A public demo of VectorMobility's mall operator dashboard, styled in the
+A public demo of MessyMobility's mall operator dashboard, styled in the
 MessyNet "Signal in the Dark" design system. It shows how a July 2026 Singapore
 mobility panel reads three mall archetypes — **Jem** (transit town-centre),
 **VivoCity** (harbourfront destination) and **Waterway Point** (suburban
@@ -27,7 +27,7 @@ is a self-contained frontend build.
 ## Relationship to the analytics repo
 
 This repo is a **frontend mirror** of the mall dashboard in the source-of-truth
-analytics repo, `messynet/VectorMobility_Analytics`. It is deliberately a
+analytics repo, `messynet/MessyMobility_Analytics`. It is deliberately a
 **lightweight presentation build**: the consumer-graph mode renders from the
 precomputed data in `public/demo/`, so — relative to the source repo — it
 intentionally omits:
@@ -44,7 +44,7 @@ regenerate `data/analytics_out_july/mall.json`; that file is copied here as
 `public/demo/mall.json`.
 
 **To update:** re-sync `src/components/mall/`, any other changed `src/` files, and
-`public/demo/mall.json` from `messynet/VectorMobility_Analytics`. Do **not**
+`public/demo/mall.json` from `messynet/MessyMobility_Analytics`. Do **not**
 re-introduce the pipeline worker or the raw CSVs — that divergence is intentional
 and keeps the client demo fast to load.
 
