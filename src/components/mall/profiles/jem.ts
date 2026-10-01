@@ -2,7 +2,7 @@ import type { MallProfile } from '../types'
 import { TEAL, TEAL_MID, DEEP, SES_RAMP } from '../palette'
 
 // JEM — transit-anchored town-centre mall (Jurong East). Observed figures from
-// the July 2026 Veraset bundle; indoor Wi-Fi hotspots are illustrative.
+// the July 2026 GPS mobility bundle; indoor Wi-Fi hotspots are illustrative.
 export const jem: MallProfile = {
   id: 'jem',
   name: 'Jem',

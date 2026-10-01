@@ -13,7 +13,7 @@ Use the mall selector at the top to switch between the three malls.
 - **Observed** metrics (KPIs, mobility index, catchment decay, hourly rhythm,
   competitive leakage, audience segment mix, lifestyle lift, behavioral peers,
   June→July audience drift) are transcribed
-  from a July 2026 Singapore Veraset panel. They are **relative panel signals,
+  from a July 2026 Singapore GPS mobility panel. They are **relative panel signals,
   not absolute mall totals.**
 - **Modelled** attributes (SES mix, behavior segments, trip-chain archetypes)
   are area-level, illustrative signals.
@@ -33,7 +33,7 @@ precomputed data in `public/demo/`, so — relative to the source repo — it
 intentionally omits:
 
 - the client-side pipeline worker in `App.tsx` (`usePipelineWorker`), and
-- the raw datasets it would process — `public/singapore_veraset_sample.csv`
+- the raw datasets it would process — `public/singapore_gps_sample.csv`
   (~60 MB) and `public/metro_manila_movement_10k.csv` (~5 MB) — plus the
   unreferenced full-resolution floor-plan PNGs (`jem-level-*.png`; the app uses
   the `*-display.png` variants).

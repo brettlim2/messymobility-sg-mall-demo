@@ -2,7 +2,7 @@ import type { MallProfile } from '../types'
 import { TEAL, TEAL_MID, DEEP, SES_RAMP } from '../palette'
 
 // WATERWAY POINT — suburban heartland mall (Punggol). Observed figures from the
-// July 2026 Veraset bundle; the floor plan is a synthetic schematic and the
+// July 2026 GPS mobility bundle; the floor plan is a synthetic schematic and the
 // indoor Wi-Fi hotspots are illustrative.
 export const waterwayPoint: MallProfile = {
   id: 'waterway_point',

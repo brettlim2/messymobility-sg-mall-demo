@@ -17,7 +17,7 @@ export function MotifDistributionChart() {
 
   const data = result.motifDistribution.map((d) => ({
     motif: d.label,
-    veraset: Number(d.pct.toFixed(1)),
+    panel: Number(d.pct.toFixed(1)),
     paperPhone: PAPER_MOTIF_REFERENCE[d.label] ?? 0,
     paperSurvey: PAPER_SURVEY_REFERENCE[d.label] ?? 0,
   }))
@@ -35,7 +35,7 @@ export function MotifDistributionChart() {
             formatter={(v) => [`${v}%`, '']}
           />
           <Legend />
-          <Bar dataKey="veraset" name="Singapore (Veraset)" fill="#22d3ee" radius={[4, 4, 0, 0]} />
+          <Bar dataKey="panel" name="Singapore (GPS panel)" fill="#22d3ee" radius={[4, 4, 0, 0]} />
           <Bar dataKey="paperPhone" name="Paper (CDR)" fill="#6366f1" radius={[4, 4, 0, 0]} />
           <Bar dataKey="paperSurvey" name="Paper (Survey)" fill="#f472b6" radius={[4, 4, 0, 0]} />
         </BarChart>

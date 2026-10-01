@@ -364,7 +364,7 @@ export function MapView({ className = '' }: { className?: string }) {
         <MapGL mapStyle={MAP_STYLE} attributionControl={false} />
       </DeckGL>
       <div className="pointer-events-none absolute bottom-3 left-3 rounded-lg border border-white/[0.08] bg-black/60 px-3 py-2 text-[11px] text-[var(--vm-muted)] backdrop-blur-md">
-        {showMobilityBadge && 'Singapore · Veraset GPS · H3 res-10 · CARTO Dark'}
+        {showMobilityBadge && 'Singapore · GPS panel · H3 res-10 · CARTO Dark'}
         {showFusionBadge && 'Consumer Behavior Graph · NCR + CALABARZON'}
       </div>
       {layers.lqChoropleth && appMode === 'analyst' && (

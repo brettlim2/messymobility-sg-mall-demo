@@ -26,7 +26,7 @@ export function AnalystDashboard() {
 
   useEffect(() => {
     const metaUrl = new URL(
-      `${import.meta.env.BASE_URL}singapore_veraset_sample.meta.json`,
+      `${import.meta.env.BASE_URL}singapore_gps_sample.meta.json`,
       window.location.href,
     ).href
     fetch(metaUrl)
@@ -42,8 +42,8 @@ export function AnalystDashboard() {
   }, [])
 
   const subtitle = sampleMeta
-    ? `Jiang, Ferreira & González (2015) · Veraset Singapore GPS · ${sampleMeta.userCount.toLocaleString()} users · ${sampleMeta.pingCount.toLocaleString()} pings · ${sampleMeta.dateRange[0]} – ${sampleMeta.dateRange[1]}`
-    : 'Jiang, Ferreira & González (2015) · Veraset Singapore GPS · Jun 1–7, 2026'
+    ? `Jiang, Ferreira & González (2015) · Singapore GPS mobility panel · ${sampleMeta.userCount.toLocaleString()} users · ${sampleMeta.pingCount.toLocaleString()} pings · ${sampleMeta.dateRange[0]} – ${sampleMeta.dateRange[1]}`
+    : 'Jiang, Ferreira & González (2015) · Singapore GPS mobility panel · Jun 1–7, 2026'
 
   return (
     <div className="flex min-w-0 flex-col gap-5">
@@ -88,7 +88,7 @@ export function AnalystDashboard() {
 
       <p className="pb-2 text-center text-[11px] text-slate-600">
         Population expansion uses illustrative Singapore zone figures (§4.5). Paper reference values from
-        the 2015 Singapore CDR study — Veraset GPS sample compared directly on the same geography.
+        the 2015 Singapore CDR study — GPS mobility sample compared directly on the same geography.
       </p>
     </div>
   )

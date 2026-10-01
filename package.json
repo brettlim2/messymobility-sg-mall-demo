@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "generate:demo": "node --experimental-strip-types scripts/generate-fusion-data.mts",
-    "sample:veraset": "python3 scripts/sample-veraset-sg.py",
+    "sample:gps": "python3 scripts/sample-gps-sg.py",
     "analyze:singapore": "tsx scripts/analyze-singapore.mts",
     "test:pipeline": "tsx scripts/test-pipeline.mts"
   },

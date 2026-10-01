@@ -2,7 +2,7 @@ import type { MallProfile } from '../types'
 import { TEAL, TEAL_MID, DEEP, SES_RAMP } from '../palette'
 
 // VIVOCITY — harbourfront destination mall (HarbourFront). Observed figures from
-// the July 2026 Veraset bundle; the floor plan is a synthetic schematic and the
+// the July 2026 GPS mobility bundle; the floor plan is a synthetic schematic and the
 // indoor Wi-Fi hotspots are illustrative.
 export const vivocity: MallProfile = {
   id: 'vivocity',

@@ -35,7 +35,7 @@ export function usePipelineWorker() {
     // otherwise resolve against the worker's own location (the assets folder),
     // which breaks when the site is served from a subpath (e.g. GitHub Pages).
     const csvUrl = new URL(
-      `${import.meta.env.BASE_URL}singapore_veraset_sample.csv`,
+      `${import.meta.env.BASE_URL}singapore_gps_sample.csv`,
       window.location.href,
     ).href
     worker.postMessage({ type: 'init', csvUrl })

@@ -1,5 +1,5 @@
 // Data model for the multi-mall spatial analytics demo.
-// Observed fields are transcribed from the July 2026 Veraset bundle
+// Observed fields are transcribed from the July 2026 GPS mobility bundle
 // (data/analytics_out_july/mall_product.json + mall.json); SES, behaviour,
 // trip-chains and the indoor Wi-Fi/movement layer are illustrative/synthetic.
 
